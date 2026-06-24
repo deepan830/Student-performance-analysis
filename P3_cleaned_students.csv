@@ -1,0 +1,1501 @@
+student_id,gender,department,location,study_mode,parental_edu,internet_access,part_time_job,study_hours_day,attendance_pct,prev_gpa,final_grade,dropout_risk,attendance_band,grade_letter
+STU0001,Male,Electronics,Rural,Full-Time,None,1,0,1.0,80.0,6.46,6.08,0,75-89%,C
+STU0002,Female,Civil,Semi-Urban,Full-Time,Graduate,1,0,7.0,60.0,6.06,8.77,0,60-74%,A
+STU0003,Female,Mechanical,Rural,Part-Time,None,0,1,7.0,60.0,4.59,5.9,0,60-74%,C
+STU0004,Female,Computer Science,Semi-Urban,Part-Time,High School,0,1,6.0,93.0,5.5,5.04,0,90%+,D
+STU0005,Male,Civil,Rural,Full-Time,Post-Graduate,1,0,7.0,67.0,6.97,7.56,0,60-74%,B
+STU0006,Male,Mechanical,Semi-Urban,Full-Time,High School,1,0,2.0,57.0,9.75,7.96,1,<60%,B
+STU0007,Male,Arts,Rural,Full-Time,Post-Graduate,0,1,9.0,73.0,4.58,3.74,1,60-74%,F
+STU0008,Male,Electronics,Semi-Urban,Full-Time,Graduate,1,0,6.0,86.0,9.79,7.76,0,75-89%,B
+STU0009,Female,Computer Science,Urban,Part-Time,High School,1,0,8.0,98.0,9.92,9.61,0,90%+,A
+STU0010,Female,Electronics,Urban,Full-Time,Graduate,0,0,4.0,48.0,5.67,4.64,1,<60%,D
+STU0011,Male,Arts,Urban,Full-Time,Post-Graduate,1,0,6.0,69.0,7.89,6.81,0,60-74%,C
+STU0012,Female,Mechanical,Urban,Full-Time,Graduate,1,0,9.0,86.0,8.57,9.6,0,75-89%,A
+STU0013,Male,Civil,Semi-Urban,Full-Time,Graduate,1,1,8.0,56.0,6.44,6.38,1,<60%,C
+STU0014,Female,Electronics,Urban,Full-Time,Post-Graduate,1,0,1.0,55.0,6.86,4.31,1,<60%,D
+STU0015,Female,Civil,Urban,Part-Time,Graduate,0,0,5.0,92.0,5.91,7.31,0,90%+,B
+STU0016,Male,Electronics,Semi-Urban,Full-Time,Graduate,1,0,1.0,85.0,7.05,7.03,1,75-89%,B
+STU0017,Male,Computer Science,Urban,Full-Time,Graduate,1,0,5.0,69.0,6.91,7.69,0,60-74%,B
+STU0018,Female,Arts,Semi-Urban,Full-Time,Graduate,1,1,7.0,85.0,7.05,6.62,0,75-89%,C
+STU0019,Female,Computer Science,Urban,Part-Time,Post-Graduate,1,0,9.0,58.0,7.5,8.22,1,<60%,B
+STU0020,Female,Civil,Rural,Part-Time,Post-Graduate,0,0,2.0,48.0,9.58,6.19,1,<60%,C
+STU0021,Female,Civil,Urban,Full-Time,Graduate,0,1,9.0,82.0,5.22,5.84,0,75-89%,C
+STU0022,Female,Electronics,Semi-Urban,Full-Time,High School,0,0,6.0,42.0,8.77,6.89,1,<60%,C
+STU0023,Female,Electronics,Rural,Full-Time,None,1,0,9.0,70.0,7.05,8.31,0,60-74%,B
+STU0024,Male,Computer Science,Rural,Full-Time,High School,0,0,2.0,40.0,8.88,5.48,1,<60%,D
+STU0025,Female,Civil,Urban,Full-Time,Graduate,1,1,3.0,64.0,7.4,5.22,0,60-74%,D
+STU0026,Female,Business,Urban,Full-Time,High School,1,0,2.0,44.0,4.6,4.78,1,<60%,D
+STU0027,Female,Civil,Urban,Part-Time,Graduate,1,0,4.0,65.0,5.85,6.53,0,60-74%,C
+STU0028,Female,Electronics,Urban,Part-Time,High School,1,0,8.0,48.0,7.05,7.67,1,<60%,B
+STU0029,Male,Business,Urban,Full-Time,High School,1,0,4.0,65.0,7.06,7.46,0,60-74%,B
+STU0030,Female,Arts,Urban,Part-Time,High School,1,0,5.0,54.0,7.59,4.91,1,<60%,D
+STU0031,Male,Arts,Urban,Part-Time,High School,1,0,9.0,70.0,5.82,6.26,0,60-74%,C
+STU0032,Female,Arts,Rural,Full-Time,Graduate,1,1,9.0,83.0,7.82,7.98,0,75-89%,B
+STU0033,Female,Mechanical,Semi-Urban,Full-Time,High School,1,0,6.0,78.0,7.05,6.45,0,75-89%,C
+STU0034,Female,Business,Urban,Full-Time,Graduate,1,0,3.0,68.0,4.89,4.29,0,60-74%,D
+STU0035,Male,Business,Rural,Full-Time,High School,1,0,4.0,82.0,5.74,7.4,0,75-89%,B
+STU0036,Female,Civil,Urban,Full-Time,None,1,0,3.0,68.0,6.83,6.65,0,60-74%,C
+STU0037,Male,Computer Science,Rural,Part-Time,High School,1,0,1.0,58.0,5.55,5.31,1,<60%,D
+STU0038,Female,Business,Semi-Urban,Full-Time,Graduate,1,0,8.0,98.0,7.71,8.82,0,90%+,A
+STU0039,Female,Electronics,Urban,Full-Time,High School,1,0,4.0,86.0,9.0,6.97,0,75-89%,C
+STU0040,Male,Electronics,Semi-Urban,Full-Time,None,1,0,5.0,88.0,4.53,5.4,0,75-89%,D
+STU0041,Female,Arts,Urban,Full-Time,Graduate,1,0,4.0,73.0,5.84,5.6,0,60-74%,C
+STU0042,Male,Electronics,Urban,Full-Time,Graduate,0,1,7.0,70.0,7.94,8.0,0,60-74%,B
+STU0043,Male,Business,Semi-Urban,Full-Time,Graduate,1,0,8.0,49.0,7.67,5.6,1,<60%,C
+STU0044,Male,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,1.0,48.0,8.98,5.14,1,<60%,D
+STU0045,Female,Business,Urban,Part-Time,Post-Graduate,1,0,1.0,48.0,8.05,7.15,1,<60%,B
+STU0046,Female,Business,Semi-Urban,Full-Time,High School,1,0,7.0,70.0,8.81,8.53,0,60-74%,A
+STU0047,Female,Arts,Rural,Full-Time,None,1,0,3.0,62.0,4.07,4.73,0,60-74%,D
+STU0048,Female,Business,Rural,Full-Time,Post-Graduate,1,0,3.0,95.0,4.78,4.94,0,90%+,D
+STU0049,Male,Civil,Semi-Urban,Full-Time,Graduate,1,0,2.0,67.0,9.05,7.34,0,60-74%,B
+STU0050,Female,Arts,Semi-Urban,Full-Time,High School,1,1,4.0,52.0,7.66,4.22,1,<60%,D
+STU0051,Male,Civil,Urban,Full-Time,Graduate,1,0,4.0,44.0,4.94,5.15,1,<60%,D
+STU0052,Male,Electronics,Semi-Urban,Full-Time,High School,1,0,2.0,98.0,6.67,6.61,0,90%+,C
+STU0053,Female,Computer Science,Rural,Full-Time,High School,0,0,2.0,93.0,6.94,6.69,0,90%+,C
+STU0054,Male,Computer Science,Urban,Part-Time,Graduate,1,0,3.0,97.0,7.92,8.04,0,90%+,B
+STU0055,Male,Business,Urban,Full-Time,Post-Graduate,1,0,3.0,71.0,7.93,5.97,0,60-74%,C
+STU0056,Male,Computer Science,Rural,Full-Time,Graduate,1,1,2.0,70.0,8.67,7.21,0,60-74%,B
+STU0057,Male,Mechanical,Rural,Full-Time,High School,1,0,7.0,73.0,9.91,8.42,0,60-74%,B
+STU0058,Male,Business,Urban,Full-Time,Graduate,1,1,3.0,42.0,7.15,4.67,1,<60%,D
+STU0059,Female,Mechanical,Rural,Full-Time,High School,1,1,6.0,70.0,9.53,8.08,0,60-74%,B
+STU0060,Female,Mechanical,Rural,Full-Time,High School,1,0,9.0,42.0,8.33,8.09,0,<60%,B
+STU0061,Female,Computer Science,Semi-Urban,Full-Time,High School,1,0,3.0,68.0,8.89,7.7,0,60-74%,B
+STU0062,Female,Arts,Urban,Part-Time,Post-Graduate,1,0,2.0,78.0,4.57,5.63,0,75-89%,C
+STU0063,Female,Arts,Rural,Full-Time,High School,0,0,1.0,70.0,5.3,3.94,1,60-74%,F
+STU0064,Male,Mechanical,Semi-Urban,Full-Time,Graduate,0,0,9.0,71.0,5.31,7.14,0,60-74%,B
+STU0065,Female,Computer Science,Rural,Part-Time,High School,1,0,2.0,82.0,7.05,5.76,1,75-89%,C
+STU0066,Male,Arts,Urban,Part-Time,Post-Graduate,1,0,7.0,78.0,5.69,8.73,0,75-89%,A
+STU0067,Female,Business,Rural,Full-Time,High School,1,1,2.0,98.0,5.17,4.12,1,90%+,D
+STU0068,Female,Civil,Urban,Full-Time,High School,1,0,1.0,54.0,9.65,5.85,1,<60%,C
+STU0069,Female,Business,Urban,Full-Time,Graduate,1,1,6.0,63.0,6.88,6.98,0,60-74%,C
+STU0070,Male,Business,Urban,Part-Time,Graduate,1,0,7.0,82.0,7.22,9.42,0,75-89%,A
+STU0071,Male,Mechanical,Semi-Urban,Full-Time,High School,0,1,3.0,53.0,6.81,3.71,1,<60%,F
+STU0072,Female,Computer Science,Rural,Full-Time,High School,1,0,3.0,54.0,6.78,6.3,1,<60%,C
+STU0073,Male,Computer Science,Semi-Urban,Part-Time,Graduate,0,1,7.0,50.0,5.52,5.44,1,<60%,D
+STU0074,Female,Computer Science,Semi-Urban,Full-Time,Post-Graduate,1,1,5.0,97.0,5.92,8.26,0,90%+,B
+STU0075,Female,Civil,Semi-Urban,Full-Time,Post-Graduate,1,1,8.0,48.0,9.18,8.14,1,<60%,B
+STU0076,Male,Civil,Urban,Full-Time,Post-Graduate,1,0,6.0,43.0,9.61,6.92,1,<60%,C
+STU0077,Female,Mechanical,Urban,Full-Time,Graduate,0,0,8.0,82.0,5.62,6.07,0,75-89%,C
+STU0078,Male,Computer Science,Rural,Full-Time,None,1,0,3.0,48.0,6.76,6.24,1,<60%,C
+STU0079,Male,Arts,Urban,Full-Time,High School,1,0,5.0,94.0,5.08,8.5,0,90%+,B
+STU0080,Male,Civil,Semi-Urban,Full-Time,Post-Graduate,1,0,9.0,84.0,8.74,10.0,0,75-89%,A
+STU0081,Female,Computer Science,Rural,Full-Time,High School,1,0,3.0,85.0,7.97,7.74,0,75-89%,B
+STU0082,Male,Electronics,Rural,Full-Time,Graduate,0,1,4.0,70.0,8.76,7.04,0,60-74%,B
+STU0083,Male,Civil,Semi-Urban,Full-Time,Graduate,1,1,5.0,65.0,9.71,5.76,0,60-74%,C
+STU0084,Female,Mechanical,Semi-Urban,Full-Time,High School,1,0,2.0,92.0,8.87,5.88,0,90%+,C
+STU0085,Male,Business,Rural,Full-Time,None,1,0,8.0,90.0,8.55,9.45,0,90%+,A
+STU0086,Female,Computer Science,Semi-Urban,Full-Time,High School,1,1,5.0,87.0,4.18,7.03,0,75-89%,B
+STU0087,Male,Arts,Rural,Full-Time,High School,1,0,6.0,61.0,5.38,6.79,0,60-74%,C
+STU0088,Female,Computer Science,Urban,Full-Time,Graduate,1,1,9.0,51.0,9.74,9.09,1,<60%,A
+STU0089,Male,Civil,Semi-Urban,Full-Time,None,1,0,8.0,66.0,5.05,5.39,0,60-74%,D
+STU0090,Male,Mechanical,Urban,Full-Time,Graduate,1,0,9.0,50.0,9.54,7.35,1,<60%,B
+STU0091,Female,Mechanical,Semi-Urban,Full-Time,High School,1,0,1.0,78.0,7.14,5.94,0,75-89%,C
+STU0092,Female,Mechanical,Rural,Full-Time,Post-Graduate,1,0,7.0,58.0,7.27,7.41,1,<60%,B
+STU0093,Male,Computer Science,Semi-Urban,Full-Time,Post-Graduate,0,1,1.0,92.0,9.33,5.66,0,90%+,C
+STU0094,Male,Mechanical,Urban,Full-Time,Graduate,1,0,9.0,42.0,4.71,5.06,0,<60%,D
+STU0095,Female,Computer Science,Urban,Full-Time,High School,1,0,5.0,91.0,9.24,8.3,0,90%+,B
+STU0096,Female,Civil,Urban,Full-Time,Graduate,1,0,7.0,57.0,6.6,7.35,1,<60%,B
+STU0097,Female,Mechanical,Urban,Full-Time,High School,1,0,5.0,43.0,4.89,4.71,1,<60%,D
+STU0098,Female,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,2.0,81.0,7.38,6.53,0,75-89%,C
+STU0099,Female,Business,Urban,Part-Time,High School,0,0,9.0,93.0,4.52,9.05,0,90%+,A
+STU0100,Female,Business,Semi-Urban,Full-Time,Post-Graduate,1,1,4.0,43.0,7.73,5.51,1,<60%,C
+STU0101,Female,Business,Urban,Part-Time,Graduate,1,0,2.0,91.0,8.62,7.39,0,90%+,B
+STU0102,Male,Computer Science,Urban,Full-Time,Post-Graduate,1,0,9.0,69.0,9.02,10.0,0,60-74%,A
+STU0103,Female,Civil,Semi-Urban,Full-Time,Graduate,0,0,8.0,71.0,4.82,6.17,0,60-74%,C
+STU0104,Male,Business,Rural,Full-Time,None,0,1,5.0,44.0,7.18,3.89,1,<60%,F
+STU0105,Male,Mechanical,Urban,Full-Time,None,0,0,9.0,44.0,7.89,7.17,1,<60%,B
+STU0106,Female,Business,Semi-Urban,Full-Time,None,1,0,9.0,49.0,9.22,8.69,1,<60%,A
+STU0107,Female,Computer Science,Semi-Urban,Part-Time,Graduate,0,1,7.0,62.0,8.41,7.56,0,60-74%,B
+STU0108,Male,Business,Urban,Full-Time,High School,1,1,7.0,57.0,6.24,6.56,1,<60%,C
+STU0109,Male,Computer Science,Semi-Urban,Full-Time,High School,1,0,6.0,83.0,4.34,7.55,0,75-89%,B
+STU0110,Female,Electronics,Urban,Full-Time,None,1,0,3.0,81.0,5.47,5.81,0,75-89%,C
+STU0111,Female,Computer Science,Rural,Full-Time,Graduate,1,1,3.0,90.0,7.05,5.81,0,90%+,C
+STU0112,Female,Civil,Rural,Full-Time,Post-Graduate,0,1,5.0,70.0,8.4,5.89,1,60-74%,C
+STU0113,Male,Mechanical,Rural,Part-Time,High School,0,1,8.0,55.0,4.05,4.79,1,<60%,D
+STU0114,Male,Arts,Urban,Full-Time,High School,1,0,9.0,70.0,6.33,8.5,0,60-74%,B
+STU0115,Female,Arts,Urban,Part-Time,High School,1,0,6.0,66.0,7.99,9.45,0,60-74%,A
+STU0116,Female,Computer Science,Urban,Full-Time,High School,1,0,7.0,52.0,7.05,6.69,1,<60%,C
+STU0117,Female,Electronics,Urban,Part-Time,High School,0,0,3.0,52.0,9.77,6.49,1,<60%,C
+STU0118,Female,Business,Urban,Full-Time,High School,1,0,4.0,73.0,9.36,6.4,0,60-74%,C
+STU0119,Female,Civil,Urban,Full-Time,High School,1,0,9.0,44.0,6.89,6.98,1,<60%,C
+STU0120,Male,Civil,Urban,Part-Time,Post-Graduate,1,0,3.0,54.0,6.66,5.57,1,<60%,C
+STU0121,Male,Computer Science,Semi-Urban,Part-Time,Graduate,1,0,4.0,54.0,4.15,4.34,1,<60%,D
+STU0122,Male,Arts,Semi-Urban,Full-Time,Graduate,1,0,4.0,89.0,4.45,6.41,0,75-89%,C
+STU0123,Male,Electronics,Urban,Full-Time,Post-Graduate,1,1,7.0,99.0,6.3,8.66,0,90%+,A
+STU0124,Female,Mechanical,Urban,Full-Time,Post-Graduate,0,0,5.0,48.0,6.14,5.04,1,<60%,D
+STU0125,Female,Business,Urban,Full-Time,None,0,0,2.0,70.0,9.71,5.35,1,60-74%,D
+STU0126,Female,Mechanical,Urban,Full-Time,Graduate,1,1,1.0,70.0,9.19,5.53,0,60-74%,C
+STU0127,Male,Civil,Semi-Urban,Full-Time,Post-Graduate,1,1,8.0,83.0,6.76,7.88,0,75-89%,B
+STU0128,Female,Arts,Urban,Full-Time,Graduate,1,0,8.0,48.0,9.21,7.21,1,<60%,B
+STU0129,Female,Mechanical,Semi-Urban,Full-Time,Graduate,1,0,7.0,72.0,4.89,6.42,0,60-74%,C
+STU0130,Male,Mechanical,Urban,Full-Time,Graduate,1,0,7.0,85.0,5.74,8.07,0,75-89%,B
+STU0131,Male,Arts,Semi-Urban,Full-Time,Post-Graduate,0,0,4.0,50.0,9.68,6.74,1,<60%,C
+STU0132,Male,Business,Urban,Full-Time,None,1,1,9.0,89.0,4.63,8.75,0,75-89%,A
+STU0133,Female,Arts,Urban,Part-Time,Post-Graduate,1,0,4.0,68.0,6.02,6.53,0,60-74%,C
+STU0134,Female,Mechanical,Urban,Full-Time,High School,1,1,3.0,83.0,4.81,6.36,0,75-89%,C
+STU0135,Male,Civil,Urban,Full-Time,Post-Graduate,0,0,3.0,87.0,9.19,6.28,0,75-89%,C
+STU0136,Female,Business,Urban,Full-Time,High School,1,1,8.0,69.0,7.72,7.03,0,60-74%,B
+STU0137,Male,Computer Science,Urban,Full-Time,Graduate,1,1,3.0,63.0,9.59,5.4,0,60-74%,D
+STU0138,Male,Electronics,Rural,Full-Time,None,1,0,7.0,54.0,4.89,5.08,0,<60%,D
+STU0139,Male,Civil,Urban,Full-Time,Graduate,0,0,5.0,82.0,6.0,5.87,0,75-89%,C
+STU0140,Female,Arts,Urban,Full-Time,Graduate,1,1,2.0,54.0,5.42,4.58,1,<60%,D
+STU0141,Male,Civil,Rural,Full-Time,Post-Graduate,1,1,1.0,70.0,7.46,4.64,1,60-74%,D
+STU0142,Male,Civil,Rural,Part-Time,High School,0,0,4.0,70.0,7.98,6.42,0,60-74%,C
+STU0143,Male,Arts,Urban,Full-Time,Graduate,0,0,5.0,41.0,7.31,4.69,1,<60%,D
+STU0144,Male,Computer Science,Urban,Part-Time,Graduate,0,0,8.0,63.0,6.09,6.62,0,60-74%,C
+STU0145,Male,Arts,Semi-Urban,Full-Time,Graduate,0,0,5.0,90.0,5.9,5.58,0,90%+,C
+STU0146,Female,Business,Rural,Full-Time,Graduate,1,0,4.0,98.0,4.83,7.35,0,90%+,B
+STU0147,Male,Business,Rural,Full-Time,Graduate,1,0,4.0,87.0,9.32,7.95,0,75-89%,B
+STU0148,Female,Electronics,Semi-Urban,Full-Time,None,0,0,5.0,85.0,9.43,8.38,0,75-89%,B
+STU0149,Female,Electronics,Urban,Full-Time,Graduate,1,0,1.0,88.0,4.93,5.94,1,75-89%,C
+STU0150,Female,Mechanical,Semi-Urban,Full-Time,High School,1,0,1.0,53.0,8.45,5.65,1,<60%,C
+STU0151,Male,Business,Urban,Full-Time,High School,1,1,7.0,56.0,9.85,7.23,1,<60%,B
+STU0152,Male,Arts,Urban,Full-Time,None,1,1,5.0,55.0,5.82,5.69,1,<60%,C
+STU0153,Male,Mechanical,Urban,Full-Time,High School,1,1,4.0,52.0,4.33,4.85,1,<60%,D
+STU0154,Female,Mechanical,Semi-Urban,Full-Time,Graduate,0,0,5.0,52.0,4.03,4.64,1,<60%,D
+STU0155,Male,Mechanical,Urban,Full-Time,High School,1,1,9.0,43.0,7.99,6.79,0,<60%,C
+STU0156,Female,Mechanical,Rural,Full-Time,High School,1,1,4.0,98.0,5.96,7.23,0,90%+,B
+STU0157,Female,Computer Science,Semi-Urban,Full-Time,High School,1,0,9.0,86.0,9.39,10.0,0,75-89%,A
+STU0158,Female,Mechanical,Urban,Full-Time,Graduate,1,1,4.0,52.0,7.61,7.05,1,<60%,B
+STU0159,Female,Arts,Urban,Full-Time,Post-Graduate,1,1,3.0,83.0,5.64,6.58,0,75-89%,C
+STU0160,Female,Mechanical,Urban,Full-Time,Graduate,0,1,2.0,58.0,9.75,6.15,1,<60%,C
+STU0161,Female,Civil,Rural,Full-Time,None,1,1,7.0,64.0,9.98,7.85,0,60-74%,B
+STU0162,Male,Computer Science,Semi-Urban,Full-Time,Post-Graduate,0,0,8.0,46.0,7.1,6.59,0,<60%,C
+STU0163,Female,Arts,Urban,Full-Time,Graduate,1,0,7.0,48.0,8.75,9.23,1,<60%,A
+STU0164,Male,Mechanical,Urban,Full-Time,Post-Graduate,1,0,3.0,43.0,9.3,6.7,1,<60%,C
+STU0165,Female,Computer Science,Rural,Part-Time,Graduate,1,0,5.0,48.0,6.56,6.33,1,<60%,C
+STU0166,Female,Computer Science,Rural,Full-Time,High School,1,1,2.0,40.0,9.86,5.58,1,<60%,C
+STU0167,Female,Computer Science,Urban,Full-Time,None,1,0,6.0,80.0,5.58,6.96,0,75-89%,C
+STU0168,Male,Business,Semi-Urban,Full-Time,High School,1,0,9.0,75.0,8.12,10.0,0,75-89%,A
+STU0169,Female,Computer Science,Semi-Urban,Full-Time,High School,1,0,9.0,61.0,9.01,8.65,0,60-74%,A
+STU0170,Male,Electronics,Urban,Full-Time,Post-Graduate,1,0,6.0,56.0,6.96,7.24,0,<60%,B
+STU0171,Female,Electronics,Semi-Urban,Full-Time,High School,0,1,9.0,73.0,6.61,7.47,0,60-74%,B
+STU0172,Female,Civil,Semi-Urban,Full-Time,Graduate,1,0,3.0,69.0,4.94,5.42,0,60-74%,D
+STU0173,Female,Business,Semi-Urban,Full-Time,Graduate,1,1,4.0,76.0,7.05,4.53,0,75-89%,D
+STU0174,Female,Civil,Rural,Part-Time,Graduate,0,0,5.0,48.0,6.06,5.39,1,<60%,D
+STU0175,Male,Computer Science,Urban,Full-Time,Graduate,1,1,8.0,94.0,7.52,9.25,0,90%+,A
+STU0176,Male,Civil,Urban,Full-Time,None,1,1,5.0,69.0,4.48,4.99,0,60-74%,D
+STU0177,Female,Business,Urban,Full-Time,Post-Graduate,1,0,7.0,65.0,8.53,7.64,0,60-74%,B
+STU0178,Female,Mechanical,Rural,Full-Time,Graduate,1,0,6.0,91.0,7.05,6.89,0,90%+,C
+STU0179,Female,Business,Rural,Full-Time,Post-Graduate,0,0,5.0,85.0,9.17,8.43,0,75-89%,B
+STU0180,Female,Arts,Semi-Urban,Full-Time,High School,1,1,5.0,84.0,7.19,7.97,0,75-89%,B
+STU0181,Female,Business,Semi-Urban,Full-Time,Graduate,1,1,5.0,73.0,5.9,5.9,0,60-74%,C
+STU0182,Female,Mechanical,Urban,Full-Time,Graduate,1,0,5.0,92.0,8.59,7.06,0,90%+,B
+STU0183,Female,Computer Science,Semi-Urban,Full-Time,Post-Graduate,0,0,5.0,59.0,9.98,7.15,1,<60%,B
+STU0184,Female,Civil,Rural,Full-Time,High School,1,1,6.0,45.0,7.74,4.81,1,<60%,D
+STU0185,Male,Business,Urban,Full-Time,Post-Graduate,1,0,7.0,85.0,4.16,6.06,0,75-89%,C
+STU0186,Female,Computer Science,Urban,Full-Time,Graduate,1,0,7.0,70.0,4.67,5.2,1,60-74%,D
+STU0187,Female,Mechanical,Semi-Urban,Part-Time,None,1,1,9.0,40.0,4.68,5.44,1,<60%,D
+STU0188,Female,Business,Rural,Full-Time,Post-Graduate,1,0,4.0,40.0,7.68,6.83,1,<60%,C
+STU0189,Male,Civil,Rural,Part-Time,Post-Graduate,0,0,5.0,70.0,5.5,6.65,1,60-74%,C
+STU0190,Male,Civil,Semi-Urban,Part-Time,Post-Graduate,0,1,8.0,75.0,4.51,7.47,0,75-89%,B
+STU0191,Male,Mechanical,Urban,Full-Time,Post-Graduate,0,0,8.0,70.0,9.27,8.35,0,60-74%,B
+STU0192,Female,Electronics,Semi-Urban,Full-Time,None,1,0,2.0,98.0,9.62,7.96,0,90%+,B
+STU0193,Female,Mechanical,Urban,Full-Time,High School,1,0,5.0,96.0,5.5,6.42,0,90%+,C
+STU0194,Male,Electronics,Semi-Urban,Part-Time,High School,1,0,3.0,87.0,5.02,6.49,0,75-89%,C
+STU0195,Male,Civil,Urban,Full-Time,High School,1,1,3.0,67.0,9.42,7.25,0,60-74%,B
+STU0196,Male,Mechanical,Urban,Full-Time,High School,0,0,1.0,99.0,5.27,6.33,1,90%+,C
+STU0197,Female,Business,Urban,Part-Time,Post-Graduate,1,0,2.0,66.0,6.49,6.21,0,60-74%,C
+STU0198,Female,Business,Urban,Part-Time,High School,0,1,5.0,81.0,4.79,4.39,1,75-89%,D
+STU0199,Female,Civil,Urban,Full-Time,Post-Graduate,1,1,6.0,77.0,7.52,7.82,0,75-89%,B
+STU0200,Female,Civil,Urban,Part-Time,Post-Graduate,1,0,1.0,68.0,9.61,6.27,0,60-74%,C
+STU0201,Male,Business,Rural,Full-Time,Post-Graduate,0,1,6.0,89.0,4.44,7.42,0,75-89%,B
+STU0202,Female,Mechanical,Urban,Full-Time,Graduate,1,1,5.0,40.0,7.05,4.68,1,<60%,D
+STU0203,Female,Computer Science,Semi-Urban,Part-Time,Post-Graduate,1,1,2.0,99.0,9.42,7.47,1,90%+,B
+STU0204,Male,Mechanical,Urban,Part-Time,Post-Graduate,0,0,2.0,51.0,9.96,7.65,1,<60%,B
+STU0205,Female,Arts,Semi-Urban,Full-Time,Graduate,1,0,3.0,45.0,8.4,7.52,1,<60%,B
+STU0206,Male,Mechanical,Urban,Full-Time,Graduate,1,0,4.0,91.0,6.32,7.03,0,90%+,B
+STU0207,Male,Electronics,Urban,Full-Time,Graduate,1,0,6.0,76.0,6.64,7.8,0,75-89%,B
+STU0208,Male,Electronics,Semi-Urban,Full-Time,Graduate,1,1,1.0,70.0,6.31,5.69,0,60-74%,C
+STU0209,Male,Business,Urban,Full-Time,Post-Graduate,1,1,6.0,79.0,9.02,8.25,0,75-89%,B
+STU0210,Female,Business,Urban,Full-Time,Graduate,0,1,4.0,79.0,6.14,5.26,0,75-89%,D
+STU0211,Female,Computer Science,Urban,Full-Time,High School,1,0,9.0,91.0,6.09,7.12,0,90%+,B
+STU0212,Male,Civil,Rural,Full-Time,Graduate,1,0,6.0,85.0,7.05,7.91,0,75-89%,B
+STU0213,Male,Arts,Urban,Part-Time,Graduate,1,0,7.0,60.0,6.55,7.61,0,60-74%,B
+STU0214,Male,Electronics,Urban,Part-Time,Graduate,1,0,4.0,70.0,9.03,7.34,0,60-74%,B
+STU0215,Male,Electronics,Urban,Full-Time,High School,1,1,3.0,86.0,9.91,7.62,0,75-89%,B
+STU0216,Female,Arts,Urban,Full-Time,Graduate,0,0,1.0,46.0,9.6,5.05,1,<60%,D
+STU0217,Male,Computer Science,Semi-Urban,Full-Time,High School,0,0,1.0,60.0,7.38,4.38,1,60-74%,D
+STU0218,Male,Business,Semi-Urban,Full-Time,Post-Graduate,1,1,1.0,40.0,5.86,3.21,1,<60%,F
+STU0219,Female,Computer Science,Rural,Full-Time,Graduate,1,0,5.0,99.0,9.32,9.67,0,90%+,A
+STU0220,Male,Arts,Urban,Part-Time,Graduate,1,1,5.0,40.0,6.53,3.98,1,<60%,F
+STU0221,Male,Civil,Urban,Full-Time,Graduate,1,0,4.0,65.0,4.43,6.0,0,60-74%,C
+STU0222,Male,Civil,Semi-Urban,Full-Time,High School,1,0,7.0,97.0,6.1,7.56,0,90%+,B
+STU0223,Male,Civil,Rural,Full-Time,High School,1,0,2.0,64.0,5.59,4.96,1,60-74%,D
+STU0224,Male,Civil,Semi-Urban,Full-Time,High School,1,0,9.0,42.0,5.09,7.06,1,<60%,B
+STU0225,Female,Mechanical,Urban,Full-Time,High School,1,0,2.0,72.0,8.82,6.06,1,60-74%,C
+STU0226,Female,Electronics,Semi-Urban,Full-Time,High School,0,0,4.0,70.0,6.75,7.32,0,60-74%,B
+STU0227,Male,Electronics,Rural,Part-Time,High School,0,1,2.0,42.0,6.35,3.8,1,<60%,F
+STU0228,Female,Mechanical,Semi-Urban,Part-Time,Graduate,1,0,5.0,55.0,8.65,7.29,1,<60%,B
+STU0229,Female,Mechanical,Urban,Full-Time,Graduate,1,0,8.0,45.0,6.4,6.46,1,<60%,C
+STU0230,Female,Arts,Rural,Full-Time,Graduate,1,0,4.0,90.0,5.71,5.88,0,90%+,C
+STU0231,Male,Electronics,Urban,Full-Time,Graduate,1,0,4.0,95.0,9.9,6.58,0,90%+,C
+STU0232,Male,Electronics,Urban,Part-Time,Graduate,0,1,1.0,95.0,6.96,5.93,1,90%+,C
+STU0233,Female,Civil,Urban,Full-Time,None,1,1,9.0,74.0,9.28,9.22,0,60-74%,A
+STU0234,Male,Arts,Semi-Urban,Part-Time,High School,0,0,9.0,75.0,5.11,6.78,0,75-89%,C
+STU0235,Male,Civil,Semi-Urban,Full-Time,Post-Graduate,1,1,9.0,92.0,6.94,7.65,0,90%+,B
+STU0236,Female,Mechanical,Urban,Full-Time,High School,1,0,6.0,41.0,7.54,6.58,1,<60%,C
+STU0237,Male,Computer Science,Urban,Full-Time,Post-Graduate,1,1,7.0,70.0,7.83,8.3,0,60-74%,B
+STU0238,Female,Arts,Semi-Urban,Full-Time,Graduate,1,0,7.0,43.0,4.18,5.68,0,<60%,C
+STU0239,Male,Arts,Semi-Urban,Full-Time,High School,1,0,2.0,73.0,9.78,6.75,1,60-74%,C
+STU0240,Female,Mechanical,Rural,Full-Time,Post-Graduate,1,1,2.0,74.0,8.23,6.66,0,60-74%,C
+STU0241,Male,Civil,Urban,Full-Time,High School,1,1,3.0,75.0,8.74,5.89,0,75-89%,C
+STU0242,Male,Computer Science,Rural,Full-Time,Graduate,1,0,5.0,75.0,8.84,7.23,0,75-89%,B
+STU0243,Female,Business,Rural,Full-Time,Post-Graduate,1,0,6.0,52.0,9.73,8.34,1,<60%,B
+STU0244,Female,Arts,Rural,Full-Time,Graduate,1,0,5.0,62.0,5.05,6.3,0,60-74%,C
+STU0245,Female,Computer Science,Rural,Full-Time,High School,1,0,9.0,61.0,9.44,8.83,0,60-74%,A
+STU0246,Male,Mechanical,Semi-Urban,Full-Time,Graduate,1,0,7.0,65.0,5.0,7.16,0,60-74%,B
+STU0247,Male,Business,Rural,Full-Time,Graduate,1,0,2.0,97.0,4.52,4.95,1,90%+,D
+STU0248,Male,Business,Rural,Full-Time,Graduate,1,0,4.0,83.0,4.92,6.84,0,75-89%,C
+STU0249,Female,Electronics,Urban,Part-Time,High School,1,0,2.0,46.0,6.58,4.85,1,<60%,D
+STU0250,Female,Arts,Semi-Urban,Part-Time,Graduate,1,0,9.0,71.0,7.84,7.88,0,60-74%,B
+STU0251,Female,Civil,Semi-Urban,Full-Time,Graduate,1,0,2.0,49.0,7.87,5.06,1,<60%,D
+STU0252,Male,Arts,Urban,Full-Time,Graduate,0,0,7.0,41.0,7.05,7.54,1,<60%,B
+STU0253,Male,Business,Urban,Part-Time,Graduate,1,0,3.0,71.0,8.35,6.36,0,60-74%,C
+STU0254,Male,Civil,Rural,Full-Time,Post-Graduate,0,0,1.0,51.0,9.96,5.5,1,<60%,D
+STU0255,Female,Civil,Urban,Full-Time,High School,1,1,5.0,43.0,5.58,5.14,1,<60%,D
+STU0256,Female,Computer Science,Rural,Full-Time,None,1,0,2.0,43.0,8.11,5.6,1,<60%,C
+STU0257,Male,Arts,Urban,Full-Time,High School,1,0,3.0,92.0,6.5,6.41,0,90%+,C
+STU0258,Male,Mechanical,Urban,Part-Time,None,1,0,1.0,44.0,6.92,5.09,1,<60%,D
+STU0259,Male,Computer Science,Urban,Full-Time,None,1,0,4.0,47.0,7.57,5.86,0,<60%,C
+STU0260,Male,Electronics,Semi-Urban,Full-Time,High School,0,0,4.0,63.0,7.87,5.03,0,60-74%,D
+STU0261,Male,Civil,Urban,Full-Time,Graduate,0,0,8.0,53.0,6.3,7.92,1,<60%,B
+STU0262,Male,Mechanical,Urban,Part-Time,High School,1,0,1.0,73.0,5.77,5.26,0,60-74%,D
+STU0263,Female,Civil,Semi-Urban,Full-Time,Graduate,1,0,6.0,76.0,4.12,6.29,0,75-89%,C
+STU0264,Male,Civil,Rural,Full-Time,Graduate,1,0,9.0,70.0,8.47,10.0,0,60-74%,A
+STU0265,Male,Business,Urban,Part-Time,Graduate,1,0,1.0,44.0,9.3,6.12,1,<60%,C
+STU0266,Male,Mechanical,Urban,Full-Time,High School,1,0,5.0,99.0,8.23,6.79,0,90%+,C
+STU0267,Female,Business,Semi-Urban,Full-Time,Graduate,1,0,5.0,69.0,5.75,5.92,0,60-74%,C
+STU0268,Male,Mechanical,Semi-Urban,Full-Time,High School,0,1,8.0,42.0,9.35,7.97,0,<60%,B
+STU0269,Male,Business,Urban,Part-Time,Post-Graduate,1,1,4.0,92.0,6.98,6.2,0,90%+,C
+STU0270,Female,Arts,Rural,Part-Time,Post-Graduate,0,1,7.0,70.0,8.88,8.99,0,60-74%,A
+STU0271,Female,Business,Urban,Full-Time,Graduate,1,1,4.0,98.0,7.79,6.59,0,90%+,C
+STU0272,Female,Arts,Rural,Full-Time,High School,1,0,9.0,83.0,9.74,9.42,0,75-89%,A
+STU0273,Male,Business,Semi-Urban,Full-Time,High School,1,0,1.0,59.0,7.26,5.45,1,<60%,D
+STU0274,Female,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,5.0,67.0,9.66,8.24,0,60-74%,B
+STU0275,Male,Civil,Urban,Part-Time,Post-Graduate,1,1,6.0,80.0,6.49,7.3,0,75-89%,B
+STU0276,Female,Business,Semi-Urban,Part-Time,Post-Graduate,1,0,5.0,62.0,7.81,6.63,0,60-74%,C
+STU0277,Male,Civil,Urban,Full-Time,Graduate,1,0,8.0,56.0,5.0,6.76,0,<60%,C
+STU0278,Male,Computer Science,Urban,Full-Time,None,1,1,5.0,52.0,9.76,6.92,0,<60%,C
+STU0279,Female,Electronics,Rural,Full-Time,Graduate,1,1,1.0,60.0,9.61,6.53,0,60-74%,C
+STU0280,Female,Computer Science,Rural,Full-Time,High School,1,1,2.0,54.0,7.05,4.37,1,<60%,D
+STU0281,Female,Arts,Semi-Urban,Full-Time,Post-Graduate,0,0,6.0,85.0,8.7,6.83,0,75-89%,C
+STU0282,Female,Electronics,Urban,Full-Time,High School,0,1,8.0,58.0,6.03,3.95,1,<60%,F
+STU0283,Male,Electronics,Urban,Full-Time,Graduate,0,0,7.0,81.0,6.17,8.81,0,75-89%,A
+STU0284,Female,Civil,Urban,Part-Time,Post-Graduate,0,0,1.0,54.0,5.81,4.29,1,<60%,D
+STU0285,Male,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,3.0,90.0,7.03,7.29,0,90%+,B
+STU0286,Male,Electronics,Rural,Full-Time,Graduate,1,0,1.0,85.0,5.28,6.15,0,75-89%,C
+STU0287,Male,Electronics,Semi-Urban,Full-Time,High School,1,1,8.0,70.0,9.83,9.56,0,60-74%,A
+STU0288,Male,Arts,Rural,Full-Time,Graduate,1,1,3.0,53.0,9.88,7.63,1,<60%,B
+STU0289,Male,Civil,Urban,Full-Time,High School,0,0,4.0,91.0,4.95,5.48,0,90%+,D
+STU0290,Female,Business,Urban,Full-Time,Graduate,0,0,9.0,52.0,7.17,8.07,1,<60%,B
+STU0291,Female,Computer Science,Rural,Part-Time,Graduate,0,1,9.0,76.0,8.14,7.77,0,75-89%,B
+STU0292,Female,Computer Science,Urban,Full-Time,Graduate,1,0,4.0,51.0,5.07,4.96,1,<60%,D
+STU0293,Female,Mechanical,Urban,Full-Time,Graduate,1,0,8.0,70.0,4.3,7.24,0,60-74%,B
+STU0294,Female,Electronics,Urban,Full-Time,Graduate,0,0,9.0,55.0,8.64,7.85,1,<60%,B
+STU0295,Male,Arts,Semi-Urban,Full-Time,High School,1,0,4.0,98.0,4.5,6.55,0,90%+,C
+STU0296,Male,Computer Science,Rural,Part-Time,Graduate,1,1,5.0,76.0,4.63,5.37,0,75-89%,D
+STU0297,Female,Business,Urban,Full-Time,None,1,0,1.0,90.0,8.73,6.89,1,90%+,C
+STU0298,Male,Electronics,Semi-Urban,Full-Time,High School,1,0,6.0,95.0,4.19,6.33,0,90%+,C
+STU0299,Male,Electronics,Semi-Urban,Full-Time,Graduate,1,0,1.0,43.0,7.34,4.05,1,<60%,D
+STU0300,Female,Business,Semi-Urban,Part-Time,None,1,0,5.0,77.0,7.83,6.83,0,75-89%,C
+STU0301,Male,Mechanical,Urban,Full-Time,Graduate,0,1,2.0,88.0,5.62,4.4,1,75-89%,D
+STU0302,Female,Civil,Urban,Full-Time,Graduate,1,0,5.0,73.0,5.84,5.3,0,60-74%,D
+STU0303,Female,Computer Science,Urban,Part-Time,Post-Graduate,1,0,7.0,77.0,5.66,7.57,0,75-89%,B
+STU0304,Male,Mechanical,Semi-Urban,Full-Time,High School,1,0,4.0,69.0,4.46,6.72,0,60-74%,C
+STU0305,Female,Arts,Semi-Urban,Full-Time,Graduate,0,0,2.0,43.0,5.15,4.59,1,<60%,D
+STU0306,Male,Business,Rural,Full-Time,Graduate,1,1,1.0,66.0,9.23,5.31,0,60-74%,D
+STU0307,Male,Business,Rural,Part-Time,Graduate,1,0,6.0,70.0,7.93,7.08,0,60-74%,B
+STU0308,Female,Computer Science,Urban,Full-Time,Post-Graduate,0,0,5.0,61.0,6.17,7.92,0,60-74%,B
+STU0309,Female,Arts,Semi-Urban,Part-Time,High School,1,0,2.0,50.0,6.83,6.11,1,<60%,C
+STU0310,Female,Civil,Semi-Urban,Full-Time,None,0,1,3.0,75.0,8.13,5.84,0,75-89%,C
+STU0311,Male,Computer Science,Rural,Full-Time,None,1,0,4.0,46.0,8.58,7.11,1,<60%,B
+STU0312,Male,Electronics,Urban,Full-Time,High School,1,1,9.0,87.0,5.44,6.78,0,75-89%,C
+STU0313,Female,Business,Urban,Full-Time,High School,0,0,8.0,62.0,5.93,5.55,0,60-74%,C
+STU0314,Male,Arts,Semi-Urban,Full-Time,High School,0,0,6.0,48.0,5.85,4.74,1,<60%,D
+STU0315,Female,Electronics,Rural,Full-Time,None,1,1,8.0,56.0,9.31,9.59,0,<60%,A
+STU0316,Female,Civil,Semi-Urban,Full-Time,Post-Graduate,1,1,5.0,93.0,6.74,7.01,0,90%+,B
+STU0317,Male,Computer Science,Semi-Urban,Full-Time,High School,1,0,1.0,92.0,4.33,6.51,0,90%+,C
+STU0318,Male,Computer Science,Rural,Full-Time,None,0,0,2.0,78.0,9.55,7.84,0,75-89%,B
+STU0319,Male,Mechanical,Rural,Full-Time,Post-Graduate,1,0,4.0,79.0,4.38,6.3,0,75-89%,C
+STU0320,Male,Electronics,Semi-Urban,Full-Time,High School,0,0,9.0,62.0,9.16,8.27,0,60-74%,B
+STU0321,Male,Mechanical,Urban,Part-Time,Graduate,1,0,7.0,68.0,8.06,8.55,0,60-74%,A
+STU0322,Male,Arts,Urban,Full-Time,Graduate,1,1,1.0,43.0,7.02,4.76,1,<60%,D
+STU0323,Female,Computer Science,Urban,Full-Time,Graduate,1,0,3.0,69.0,7.05,4.22,0,60-74%,D
+STU0324,Male,Civil,Semi-Urban,Full-Time,Graduate,1,0,6.0,60.0,6.54,7.56,0,60-74%,B
+STU0325,Female,Computer Science,Rural,Full-Time,Graduate,1,1,5.0,64.0,7.05,6.07,0,60-74%,C
+STU0326,Female,Civil,Semi-Urban,Full-Time,Graduate,1,0,5.0,71.0,4.98,6.97,0,60-74%,C
+STU0327,Male,Mechanical,Semi-Urban,Full-Time,High School,1,0,8.0,75.0,5.27,6.89,0,75-89%,C
+STU0328,Male,Mechanical,Urban,Part-Time,Graduate,0,0,5.0,60.0,4.58,4.24,0,60-74%,D
+STU0329,Male,Business,Urban,Full-Time,High School,1,1,2.0,63.0,6.01,4.73,1,60-74%,D
+STU0330,Female,Electronics,Semi-Urban,Full-Time,Graduate,1,0,3.0,77.0,9.42,7.07,0,75-89%,B
+STU0331,Female,Electronics,Urban,Full-Time,None,1,0,8.0,65.0,7.36,8.98,0,60-74%,A
+STU0332,Female,Business,Semi-Urban,Full-Time,Graduate,1,0,9.0,95.0,6.07,7.16,0,90%+,B
+STU0333,Female,Business,Rural,Full-Time,High School,1,1,7.0,77.0,5.65,7.43,0,75-89%,B
+STU0334,Male,Arts,Urban,Full-Time,High School,1,0,6.0,64.0,5.65,6.56,0,60-74%,C
+STU0335,Male,Mechanical,Urban,Full-Time,Graduate,1,1,4.0,70.0,4.53,5.0,0,60-74%,D
+STU0336,Male,Electronics,Semi-Urban,Full-Time,Graduate,1,0,7.0,82.0,4.71,6.34,0,75-89%,C
+STU0337,Female,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,1.0,66.0,5.71,5.28,1,60-74%,D
+STU0338,Male,Electronics,Urban,Full-Time,High School,1,1,7.0,51.0,8.49,7.95,0,<60%,B
+STU0339,Female,Civil,Urban,Full-Time,Graduate,1,0,1.0,54.0,8.41,5.7,1,<60%,C
+STU0340,Male,Arts,Rural,Full-Time,High School,1,0,7.0,40.0,7.05,8.17,1,<60%,B
+STU0341,Female,Civil,Urban,Part-Time,Graduate,1,0,6.0,63.0,9.17,6.56,0,60-74%,C
+STU0342,Female,Mechanical,Urban,Full-Time,None,0,1,2.0,77.0,5.26,3.91,1,75-89%,F
+STU0343,Female,Civil,Rural,Full-Time,Graduate,0,1,2.0,63.0,6.41,5.08,0,60-74%,D
+STU0344,Female,Mechanical,Rural,Full-Time,None,1,1,5.0,46.0,8.61,6.15,1,<60%,C
+STU0345,Female,Mechanical,Rural,Part-Time,None,1,0,6.0,91.0,6.08,5.71,0,90%+,C
+STU0346,Male,Electronics,Semi-Urban,Full-Time,High School,0,0,6.0,44.0,9.2,7.94,1,<60%,B
+STU0347,Female,Mechanical,Rural,Full-Time,Graduate,1,0,1.0,46.0,9.3,4.83,1,<60%,D
+STU0348,Male,Mechanical,Rural,Full-Time,Post-Graduate,1,1,9.0,80.0,5.78,8.35,0,75-89%,B
+STU0349,Female,Mechanical,Semi-Urban,Full-Time,Post-Graduate,1,0,6.0,77.0,9.17,7.75,0,75-89%,B
+STU0350,Female,Business,Semi-Urban,Full-Time,None,0,0,9.0,93.0,9.07,8.65,0,90%+,A
+STU0351,Female,Civil,Semi-Urban,Full-Time,None,1,1,4.0,55.0,7.99,5.65,1,<60%,C
+STU0352,Male,Civil,Urban,Full-Time,Post-Graduate,1,0,2.0,77.0,6.11,5.26,0,75-89%,D
+STU0353,Male,Mechanical,Semi-Urban,Part-Time,High School,1,0,7.0,93.0,8.5,9.11,0,90%+,A
+STU0354,Female,Mechanical,Rural,Part-Time,Graduate,1,0,8.0,44.0,7.53,6.97,0,<60%,C
+STU0355,Male,Computer Science,Urban,Full-Time,High School,1,0,8.0,74.0,8.76,8.91,0,60-74%,A
+STU0356,Female,Mechanical,Urban,Full-Time,Graduate,0,0,8.0,57.0,8.34,7.6,1,<60%,B
+STU0357,Female,Business,Rural,Full-Time,High School,1,1,9.0,99.0,9.7,10.0,0,90%+,A
+STU0358,Female,Arts,Urban,Full-Time,Graduate,1,0,9.0,85.0,5.65,9.48,0,75-89%,A
+STU0359,Female,Arts,Urban,Full-Time,High School,1,0,2.0,56.0,8.78,5.67,1,<60%,C
+STU0360,Male,Mechanical,Urban,Full-Time,High School,1,0,2.0,45.0,6.98,3.64,1,<60%,F
+STU0361,Female,Business,Rural,Part-Time,Post-Graduate,0,0,1.0,62.0,7.52,5.97,1,60-74%,C
+STU0362,Female,Business,Urban,Full-Time,None,0,1,2.0,71.0,5.46,4.53,1,60-74%,D
+STU0363,Male,Computer Science,Urban,Part-Time,None,1,0,5.0,75.0,5.27,6.92,0,75-89%,C
+STU0364,Female,Arts,Urban,Full-Time,High School,1,1,8.0,88.0,5.27,7.55,0,75-89%,B
+STU0365,Male,Computer Science,Urban,Full-Time,Post-Graduate,1,0,1.0,64.0,6.15,5.14,1,60-74%,D
+STU0366,Male,Civil,Urban,Part-Time,High School,1,0,7.0,93.0,8.51,8.61,0,90%+,A
+STU0367,Female,Arts,Rural,Full-Time,High School,0,1,2.0,68.0,5.93,3.64,1,60-74%,F
+STU0368,Female,Arts,Urban,Full-Time,None,1,1,2.0,79.0,4.54,4.49,1,75-89%,D
+STU0369,Female,Arts,Semi-Urban,Full-Time,High School,1,0,1.0,65.0,5.28,4.16,1,60-74%,D
+STU0370,Male,Electronics,Rural,Part-Time,Graduate,0,0,1.0,67.0,6.29,3.29,1,60-74%,F
+STU0371,Male,Mechanical,Rural,Part-Time,Graduate,0,1,4.0,65.0,5.42,5.39,0,60-74%,D
+STU0372,Male,Mechanical,Semi-Urban,Part-Time,High School,1,0,5.0,51.0,6.35,6.43,1,<60%,C
+STU0373,Male,Computer Science,Rural,Full-Time,Graduate,0,1,8.0,40.0,7.2,5.9,1,<60%,C
+STU0374,Male,Electronics,Semi-Urban,Part-Time,Post-Graduate,1,1,8.0,53.0,4.39,6.93,1,<60%,C
+STU0375,Female,Arts,Urban,Full-Time,None,0,0,8.0,73.0,6.46,7.27,0,60-74%,B
+STU0376,Female,Mechanical,Urban,Full-Time,Graduate,0,1,2.0,48.0,4.54,3.04,1,<60%,F
+STU0377,Male,Electronics,Rural,Full-Time,Graduate,1,0,1.0,99.0,7.19,5.79,1,90%+,C
+STU0378,Male,Arts,Urban,Full-Time,Graduate,1,0,4.0,40.0,9.54,6.6,1,<60%,C
+STU0379,Male,Computer Science,Rural,Full-Time,High School,1,0,6.0,70.0,7.75,8.03,0,60-74%,B
+STU0380,Female,Business,Semi-Urban,Full-Time,Graduate,1,0,8.0,40.0,5.47,7.33,0,<60%,B
+STU0381,Female,Computer Science,Urban,Full-Time,High School,1,1,5.0,59.0,8.04,8.15,1,<60%,B
+STU0382,Male,Electronics,Rural,Full-Time,Graduate,1,0,9.0,99.0,9.0,10.0,0,90%+,A
+STU0383,Female,Electronics,Urban,Part-Time,Graduate,1,0,7.0,86.0,7.97,9.38,0,75-89%,A
+STU0384,Female,Arts,Urban,Full-Time,Graduate,1,1,1.0,63.0,6.11,3.91,1,60-74%,F
+STU0385,Male,Business,Urban,Full-Time,Graduate,0,0,9.0,73.0,7.05,7.78,0,60-74%,B
+STU0386,Male,Mechanical,Semi-Urban,Part-Time,Graduate,1,1,6.0,88.0,5.02,5.81,0,75-89%,C
+STU0387,Male,Business,Urban,Full-Time,Graduate,1,0,4.0,92.0,8.24,6.08,0,90%+,C
+STU0388,Male,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,2.0,79.0,9.81,6.68,0,75-89%,C
+STU0389,Female,Electronics,Rural,Full-Time,Post-Graduate,1,0,2.0,85.0,7.71,6.02,0,75-89%,C
+STU0390,Male,Civil,Urban,Full-Time,Post-Graduate,1,0,8.0,60.0,5.44,7.0,0,60-74%,C
+STU0391,Male,Computer Science,Rural,Full-Time,Post-Graduate,1,0,5.0,54.0,8.43,6.68,1,<60%,C
+STU0392,Male,Arts,Rural,Part-Time,Graduate,1,0,5.0,66.0,7.92,8.2,0,60-74%,B
+STU0393,Female,Electronics,Urban,Full-Time,Post-Graduate,0,0,9.0,42.0,7.05,5.73,1,<60%,C
+STU0394,Female,Business,Urban,Full-Time,None,0,1,4.0,63.0,4.95,5.84,0,60-74%,C
+STU0395,Female,Arts,Urban,Full-Time,Post-Graduate,1,0,3.0,88.0,7.26,7.08,0,75-89%,B
+STU0396,Male,Computer Science,Urban,Full-Time,Graduate,1,1,1.0,70.0,4.41,5.22,0,60-74%,D
+STU0397,Male,Business,Semi-Urban,Full-Time,High School,1,0,1.0,97.0,9.22,7.64,0,90%+,B
+STU0398,Female,Civil,Rural,Full-Time,High School,1,0,6.0,56.0,5.03,7.12,0,<60%,B
+STU0399,Male,Business,Rural,Full-Time,Post-Graduate,1,0,1.0,95.0,7.63,5.78,1,90%+,C
+STU0400,Female,Computer Science,Urban,Part-Time,Graduate,1,1,3.0,64.0,5.06,3.6,1,60-74%,F
+STU0401,Female,Business,Rural,Part-Time,High School,1,0,8.0,70.0,5.96,6.5,0,60-74%,C
+STU0402,Male,Business,Semi-Urban,Full-Time,None,1,1,5.0,63.0,7.15,5.41,0,60-74%,D
+STU0403,Female,Civil,Semi-Urban,Full-Time,None,1,1,6.0,70.0,7.95,8.34,0,60-74%,B
+STU0404,Male,Computer Science,Rural,Part-Time,Graduate,0,0,8.0,63.0,9.54,7.85,0,60-74%,B
+STU0405,Female,Mechanical,Urban,Part-Time,High School,1,0,9.0,96.0,8.29,10.0,0,90%+,A
+STU0406,Female,Arts,Urban,Full-Time,Graduate,1,1,4.0,53.0,7.82,7.64,0,<60%,B
+STU0407,Female,Mechanical,Urban,Full-Time,Graduate,1,1,3.0,57.0,5.95,4.83,1,<60%,D
+STU0408,Male,Electronics,Rural,Full-Time,Post-Graduate,1,0,7.0,55.0,4.92,5.98,1,<60%,C
+STU0409,Male,Business,Semi-Urban,Full-Time,Graduate,1,1,3.0,71.0,8.45,6.23,0,60-74%,C
+STU0410,Male,Business,Urban,Full-Time,None,0,0,1.0,94.0,6.79,6.72,0,90%+,C
+STU0411,Female,Computer Science,Urban,Full-Time,Graduate,1,0,2.0,91.0,6.48,7.64,1,90%+,B
+STU0412,Male,Civil,Urban,Full-Time,Post-Graduate,1,0,3.0,54.0,5.0,4.81,1,<60%,D
+STU0413,Female,Electronics,Rural,Full-Time,Post-Graduate,1,0,4.0,70.0,5.47,6.88,0,60-74%,C
+STU0414,Male,Civil,Rural,Full-Time,Graduate,1,0,4.0,95.0,8.69,6.68,0,90%+,C
+STU0415,Male,Computer Science,Urban,Full-Time,Graduate,1,0,1.0,70.0,6.89,4.72,1,60-74%,D
+STU0416,Male,Civil,Urban,Full-Time,Post-Graduate,1,1,8.0,77.0,9.67,9.31,0,75-89%,A
+STU0417,Female,Mechanical,Rural,Full-Time,Graduate,1,1,5.0,53.0,5.31,3.85,1,<60%,F
+STU0418,Male,Civil,Urban,Full-Time,Post-Graduate,0,1,7.0,48.0,9.56,7.49,1,<60%,B
+STU0419,Male,Mechanical,Semi-Urban,Full-Time,Graduate,0,0,8.0,94.0,8.68,9.17,0,90%+,A
+STU0420,Male,Electronics,Urban,Full-Time,High School,0,0,3.0,65.0,8.93,6.4,0,60-74%,C
+STU0421,Male,Computer Science,Urban,Part-Time,High School,1,0,6.0,69.0,6.75,8.04,0,60-74%,B
+STU0422,Male,Electronics,Urban,Full-Time,Graduate,0,0,8.0,49.0,4.59,5.27,1,<60%,D
+STU0423,Male,Mechanical,Urban,Part-Time,Post-Graduate,0,0,5.0,42.0,7.34,5.03,0,<60%,D
+STU0424,Male,Electronics,Rural,Full-Time,High School,1,0,5.0,48.0,6.72,6.6,1,<60%,C
+STU0425,Male,Civil,Urban,Full-Time,None,1,0,2.0,47.0,5.37,3.8,1,<60%,F
+STU0426,Male,Arts,Urban,Full-Time,Graduate,1,0,6.0,79.0,5.37,7.11,0,75-89%,B
+STU0427,Male,Civil,Rural,Full-Time,Graduate,0,0,9.0,83.0,5.35,7.77,0,75-89%,B
+STU0428,Female,Electronics,Urban,Full-Time,Graduate,1,0,5.0,50.0,4.08,5.42,1,<60%,D
+STU0429,Female,Electronics,Urban,Full-Time,Post-Graduate,1,0,5.0,60.0,9.74,7.5,0,60-74%,B
+STU0430,Female,Computer Science,Urban,Full-Time,Graduate,1,0,7.0,92.0,6.54,8.61,0,90%+,A
+STU0431,Female,Business,Rural,Full-Time,Post-Graduate,1,1,5.0,98.0,6.01,7.04,0,90%+,B
+STU0432,Female,Computer Science,Rural,Full-Time,Graduate,0,0,9.0,64.0,4.21,5.38,0,60-74%,D
+STU0433,Male,Business,Rural,Full-Time,Graduate,1,0,6.0,92.0,7.78,7.9,0,90%+,B
+STU0434,Male,Mechanical,Rural,Full-Time,Graduate,0,0,5.0,59.0,9.61,8.06,1,<60%,B
+STU0435,Female,Electronics,Semi-Urban,Full-Time,Graduate,1,0,1.0,92.0,6.25,6.31,0,90%+,C
+STU0436,Male,Civil,Rural,Full-Time,High School,0,0,8.0,91.0,4.32,6.48,0,90%+,C
+STU0437,Male,Civil,Urban,Full-Time,Graduate,1,1,6.0,91.0,4.88,6.59,0,90%+,C
+STU0438,Female,Electronics,Urban,Full-Time,High School,0,0,4.0,99.0,7.05,8.84,0,90%+,A
+STU0439,Male,Arts,Urban,Part-Time,High School,1,0,8.0,63.0,8.81,8.68,0,60-74%,A
+STU0440,Male,Computer Science,Urban,Part-Time,Post-Graduate,1,0,8.0,79.0,6.5,7.58,0,75-89%,B
+STU0441,Female,Civil,Urban,Full-Time,Graduate,1,0,6.0,57.0,4.98,6.57,1,<60%,C
+STU0442,Male,Computer Science,Urban,Full-Time,Post-Graduate,1,0,6.0,57.0,7.22,5.22,1,<60%,D
+STU0443,Male,Civil,Urban,Part-Time,High School,0,0,1.0,70.0,4.14,3.56,1,60-74%,F
+STU0444,Female,Mechanical,Semi-Urban,Full-Time,Post-Graduate,1,1,9.0,56.0,7.83,6.87,0,<60%,C
+STU0445,Female,Computer Science,Semi-Urban,Full-Time,Post-Graduate,1,1,5.0,66.0,9.36,6.23,1,60-74%,C
+STU0446,Female,Business,Semi-Urban,Full-Time,High School,1,0,4.0,99.0,4.5,6.28,0,90%+,C
+STU0447,Female,Business,Urban,Full-Time,Graduate,1,0,1.0,85.0,9.57,7.73,0,75-89%,B
+STU0448,Female,Arts,Rural,Full-Time,High School,1,0,5.0,85.0,5.47,6.89,0,75-89%,C
+STU0449,Female,Computer Science,Urban,Part-Time,Post-Graduate,1,1,3.0,72.0,7.22,6.26,0,60-74%,C
+STU0450,Female,Computer Science,Urban,Part-Time,High School,1,1,1.0,84.0,5.94,5.74,0,75-89%,C
+STU0451,Female,Electronics,Urban,Part-Time,Graduate,1,0,7.0,78.0,7.71,6.85,0,75-89%,C
+STU0452,Female,Computer Science,Semi-Urban,Part-Time,Graduate,0,0,6.0,55.0,7.96,7.29,1,<60%,B
+STU0453,Female,Civil,Semi-Urban,Full-Time,Post-Graduate,1,0,2.0,40.0,7.8,5.5,1,<60%,D
+STU0454,Female,Business,Semi-Urban,Part-Time,Post-Graduate,1,1,7.0,80.0,8.76,7.97,0,75-89%,B
+STU0455,Female,Computer Science,Urban,Full-Time,Graduate,0,1,5.0,49.0,7.2,7.01,0,<60%,B
+STU0456,Female,Computer Science,Rural,Full-Time,High School,1,0,8.0,58.0,7.42,7.91,1,<60%,B
+STU0457,Male,Business,Urban,Full-Time,Graduate,1,0,4.0,86.0,4.2,5.94,0,75-89%,C
+STU0458,Female,Electronics,Urban,Part-Time,Graduate,1,1,5.0,70.0,8.65,7.09,0,60-74%,B
+STU0459,Male,Business,Urban,Full-Time,High School,1,0,7.0,95.0,7.05,8.24,0,90%+,B
+STU0460,Female,Arts,Rural,Full-Time,Graduate,0,0,9.0,94.0,4.01,8.34,0,90%+,B
+STU0461,Male,Arts,Semi-Urban,Full-Time,High School,1,0,7.0,53.0,9.62,9.3,0,<60%,A
+STU0462,Male,Electronics,Urban,Full-Time,None,0,1,9.0,70.0,9.02,8.34,0,60-74%,B
+STU0463,Female,Mechanical,Urban,Full-Time,High School,1,0,2.0,47.0,9.68,6.15,1,<60%,C
+STU0464,Male,Computer Science,Semi-Urban,Full-Time,Post-Graduate,0,0,4.0,57.0,6.16,4.34,1,<60%,D
+STU0465,Male,Mechanical,Rural,Full-Time,Post-Graduate,0,1,8.0,43.0,4.15,6.64,1,<60%,C
+STU0466,Female,Computer Science,Rural,Full-Time,Graduate,1,0,3.0,97.0,5.33,7.83,0,90%+,B
+STU0467,Male,Business,Urban,Full-Time,Graduate,0,0,9.0,41.0,9.6,7.26,0,<60%,B
+STU0468,Female,Electronics,Urban,Part-Time,Graduate,0,0,7.0,74.0,7.05,7.16,0,60-74%,B
+STU0469,Male,Arts,Urban,Full-Time,Graduate,1,1,3.0,54.0,9.53,7.52,1,<60%,B
+STU0470,Male,Computer Science,Urban,Full-Time,Post-Graduate,1,0,2.0,42.0,9.88,7.0,1,<60%,C
+STU0471,Female,Electronics,Rural,Full-Time,High School,1,0,4.0,45.0,8.24,6.49,0,<60%,C
+STU0472,Female,Electronics,Rural,Full-Time,Graduate,1,0,1.0,78.0,9.75,8.26,1,75-89%,B
+STU0473,Female,Business,Rural,Full-Time,None,0,0,6.0,99.0,8.64,7.69,0,90%+,B
+STU0474,Female,Mechanical,Urban,Part-Time,High School,1,1,1.0,41.0,9.02,4.54,1,<60%,D
+STU0475,Male,Arts,Urban,Full-Time,Graduate,1,0,5.0,75.0,6.69,7.25,0,75-89%,B
+STU0476,Female,Business,Urban,Full-Time,Post-Graduate,1,0,6.0,68.0,8.41,8.66,0,60-74%,A
+STU0477,Male,Business,Rural,Full-Time,High School,1,0,1.0,41.0,4.23,3.08,1,<60%,F
+STU0478,Female,Computer Science,Semi-Urban,Full-Time,Graduate,1,1,8.0,55.0,9.98,7.09,1,<60%,B
+STU0479,Female,Mechanical,Semi-Urban,Part-Time,High School,1,0,9.0,83.0,9.35,9.77,0,75-89%,A
+STU0480,Male,Mechanical,Semi-Urban,Full-Time,Post-Graduate,1,0,4.0,56.0,6.9,6.13,0,<60%,C
+STU0481,Female,Computer Science,Urban,Full-Time,High School,1,0,7.0,90.0,6.77,7.7,0,90%+,B
+STU0482,Male,Mechanical,Urban,Full-Time,High School,1,0,5.0,97.0,9.87,8.99,0,90%+,A
+STU0483,Female,Arts,Semi-Urban,Full-Time,High School,1,1,8.0,58.0,8.23,7.48,1,<60%,B
+STU0484,Female,Computer Science,Urban,Full-Time,Post-Graduate,1,0,5.0,61.0,9.92,8.29,0,60-74%,B
+STU0485,Female,Electronics,Urban,Part-Time,Graduate,0,1,6.0,63.0,9.91,7.85,0,60-74%,B
+STU0486,Female,Business,Urban,Full-Time,High School,1,0,4.0,98.0,7.05,7.16,0,90%+,B
+STU0487,Female,Civil,Semi-Urban,Full-Time,Post-Graduate,1,0,3.0,49.0,9.18,6.99,0,<60%,C
+STU0488,Female,Computer Science,Semi-Urban,Full-Time,High School,0,0,7.0,74.0,7.21,7.12,0,60-74%,B
+STU0489,Male,Civil,Urban,Full-Time,Graduate,1,0,7.0,50.0,4.38,5.99,0,<60%,C
+STU0490,Female,Business,Rural,Full-Time,Graduate,0,0,3.0,76.0,8.75,5.9,0,75-89%,C
+STU0491,Male,Arts,Semi-Urban,Part-Time,High School,1,1,7.0,46.0,6.74,5.98,1,<60%,C
+STU0492,Female,Civil,Urban,Part-Time,High School,1,0,2.0,49.0,7.77,4.64,1,<60%,D
+STU0493,Female,Electronics,Urban,Full-Time,Graduate,1,0,4.0,75.0,4.26,5.31,0,75-89%,D
+STU0494,Female,Computer Science,Urban,Part-Time,Post-Graduate,0,0,5.0,52.0,7.22,5.51,1,<60%,C
+STU0495,Male,Arts,Semi-Urban,Full-Time,None,1,0,7.0,74.0,7.05,8.26,0,60-74%,B
+STU0496,Male,Mechanical,Urban,Full-Time,High School,1,1,9.0,46.0,4.26,6.69,0,<60%,C
+STU0497,Male,Business,Semi-Urban,Part-Time,None,1,1,6.0,77.0,4.5,5.67,0,75-89%,C
+STU0498,Female,Electronics,Urban,Full-Time,High School,0,0,3.0,48.0,5.44,3.75,1,<60%,F
+STU0499,Female,Electronics,Semi-Urban,Full-Time,High School,0,1,8.0,50.0,9.82,7.66,0,<60%,B
+STU0500,Female,Mechanical,Rural,Full-Time,Graduate,0,0,2.0,70.0,9.72,7.39,1,60-74%,B
+STU0501,Male,Computer Science,Rural,Full-Time,High School,1,1,8.0,73.0,8.24,7.61,0,60-74%,B
+STU0502,Male,Civil,Semi-Urban,Part-Time,Graduate,1,0,1.0,42.0,8.62,3.57,1,<60%,F
+STU0503,Male,Business,Rural,Full-Time,Graduate,0,0,4.0,61.0,6.29,5.84,0,60-74%,C
+STU0504,Male,Business,Urban,Full-Time,High School,1,1,8.0,89.0,4.7,6.03,0,75-89%,C
+STU0505,Male,Civil,Urban,Full-Time,None,1,0,3.0,64.0,6.47,5.95,0,60-74%,C
+STU0506,Female,Arts,Semi-Urban,Full-Time,High School,0,1,6.0,92.0,7.05,6.64,0,90%+,C
+STU0507,Female,Arts,Semi-Urban,Full-Time,Graduate,1,1,9.0,41.0,7.18,5.84,1,<60%,C
+STU0508,Male,Electronics,Urban,Full-Time,Graduate,1,0,9.0,68.0,9.13,8.4,0,60-74%,B
+STU0509,Male,Computer Science,Rural,Full-Time,Graduate,1,1,4.0,74.0,6.12,6.08,0,60-74%,C
+STU0510,Female,Arts,Urban,Full-Time,Post-Graduate,1,0,1.0,82.0,9.7,7.7,1,75-89%,B
+STU0511,Male,Business,Semi-Urban,Full-Time,Graduate,1,1,4.0,68.0,5.59,6.73,0,60-74%,C
+STU0512,Male,Electronics,Semi-Urban,Full-Time,High School,1,0,3.0,89.0,4.68,7.83,0,75-89%,B
+STU0513,Male,Electronics,Urban,Part-Time,Graduate,0,1,5.0,95.0,5.43,5.16,0,90%+,D
+STU0514,Male,Business,Semi-Urban,Full-Time,Graduate,0,0,7.0,92.0,5.96,8.5,0,90%+,B
+STU0515,Female,Civil,Semi-Urban,Full-Time,None,1,0,7.0,60.0,7.3,8.89,0,60-74%,A
+STU0516,Female,Mechanical,Urban,Full-Time,Graduate,0,1,9.0,52.0,8.78,7.24,1,<60%,B
+STU0517,Male,Electronics,Urban,Part-Time,High School,1,0,8.0,72.0,8.13,7.72,0,60-74%,B
+STU0518,Male,Arts,Semi-Urban,Full-Time,High School,1,0,1.0,60.0,9.35,6.2,0,60-74%,C
+STU0519,Male,Business,Urban,Full-Time,Post-Graduate,1,0,5.0,59.0,8.62,9.08,0,<60%,A
+STU0520,Male,Business,Semi-Urban,Full-Time,High School,0,0,5.0,61.0,9.82,7.37,0,60-74%,B
+STU0521,Male,Business,Urban,Full-Time,None,1,0,4.0,99.0,5.96,5.88,0,90%+,C
+STU0522,Female,Electronics,Urban,Full-Time,None,1,0,6.0,97.0,9.36,8.81,0,90%+,A
+STU0523,Male,Arts,Urban,Full-Time,Graduate,1,1,1.0,76.0,5.18,3.56,1,75-89%,F
+STU0524,Female,Electronics,Urban,Part-Time,High School,1,1,4.0,85.0,6.3,7.12,0,75-89%,B
+STU0525,Female,Arts,Semi-Urban,Full-Time,Graduate,1,1,6.0,59.0,4.71,4.89,1,<60%,D
+STU0526,Female,Arts,Rural,Full-Time,None,1,0,4.0,53.0,8.05,6.49,1,<60%,C
+STU0527,Female,Arts,Urban,Full-Time,High School,0,1,5.0,86.0,4.27,4.88,1,75-89%,D
+STU0528,Female,Arts,Rural,Part-Time,High School,1,0,6.0,60.0,4.67,6.7,0,60-74%,C
+STU0529,Female,Electronics,Urban,Part-Time,Graduate,0,0,2.0,95.0,4.82,5.04,0,90%+,D
+STU0530,Male,Arts,Rural,Full-Time,Graduate,1,0,6.0,95.0,5.22,7.46,0,90%+,B
+STU0531,Male,Mechanical,Urban,Full-Time,Post-Graduate,1,0,6.0,58.0,5.94,6.51,1,<60%,C
+STU0532,Female,Civil,Urban,Full-Time,Graduate,0,1,1.0,94.0,9.13,7.39,0,90%+,B
+STU0533,Male,Electronics,Urban,Full-Time,Graduate,1,0,7.0,46.0,7.03,7.77,1,<60%,B
+STU0534,Male,Civil,Semi-Urban,Full-Time,Graduate,1,1,5.0,58.0,7.99,7.82,0,<60%,B
+STU0535,Female,Arts,Urban,Full-Time,Graduate,0,0,7.0,46.0,7.19,7.47,1,<60%,B
+STU0536,Female,Electronics,Urban,Full-Time,None,1,1,2.0,89.0,7.82,7.39,0,75-89%,B
+STU0537,Female,Computer Science,Rural,Full-Time,Graduate,1,0,8.0,49.0,4.89,6.67,1,<60%,C
+STU0538,Female,Business,Urban,Part-Time,Graduate,1,0,2.0,58.0,9.11,6.27,1,<60%,C
+STU0539,Female,Civil,Urban,Full-Time,None,1,1,1.0,41.0,5.03,2.95,1,<60%,F
+STU0540,Male,Electronics,Semi-Urban,Full-Time,Post-Graduate,1,1,6.0,84.0,6.39,6.59,0,75-89%,C
+STU0541,Female,Business,Rural,Part-Time,Graduate,1,1,8.0,77.0,8.96,8.21,0,75-89%,B
+STU0542,Male,Mechanical,Urban,Full-Time,High School,1,0,2.0,83.0,7.31,7.54,0,75-89%,B
+STU0543,Male,Arts,Semi-Urban,Full-Time,Post-Graduate,0,0,1.0,92.0,6.66,5.49,1,90%+,D
+STU0544,Male,Computer Science,Semi-Urban,Full-Time,High School,1,0,5.0,61.0,7.58,6.41,0,60-74%,C
+STU0545,Male,Civil,Semi-Urban,Full-Time,None,1,0,7.0,48.0,8.46,8.03,0,<60%,B
+STU0546,Male,Business,Rural,Full-Time,Graduate,0,1,8.0,55.0,6.15,5.98,0,<60%,C
+STU0547,Female,Mechanical,Semi-Urban,Full-Time,Graduate,1,1,3.0,58.0,7.46,6.0,1,<60%,C
+STU0548,Female,Electronics,Urban,Full-Time,None,1,0,2.0,63.0,9.3,6.6,0,60-74%,C
+STU0549,Female,Business,Urban,Full-Time,Graduate,1,0,7.0,92.0,9.98,8.23,0,90%+,B
+STU0550,Male,Mechanical,Semi-Urban,Full-Time,Graduate,1,1,6.0,78.0,6.7,6.8,0,75-89%,C
+STU0551,Female,Mechanical,Urban,Part-Time,Graduate,1,0,2.0,45.0,4.71,5.09,1,<60%,D
+STU0552,Female,Electronics,Semi-Urban,Full-Time,Post-Graduate,1,1,8.0,63.0,4.21,5.34,0,60-74%,D
+STU0553,Male,Mechanical,Urban,Part-Time,Graduate,1,0,1.0,53.0,7.05,4.73,1,<60%,D
+STU0554,Female,Mechanical,Urban,Full-Time,High School,0,0,6.0,82.0,5.74,5.78,0,75-89%,C
+STU0555,Male,Civil,Urban,Part-Time,Post-Graduate,1,1,5.0,50.0,5.61,5.04,1,<60%,D
+STU0556,Female,Computer Science,Urban,Full-Time,High School,1,0,1.0,86.0,7.21,8.02,0,75-89%,B
+STU0557,Female,Arts,Semi-Urban,Full-Time,Graduate,0,0,7.0,94.0,8.93,6.3,0,90%+,C
+STU0558,Male,Business,Rural,Full-Time,Graduate,0,0,2.0,64.0,4.79,5.03,0,60-74%,D
+STU0559,Male,Arts,Semi-Urban,Full-Time,Post-Graduate,1,0,2.0,55.0,5.39,4.12,1,<60%,D
+STU0560,Female,Business,Rural,Full-Time,High School,0,0,4.0,78.0,8.44,7.7,0,75-89%,B
+STU0561,Female,Business,Urban,Full-Time,Graduate,0,0,9.0,70.0,6.71,7.25,0,60-74%,B
+STU0562,Female,Civil,Semi-Urban,Full-Time,Graduate,1,0,7.0,70.0,7.09,7.59,0,60-74%,B
+STU0563,Female,Civil,Urban,Part-Time,None,0,0,8.0,91.0,5.02,6.51,0,90%+,C
+STU0564,Male,Civil,Urban,Full-Time,Post-Graduate,1,1,5.0,57.0,5.52,6.32,1,<60%,C
+STU0565,Male,Civil,Semi-Urban,Full-Time,Graduate,1,1,6.0,98.0,7.08,7.46,0,90%+,B
+STU0566,Male,Mechanical,Semi-Urban,Full-Time,Post-Graduate,1,1,7.0,70.0,5.34,6.91,0,60-74%,C
+STU0567,Female,Business,Rural,Full-Time,Post-Graduate,0,0,4.0,74.0,7.05,6.62,0,60-74%,C
+STU0568,Female,Electronics,Semi-Urban,Full-Time,High School,1,1,4.0,91.0,4.62,5.87,0,90%+,C
+STU0569,Female,Business,Urban,Part-Time,High School,1,0,5.0,70.0,8.07,5.92,0,60-74%,C
+STU0570,Female,Computer Science,Semi-Urban,Full-Time,Graduate,0,0,1.0,95.0,7.4,6.41,0,90%+,C
+STU0571,Female,Computer Science,Urban,Full-Time,Graduate,1,1,5.0,62.0,8.86,7.68,0,60-74%,B
+STU0572,Female,Electronics,Semi-Urban,Full-Time,High School,1,0,2.0,43.0,5.96,3.88,1,<60%,F
+STU0573,Female,Business,Semi-Urban,Full-Time,High School,1,0,8.0,62.0,8.8,7.67,0,60-74%,B
+STU0574,Female,Arts,Semi-Urban,Full-Time,Graduate,0,1,2.0,82.0,4.6,5.94,1,75-89%,C
+STU0575,Male,Computer Science,Urban,Full-Time,Graduate,1,0,1.0,52.0,7.6,5.79,1,<60%,C
+STU0576,Male,Computer Science,Urban,Part-Time,Post-Graduate,1,1,2.0,98.0,9.33,6.29,0,90%+,C
+STU0577,Female,Civil,Urban,Full-Time,Post-Graduate,0,1,3.0,87.0,9.85,7.6,0,75-89%,B
+STU0578,Female,Electronics,Semi-Urban,Full-Time,Graduate,1,0,7.0,56.0,8.25,8.0,0,<60%,B
+STU0579,Male,Business,Rural,Full-Time,Post-Graduate,1,1,4.0,71.0,8.16,7.34,0,60-74%,B
+STU0580,Female,Electronics,Semi-Urban,Full-Time,Graduate,1,0,5.0,52.0,7.29,6.16,1,<60%,C
+STU0581,Female,Electronics,Semi-Urban,Full-Time,Post-Graduate,0,0,2.0,62.0,8.94,6.25,0,60-74%,C
+STU0582,Male,Arts,Rural,Full-Time,None,0,1,2.0,86.0,7.66,7.15,0,75-89%,B
+STU0583,Female,Arts,Rural,Full-Time,Graduate,0,0,2.0,76.0,9.76,6.41,0,75-89%,C
+STU0584,Female,Mechanical,Rural,Part-Time,Graduate,1,1,8.0,68.0,5.92,6.26,0,60-74%,C
+STU0585,Male,Arts,Urban,Full-Time,Post-Graduate,1,1,6.0,43.0,8.79,6.95,1,<60%,C
+STU0586,Male,Computer Science,Urban,Part-Time,Graduate,1,0,3.0,66.0,5.95,6.31,0,60-74%,C
+STU0587,Male,Business,Semi-Urban,Full-Time,High School,1,0,1.0,90.0,5.29,5.73,0,90%+,C
+STU0588,Female,Business,Urban,Full-Time,None,1,0,4.0,88.0,8.39,8.85,0,75-89%,A
+STU0589,Female,Mechanical,Semi-Urban,Full-Time,Graduate,0,0,3.0,78.0,9.52,7.43,0,75-89%,B
+STU0590,Female,Arts,Semi-Urban,Full-Time,None,1,0,2.0,47.0,8.51,7.07,1,<60%,B
+STU0591,Female,Arts,Urban,Full-Time,Graduate,1,1,9.0,53.0,6.67,6.78,1,<60%,C
+STU0592,Male,Business,Urban,Full-Time,Graduate,1,1,6.0,93.0,4.95,6.44,0,90%+,C
+STU0593,Female,Arts,Semi-Urban,Full-Time,None,1,0,1.0,60.0,5.99,4.59,1,60-74%,D
+STU0594,Male,Business,Rural,Full-Time,Graduate,1,0,8.0,76.0,6.48,6.0,0,75-89%,C
+STU0595,Male,Mechanical,Semi-Urban,Full-Time,None,0,0,1.0,78.0,9.5,6.59,0,75-89%,C
+STU0596,Female,Business,Urban,Part-Time,Graduate,0,1,7.0,96.0,9.36,7.95,0,90%+,B
+STU0597,Male,Computer Science,Urban,Part-Time,Post-Graduate,1,0,3.0,59.0,4.38,4.85,1,<60%,D
+STU0598,Female,Business,Rural,Full-Time,High School,1,0,4.0,46.0,7.4,5.17,1,<60%,D
+STU0599,Female,Arts,Rural,Full-Time,Post-Graduate,1,0,1.0,76.0,9.09,7.17,0,75-89%,B
+STU0600,Male,Mechanical,Urban,Full-Time,None,1,0,1.0,58.0,9.84,5.72,1,<60%,C
+STU0601,Male,Civil,Urban,Part-Time,Graduate,1,0,7.0,68.0,4.87,6.85,0,60-74%,C
+STU0602,Male,Computer Science,Urban,Part-Time,Post-Graduate,0,0,6.0,44.0,7.0,6.41,1,<60%,C
+STU0603,Female,Civil,Semi-Urban,Full-Time,Graduate,0,1,6.0,71.0,8.36,6.34,0,60-74%,C
+STU0604,Female,Business,Rural,Full-Time,None,1,0,7.0,55.0,6.06,6.95,1,<60%,C
+STU0605,Male,Mechanical,Urban,Full-Time,High School,0,1,9.0,40.0,5.94,7.26,1,<60%,B
+STU0606,Female,Business,Rural,Full-Time,Graduate,1,0,7.0,52.0,5.12,6.0,1,<60%,C
+STU0607,Female,Civil,Semi-Urban,Full-Time,Post-Graduate,1,0,1.0,60.0,7.29,6.56,1,60-74%,C
+STU0608,Male,Computer Science,Urban,Part-Time,Post-Graduate,1,1,8.0,80.0,7.37,7.71,0,75-89%,B
+STU0609,Female,Computer Science,Semi-Urban,Full-Time,None,0,0,5.0,99.0,5.44,8.82,0,90%+,A
+STU0610,Female,Mechanical,Semi-Urban,Full-Time,Graduate,1,0,8.0,62.0,4.55,6.55,0,60-74%,C
+STU0611,Female,Business,Urban,Full-Time,Graduate,1,0,5.0,60.0,6.05,5.94,0,60-74%,C
+STU0612,Male,Arts,Urban,Full-Time,High School,1,1,4.0,70.0,4.24,6.48,0,60-74%,C
+STU0613,Female,Mechanical,Rural,Full-Time,Graduate,1,1,5.0,77.0,6.72,3.9,0,75-89%,F
+STU0614,Male,Business,Urban,Full-Time,Post-Graduate,1,0,6.0,70.0,6.29,8.09,0,60-74%,B
+STU0615,Female,Electronics,Urban,Full-Time,High School,1,1,6.0,90.0,6.41,7.52,0,90%+,B
+STU0616,Female,Civil,Urban,Full-Time,Graduate,1,0,9.0,80.0,7.16,8.43,0,75-89%,B
+STU0617,Male,Computer Science,Semi-Urban,Full-Time,Post-Graduate,1,1,4.0,90.0,5.22,5.99,0,90%+,C
+STU0618,Male,Civil,Urban,Full-Time,Graduate,1,1,8.0,46.0,4.99,5.51,1,<60%,C
+STU0619,Male,Computer Science,Urban,Part-Time,Graduate,1,0,1.0,52.0,7.68,5.16,1,<60%,D
+STU0620,Female,Business,Urban,Full-Time,High School,1,1,7.0,96.0,8.84,8.47,0,90%+,B
+STU0621,Male,Computer Science,Urban,Full-Time,Graduate,1,0,7.0,40.0,4.2,4.88,1,<60%,D
+STU0622,Female,Business,Semi-Urban,Full-Time,Graduate,0,0,6.0,60.0,9.16,7.45,0,60-74%,B
+STU0623,Male,Business,Semi-Urban,Full-Time,Post-Graduate,1,0,7.0,53.0,8.53,9.04,1,<60%,A
+STU0624,Female,Business,Semi-Urban,Full-Time,High School,0,0,8.0,97.0,4.88,7.39,0,90%+,B
+STU0625,Female,Mechanical,Urban,Part-Time,Graduate,1,1,6.0,70.0,9.09,7.39,0,60-74%,B
+STU0626,Male,Computer Science,Semi-Urban,Part-Time,None,1,1,9.0,60.0,5.46,7.06,0,60-74%,B
+STU0627,Male,Mechanical,Semi-Urban,Full-Time,Graduate,1,0,4.0,46.0,8.74,8.0,1,<60%,B
+STU0628,Female,Computer Science,Urban,Part-Time,Graduate,1,0,7.0,48.0,6.22,6.36,1,<60%,C
+STU0629,Male,Electronics,Rural,Full-Time,None,1,1,7.0,99.0,7.16,9.14,0,90%+,A
+STU0630,Female,Arts,Semi-Urban,Full-Time,Graduate,1,1,9.0,81.0,8.71,8.48,0,75-89%,B
+STU0631,Male,Electronics,Urban,Full-Time,High School,1,0,8.0,52.0,6.52,8.31,1,<60%,B
+STU0632,Male,Business,Urban,Part-Time,Graduate,1,1,1.0,86.0,4.46,4.99,1,75-89%,D
+STU0633,Male,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,7.0,43.0,7.16,7.02,1,<60%,B
+STU0634,Male,Mechanical,Semi-Urban,Full-Time,High School,0,0,9.0,76.0,7.64,7.03,0,75-89%,B
+STU0635,Male,Electronics,Urban,Full-Time,Post-Graduate,1,0,6.0,81.0,5.24,6.38,0,75-89%,C
+STU0636,Female,Arts,Semi-Urban,Full-Time,Post-Graduate,1,1,8.0,65.0,8.65,8.5,0,60-74%,B
+STU0637,Male,Computer Science,Semi-Urban,Full-Time,Graduate,1,1,1.0,66.0,7.78,7.53,1,60-74%,B
+STU0638,Male,Arts,Urban,Part-Time,None,1,0,6.0,92.0,9.17,9.8,0,90%+,A
+STU0639,Male,Arts,Urban,Part-Time,Graduate,1,0,3.0,92.0,5.58,6.83,0,90%+,C
+STU0640,Male,Business,Semi-Urban,Full-Time,High School,1,1,6.0,65.0,7.43,7.09,0,60-74%,B
+STU0641,Female,Electronics,Rural,Full-Time,Graduate,0,0,4.0,70.0,7.3,6.48,0,60-74%,C
+STU0642,Male,Civil,Urban,Full-Time,Post-Graduate,1,0,9.0,75.0,6.47,9.52,0,75-89%,A
+STU0643,Male,Computer Science,Rural,Full-Time,Graduate,1,0,3.0,61.0,7.05,5.58,0,60-74%,C
+STU0644,Male,Computer Science,Semi-Urban,Full-Time,Graduate,0,0,7.0,97.0,9.15,7.71,0,90%+,B
+STU0645,Male,Business,Urban,Part-Time,Graduate,1,0,5.0,70.0,5.78,6.45,0,60-74%,C
+STU0646,Male,Business,Urban,Full-Time,Graduate,0,0,3.0,70.0,8.97,7.05,0,60-74%,B
+STU0647,Male,Business,Semi-Urban,Full-Time,High School,1,0,2.0,82.0,5.05,6.25,0,75-89%,C
+STU0648,Male,Mechanical,Urban,Full-Time,High School,1,0,8.0,45.0,4.85,7.08,1,<60%,B
+STU0649,Male,Civil,Semi-Urban,Full-Time,Graduate,0,0,2.0,60.0,7.51,6.85,0,60-74%,C
+STU0650,Male,Civil,Urban,Full-Time,Graduate,1,0,9.0,50.0,4.83,7.81,1,<60%,B
+STU0651,Female,Mechanical,Rural,Full-Time,High School,1,1,9.0,44.0,9.81,8.22,1,<60%,B
+STU0652,Male,Arts,Rural,Full-Time,Post-Graduate,1,0,9.0,70.0,6.73,8.41,0,60-74%,B
+STU0653,Male,Civil,Semi-Urban,Part-Time,None,1,0,7.0,43.0,8.85,7.83,1,<60%,B
+STU0654,Male,Electronics,Urban,Part-Time,High School,0,0,3.0,44.0,5.53,5.3,1,<60%,D
+STU0655,Female,Arts,Rural,Full-Time,Post-Graduate,1,0,8.0,62.0,9.18,7.5,0,60-74%,B
+STU0656,Male,Business,Rural,Full-Time,Graduate,1,0,3.0,76.0,5.3,4.61,1,75-89%,D
+STU0657,Female,Arts,Semi-Urban,Full-Time,Graduate,0,0,4.0,69.0,9.9,7.85,0,60-74%,B
+STU0658,Male,Electronics,Semi-Urban,Full-Time,Graduate,0,1,4.0,73.0,4.52,4.88,1,60-74%,D
+STU0659,Female,Civil,Urban,Full-Time,High School,1,1,2.0,97.0,6.16,7.8,1,90%+,B
+STU0660,Female,Mechanical,Urban,Full-Time,Graduate,0,1,5.0,57.0,4.37,4.49,1,<60%,D
+STU0661,Female,Mechanical,Urban,Full-Time,High School,1,0,2.0,46.0,6.56,3.75,1,<60%,F
+STU0662,Male,Arts,Urban,Full-Time,Post-Graduate,1,0,8.0,81.0,5.12,7.67,0,75-89%,B
+STU0663,Female,Civil,Rural,Full-Time,None,1,1,8.0,56.0,6.5,5.7,1,<60%,C
+STU0664,Male,Mechanical,Rural,Full-Time,Graduate,1,0,7.0,61.0,9.18,7.67,0,60-74%,B
+STU0665,Female,Civil,Urban,Full-Time,Post-Graduate,1,0,9.0,88.0,7.05,8.68,0,75-89%,A
+STU0666,Female,Civil,Urban,Part-Time,High School,1,0,9.0,59.0,8.36,7.78,1,<60%,B
+STU0667,Male,Business,Rural,Full-Time,Post-Graduate,1,0,6.0,63.0,4.03,5.46,0,60-74%,D
+STU0668,Male,Arts,Urban,Full-Time,Graduate,0,1,4.0,49.0,4.68,4.86,1,<60%,D
+STU0669,Male,Mechanical,Semi-Urban,Full-Time,Graduate,0,0,4.0,53.0,8.32,4.28,1,<60%,D
+STU0670,Female,Electronics,Urban,Full-Time,Post-Graduate,1,0,2.0,60.0,6.67,5.95,0,60-74%,C
+STU0671,Female,Civil,Semi-Urban,Full-Time,Graduate,0,1,3.0,51.0,8.8,5.5,1,<60%,D
+STU0672,Female,Business,Urban,Full-Time,High School,1,0,4.0,49.0,9.59,5.81,0,<60%,C
+STU0673,Male,Mechanical,Semi-Urban,Full-Time,High School,0,0,8.0,70.0,8.52,7.37,0,60-74%,B
+STU0674,Female,Electronics,Urban,Full-Time,Post-Graduate,1,0,5.0,72.0,9.27,7.76,0,60-74%,B
+STU0675,Male,Electronics,Rural,Part-Time,High School,1,0,5.0,75.0,6.7,7.26,0,75-89%,B
+STU0676,Female,Civil,Urban,Full-Time,Graduate,1,0,5.0,66.0,7.05,5.81,0,60-74%,C
+STU0677,Male,Computer Science,Semi-Urban,Part-Time,Graduate,1,1,8.0,55.0,4.92,6.61,1,<60%,C
+STU0678,Female,Electronics,Semi-Urban,Part-Time,Graduate,1,0,8.0,57.0,9.34,8.2,0,<60%,B
+STU0679,Male,Computer Science,Semi-Urban,Full-Time,Graduate,1,1,3.0,86.0,7.97,6.13,0,75-89%,C
+STU0680,Female,Electronics,Urban,Full-Time,Graduate,1,1,1.0,83.0,4.26,4.61,1,75-89%,D
+STU0681,Male,Computer Science,Semi-Urban,Full-Time,None,1,0,1.0,66.0,7.01,4.51,1,60-74%,D
+STU0682,Female,Arts,Urban,Full-Time,High School,1,0,1.0,48.0,8.69,5.81,1,<60%,C
+STU0683,Male,Arts,Urban,Part-Time,Graduate,1,0,6.0,72.0,5.39,7.39,0,60-74%,B
+STU0684,Male,Electronics,Semi-Urban,Full-Time,Graduate,0,0,9.0,68.0,8.4,9.02,0,60-74%,A
+STU0685,Male,Civil,Urban,Full-Time,Post-Graduate,1,0,3.0,89.0,7.08,6.75,0,75-89%,C
+STU0686,Female,Business,Rural,Part-Time,Graduate,0,0,5.0,69.0,8.83,7.48,0,60-74%,B
+STU0687,Male,Civil,Urban,Full-Time,None,1,1,3.0,52.0,4.36,3.18,1,<60%,F
+STU0688,Female,Electronics,Urban,Full-Time,High School,1,0,7.0,50.0,4.5,5.69,0,<60%,C
+STU0689,Male,Computer Science,Semi-Urban,Full-Time,High School,1,0,4.0,50.0,5.56,5.76,1,<60%,C
+STU0690,Male,Arts,Urban,Part-Time,Post-Graduate,0,1,8.0,85.0,5.79,8.0,0,75-89%,B
+STU0691,Female,Civil,Rural,Full-Time,None,1,0,4.0,52.0,5.57,5.04,0,<60%,D
+STU0692,Female,Business,Urban,Full-Time,Graduate,1,1,8.0,53.0,6.75,7.86,1,<60%,B
+STU0693,Female,Business,Rural,Full-Time,Graduate,0,0,6.0,81.0,9.66,6.45,0,75-89%,C
+STU0694,Female,Arts,Urban,Full-Time,High School,1,1,9.0,72.0,5.4,7.89,0,60-74%,B
+STU0695,Male,Civil,Urban,Part-Time,High School,0,1,6.0,99.0,7.05,5.47,0,90%+,D
+STU0696,Female,Electronics,Rural,Full-Time,Post-Graduate,1,0,3.0,57.0,6.81,4.93,1,<60%,D
+STU0697,Male,Arts,Rural,Full-Time,None,0,0,6.0,82.0,7.03,6.08,0,75-89%,C
+STU0698,Male,Computer Science,Urban,Full-Time,Graduate,1,1,4.0,64.0,5.53,6.41,0,60-74%,C
+STU0699,Male,Computer Science,Urban,Part-Time,Graduate,1,1,6.0,62.0,6.92,7.36,0,60-74%,B
+STU0700,Male,Civil,Urban,Full-Time,High School,1,1,9.0,44.0,5.62,7.09,1,<60%,B
+STU0701,Male,Electronics,Urban,Full-Time,High School,1,0,2.0,42.0,7.41,5.4,1,<60%,D
+STU0702,Female,Computer Science,Rural,Full-Time,Graduate,1,0,9.0,56.0,4.64,5.08,0,<60%,D
+STU0703,Male,Mechanical,Semi-Urban,Full-Time,Graduate,0,1,1.0,52.0,7.43,4.37,1,<60%,D
+STU0704,Male,Mechanical,Urban,Part-Time,Graduate,1,1,3.0,47.0,7.05,5.8,1,<60%,C
+STU0705,Male,Mechanical,Semi-Urban,Full-Time,High School,1,0,8.0,98.0,6.84,9.86,0,90%+,A
+STU0706,Female,Arts,Semi-Urban,Part-Time,Post-Graduate,1,0,5.0,46.0,8.59,7.72,1,<60%,B
+STU0707,Male,Arts,Urban,Full-Time,High School,1,0,6.0,88.0,6.37,7.68,0,75-89%,B
+STU0708,Female,Civil,Rural,Part-Time,High School,0,1,7.0,95.0,5.26,7.29,0,90%+,B
+STU0709,Male,Business,Urban,Full-Time,Post-Graduate,1,0,2.0,70.0,7.05,6.52,0,60-74%,C
+STU0710,Male,Business,Semi-Urban,Full-Time,High School,1,1,7.0,48.0,4.63,6.47,1,<60%,C
+STU0711,Male,Civil,Rural,Full-Time,High School,1,1,9.0,73.0,4.66,6.22,0,60-74%,C
+STU0712,Male,Civil,Urban,Full-Time,Graduate,1,0,6.0,62.0,6.96,7.18,0,60-74%,B
+STU0713,Female,Business,Semi-Urban,Full-Time,Post-Graduate,1,0,5.0,96.0,5.66,5.4,0,90%+,D
+STU0714,Male,Mechanical,Rural,Full-Time,Post-Graduate,0,0,7.0,48.0,4.59,7.33,1,<60%,B
+STU0715,Male,Electronics,Urban,Full-Time,Graduate,0,0,8.0,74.0,9.68,7.34,0,60-74%,B
+STU0716,Female,Mechanical,Semi-Urban,Full-Time,Graduate,1,1,8.0,64.0,7.53,6.33,0,60-74%,C
+STU0717,Male,Computer Science,Urban,Full-Time,Post-Graduate,1,0,6.0,48.0,5.04,8.15,1,<60%,B
+STU0718,Female,Computer Science,Urban,Full-Time,High School,0,0,8.0,43.0,7.0,6.41,1,<60%,C
+STU0719,Female,Mechanical,Urban,Full-Time,Post-Graduate,1,0,2.0,53.0,8.96,7.11,1,<60%,B
+STU0720,Male,Electronics,Urban,Full-Time,Post-Graduate,0,1,2.0,63.0,6.0,5.65,0,60-74%,C
+STU0721,Female,Electronics,Semi-Urban,Part-Time,Graduate,1,0,9.0,77.0,5.37,8.15,0,75-89%,B
+STU0722,Male,Civil,Semi-Urban,Full-Time,High School,1,0,8.0,83.0,7.19,8.81,0,75-89%,A
+STU0723,Male,Business,Rural,Full-Time,None,0,0,7.0,82.0,5.02,7.2,0,75-89%,B
+STU0724,Male,Mechanical,Urban,Part-Time,High School,1,1,5.0,42.0,5.77,4.88,1,<60%,D
+STU0725,Female,Electronics,Urban,Part-Time,Graduate,1,0,5.0,80.0,7.88,7.28,0,75-89%,B
+STU0726,Male,Business,Urban,Full-Time,High School,1,1,5.0,87.0,9.2,8.56,0,75-89%,A
+STU0727,Male,Mechanical,Semi-Urban,Full-Time,High School,1,0,2.0,70.0,6.95,4.79,1,60-74%,D
+STU0728,Female,Business,Urban,Full-Time,Graduate,0,0,2.0,50.0,9.89,5.85,1,<60%,C
+STU0729,Male,Civil,Urban,Full-Time,High School,0,1,7.0,59.0,7.99,6.26,1,<60%,C
+STU0730,Male,Civil,Urban,Full-Time,Graduate,1,0,3.0,90.0,8.51,7.03,0,90%+,B
+STU0731,Male,Civil,Semi-Urban,Part-Time,Post-Graduate,1,0,1.0,82.0,6.03,4.6,1,75-89%,D
+STU0732,Male,Mechanical,Urban,Full-Time,Graduate,0,1,6.0,94.0,8.35,8.91,0,90%+,A
+STU0733,Female,Mechanical,Semi-Urban,Full-Time,Graduate,1,0,5.0,40.0,6.48,7.59,1,<60%,B
+STU0734,Female,Computer Science,Urban,Full-Time,High School,0,0,2.0,96.0,5.19,5.21,0,90%+,D
+STU0735,Female,Arts,Urban,Full-Time,Graduate,1,0,3.0,54.0,4.36,3.61,1,<60%,F
+STU0736,Male,Mechanical,Rural,Part-Time,High School,0,1,6.0,85.0,6.34,6.98,0,75-89%,C
+STU0737,Male,Computer Science,Urban,Full-Time,Graduate,0,0,8.0,74.0,4.92,6.82,0,60-74%,C
+STU0738,Female,Civil,Urban,Full-Time,Post-Graduate,0,0,2.0,88.0,7.45,6.51,0,75-89%,C
+STU0739,Male,Computer Science,Urban,Full-Time,High School,0,0,1.0,64.0,9.12,5.67,0,60-74%,C
+STU0740,Female,Mechanical,Urban,Full-Time,Post-Graduate,1,0,6.0,84.0,4.7,7.59,0,75-89%,B
+STU0741,Male,Mechanical,Semi-Urban,Full-Time,Post-Graduate,0,0,5.0,95.0,9.58,9.5,0,90%+,A
+STU0742,Female,Electronics,Rural,Full-Time,Graduate,1,0,1.0,97.0,8.34,5.45,1,90%+,D
+STU0743,Male,Civil,Rural,Full-Time,Post-Graduate,1,0,4.0,96.0,9.57,7.46,0,90%+,B
+STU0744,Male,Business,Urban,Full-Time,High School,0,0,6.0,41.0,9.22,4.76,1,<60%,D
+STU0745,Female,Mechanical,Semi-Urban,Full-Time,Post-Graduate,0,0,5.0,61.0,7.43,5.56,0,60-74%,C
+STU0746,Male,Computer Science,Rural,Full-Time,Graduate,0,0,8.0,96.0,9.2,9.99,0,90%+,A
+STU0747,Female,Civil,Urban,Full-Time,Post-Graduate,0,0,1.0,85.0,4.48,5.89,0,75-89%,C
+STU0748,Female,Business,Rural,Full-Time,High School,1,1,3.0,69.0,8.64,7.49,0,60-74%,B
+STU0749,Female,Electronics,Urban,Part-Time,High School,1,1,6.0,44.0,5.58,7.15,1,<60%,B
+STU0750,Male,Civil,Semi-Urban,Full-Time,Graduate,1,0,2.0,43.0,4.65,3.03,1,<60%,F
+STU0751,Male,Electronics,Rural,Part-Time,Graduate,1,0,5.0,55.0,7.28,7.11,1,<60%,B
+STU0752,Male,Computer Science,Semi-Urban,Full-Time,High School,1,0,9.0,80.0,7.38,8.37,0,75-89%,B
+STU0753,Male,Civil,Urban,Full-Time,Graduate,1,0,2.0,86.0,4.76,5.18,0,75-89%,D
+STU0754,Female,Arts,Urban,Full-Time,Graduate,1,0,2.0,41.0,7.18,3.79,1,<60%,F
+STU0755,Female,Business,Urban,Part-Time,Graduate,1,0,8.0,77.0,9.1,9.77,0,75-89%,A
+STU0756,Female,Civil,Urban,Full-Time,Graduate,1,0,8.0,47.0,6.94,7.37,1,<60%,B
+STU0757,Female,Mechanical,Semi-Urban,Full-Time,High School,0,1,4.0,47.0,8.99,6.02,1,<60%,C
+STU0758,Male,Computer Science,Urban,Full-Time,Graduate,1,0,5.0,40.0,7.05,5.47,0,<60%,D
+STU0759,Female,Computer Science,Urban,Full-Time,High School,0,0,2.0,57.0,5.92,3.27,1,<60%,F
+STU0760,Female,Electronics,Rural,Full-Time,Graduate,1,1,4.0,77.0,7.05,5.04,0,75-89%,D
+STU0761,Female,Arts,Urban,Full-Time,High School,1,1,9.0,51.0,5.19,6.19,1,<60%,C
+STU0762,Male,Electronics,Semi-Urban,Full-Time,High School,1,0,6.0,78.0,9.2,7.68,0,75-89%,B
+STU0763,Female,Business,Semi-Urban,Full-Time,High School,1,0,3.0,70.0,5.69,7.51,0,60-74%,B
+STU0764,Female,Electronics,Urban,Part-Time,Post-Graduate,1,0,8.0,62.0,5.04,7.08,0,60-74%,B
+STU0765,Female,Civil,Semi-Urban,Full-Time,High School,1,0,1.0,56.0,9.34,7.58,1,<60%,B
+STU0766,Female,Business,Urban,Full-Time,High School,1,0,2.0,53.0,9.81,7.8,1,<60%,B
+STU0767,Female,Arts,Semi-Urban,Full-Time,High School,1,0,4.0,77.0,9.89,7.15,0,75-89%,B
+STU0768,Female,Arts,Urban,Part-Time,Graduate,1,0,8.0,70.0,4.74,5.47,0,60-74%,D
+STU0769,Female,Business,Rural,Full-Time,Graduate,1,0,6.0,44.0,4.12,4.76,1,<60%,D
+STU0770,Female,Business,Semi-Urban,Full-Time,High School,1,0,3.0,76.0,7.94,6.59,0,75-89%,C
+STU0771,Female,Mechanical,Semi-Urban,Full-Time,High School,1,0,3.0,43.0,9.73,5.19,0,<60%,D
+STU0772,Male,Business,Urban,Full-Time,Graduate,1,0,3.0,97.0,6.85,6.2,0,90%+,C
+STU0773,Male,Business,Rural,Full-Time,High School,1,0,7.0,42.0,7.9,6.69,1,<60%,C
+STU0774,Male,Electronics,Urban,Full-Time,High School,0,0,9.0,88.0,4.04,5.77,0,75-89%,C
+STU0775,Female,Arts,Urban,Full-Time,None,1,0,5.0,52.0,7.24,4.91,1,<60%,D
+STU0776,Male,Electronics,Semi-Urban,Part-Time,Graduate,1,1,6.0,40.0,4.17,4.34,1,<60%,D
+STU0777,Female,Electronics,Rural,Full-Time,Graduate,0,1,6.0,80.0,5.76,6.73,0,75-89%,C
+STU0778,Male,Electronics,Semi-Urban,Full-Time,Post-Graduate,1,0,4.0,97.0,4.91,6.7,0,90%+,C
+STU0779,Female,Computer Science,Semi-Urban,Full-Time,High School,1,1,5.0,75.0,6.87,7.19,0,75-89%,B
+STU0780,Female,Business,Semi-Urban,Part-Time,Graduate,1,0,4.0,97.0,4.95,7.38,0,90%+,B
+STU0781,Male,Electronics,Semi-Urban,Full-Time,Post-Graduate,1,0,4.0,74.0,4.13,5.87,0,60-74%,C
+STU0782,Female,Electronics,Rural,Full-Time,Graduate,1,0,5.0,80.0,8.55,7.69,0,75-89%,B
+STU0783,Male,Mechanical,Urban,Full-Time,Post-Graduate,1,0,3.0,94.0,6.67,6.69,0,90%+,C
+STU0784,Female,Computer Science,Urban,Full-Time,High School,1,0,9.0,48.0,8.83,9.37,0,<60%,A
+STU0785,Male,Arts,Rural,Full-Time,High School,0,0,5.0,88.0,7.73,7.46,0,75-89%,B
+STU0786,Male,Arts,Urban,Full-Time,Graduate,0,0,3.0,92.0,6.88,5.58,0,90%+,C
+STU0787,Female,Arts,Urban,Full-Time,High School,1,0,5.0,52.0,8.73,6.62,0,<60%,C
+STU0788,Female,Civil,Urban,Full-Time,None,0,0,2.0,44.0,7.52,4.14,1,<60%,D
+STU0789,Female,Computer Science,Rural,Full-Time,Graduate,0,0,5.0,99.0,7.02,7.9,0,90%+,B
+STU0790,Male,Civil,Semi-Urban,Full-Time,None,0,0,5.0,52.0,6.2,5.74,1,<60%,C
+STU0791,Female,Computer Science,Urban,Full-Time,Post-Graduate,1,0,6.0,95.0,8.98,8.26,0,90%+,B
+STU0792,Male,Business,Urban,Full-Time,Graduate,1,0,8.0,49.0,7.05,7.04,1,<60%,B
+STU0793,Male,Electronics,Rural,Full-Time,Graduate,0,0,7.0,77.0,6.47,6.3,0,75-89%,C
+STU0794,Male,Business,Urban,Full-Time,Graduate,1,1,3.0,47.0,5.38,3.87,1,<60%,F
+STU0795,Female,Electronics,Semi-Urban,Part-Time,Graduate,1,1,4.0,55.0,4.87,4.47,1,<60%,D
+STU0796,Male,Business,Urban,Part-Time,Graduate,0,1,6.0,80.0,7.13,5.54,0,75-89%,C
+STU0797,Male,Business,Rural,Full-Time,Post-Graduate,0,1,8.0,70.0,8.28,7.53,0,60-74%,B
+STU0798,Female,Business,Semi-Urban,Full-Time,Post-Graduate,1,1,8.0,62.0,5.63,7.31,0,60-74%,B
+STU0799,Female,Computer Science,Urban,Full-Time,Post-Graduate,0,0,7.0,81.0,8.65,7.97,0,75-89%,B
+STU0800,Female,Arts,Urban,Full-Time,Post-Graduate,0,1,8.0,91.0,9.81,9.34,0,90%+,A
+STU0801,Female,Mechanical,Urban,Full-Time,High School,1,0,6.0,84.0,5.39,7.61,0,75-89%,B
+STU0802,Male,Computer Science,Semi-Urban,Full-Time,Post-Graduate,1,1,6.0,91.0,4.22,7.33,0,90%+,B
+STU0803,Female,Arts,Semi-Urban,Full-Time,Graduate,0,0,4.0,72.0,9.77,7.19,0,60-74%,B
+STU0804,Male,Arts,Urban,Full-Time,High School,1,1,4.0,82.0,7.05,6.41,0,75-89%,C
+STU0805,Female,Mechanical,Urban,Full-Time,High School,1,1,4.0,53.0,7.38,4.44,1,<60%,D
+STU0806,Female,Electronics,Rural,Full-Time,Graduate,1,1,5.0,78.0,7.54,6.92,0,75-89%,C
+STU0807,Female,Business,Rural,Part-Time,Post-Graduate,1,1,4.0,60.0,8.73,7.3,0,60-74%,B
+STU0808,Female,Computer Science,Semi-Urban,Full-Time,High School,1,1,5.0,74.0,8.97,6.68,0,60-74%,C
+STU0809,Female,Electronics,Urban,Full-Time,Post-Graduate,1,1,7.0,40.0,6.37,5.67,1,<60%,C
+STU0810,Male,Computer Science,Urban,Full-Time,Graduate,1,0,2.0,91.0,7.21,5.95,0,90%+,C
+STU0811,Female,Computer Science,Urban,Part-Time,Post-Graduate,1,1,7.0,61.0,8.76,8.66,0,60-74%,A
+STU0812,Male,Arts,Semi-Urban,Full-Time,None,1,0,8.0,87.0,7.88,7.69,0,75-89%,B
+STU0813,Female,Arts,Rural,Part-Time,None,1,0,5.0,71.0,9.45,8.66,0,60-74%,A
+STU0814,Male,Civil,Urban,Full-Time,Post-Graduate,1,0,6.0,75.0,4.74,8.09,0,75-89%,B
+STU0815,Male,Mechanical,Urban,Full-Time,Graduate,1,0,9.0,89.0,6.33,7.97,0,75-89%,B
+STU0816,Male,Computer Science,Semi-Urban,Full-Time,High School,1,1,5.0,49.0,4.67,4.99,1,<60%,D
+STU0817,Male,Business,Rural,Full-Time,Graduate,1,1,5.0,70.0,6.0,7.18,0,60-74%,B
+STU0818,Female,Electronics,Semi-Urban,Part-Time,High School,1,1,5.0,55.0,8.63,7.55,1,<60%,B
+STU0819,Male,Computer Science,Rural,Full-Time,Graduate,1,1,4.0,71.0,9.41,7.05,0,60-74%,B
+STU0820,Male,Civil,Rural,Part-Time,Graduate,1,1,2.0,72.0,6.72,6.25,0,60-74%,C
+STU0821,Male,Civil,Semi-Urban,Full-Time,Post-Graduate,1,1,3.0,91.0,8.87,7.87,0,90%+,B
+STU0822,Female,Arts,Rural,Full-Time,Post-Graduate,1,1,5.0,47.0,8.16,7.25,0,<60%,B
+STU0823,Male,Arts,Semi-Urban,Full-Time,None,1,0,6.0,71.0,5.68,5.92,0,60-74%,C
+STU0824,Female,Electronics,Urban,Full-Time,Post-Graduate,1,1,4.0,82.0,5.6,4.98,1,75-89%,D
+STU0825,Female,Electronics,Urban,Full-Time,Graduate,0,0,3.0,44.0,8.99,6.24,0,<60%,C
+STU0826,Male,Electronics,Rural,Full-Time,High School,0,1,1.0,62.0,4.88,4.4,1,60-74%,D
+STU0827,Male,Arts,Urban,Full-Time,High School,1,0,2.0,63.0,5.36,3.58,1,60-74%,F
+STU0828,Male,Electronics,Semi-Urban,Full-Time,High School,1,1,7.0,48.0,4.0,5.34,1,<60%,D
+STU0829,Female,Business,Rural,Full-Time,High School,1,0,1.0,54.0,7.35,6.73,1,<60%,C
+STU0830,Male,Electronics,Semi-Urban,Full-Time,High School,1,1,4.0,85.0,5.56,7.17,0,75-89%,B
+STU0831,Female,Business,Urban,Full-Time,None,1,1,1.0,71.0,5.15,4.87,1,60-74%,D
+STU0832,Female,Arts,Semi-Urban,Full-Time,High School,1,1,9.0,43.0,8.6,8.21,1,<60%,B
+STU0833,Male,Computer Science,Semi-Urban,Full-Time,Post-Graduate,1,0,7.0,61.0,7.05,10.0,0,60-74%,A
+STU0834,Female,Civil,Rural,Full-Time,Graduate,1,1,9.0,77.0,7.05,8.99,0,75-89%,A
+STU0835,Male,Computer Science,Urban,Full-Time,Graduate,1,1,4.0,69.0,8.42,5.98,0,60-74%,C
+STU0836,Female,Mechanical,Semi-Urban,Full-Time,Graduate,1,0,9.0,40.0,9.01,9.18,1,<60%,A
+STU0837,Male,Computer Science,Semi-Urban,Full-Time,Graduate,0,1,1.0,56.0,5.64,4.07,1,<60%,D
+STU0838,Female,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,6.0,86.0,8.9,7.23,0,75-89%,B
+STU0839,Female,Mechanical,Urban,Full-Time,High School,0,0,1.0,57.0,6.57,4.15,1,<60%,D
+STU0840,Male,Business,Semi-Urban,Part-Time,Graduate,0,1,1.0,51.0,6.47,3.43,1,<60%,F
+STU0841,Male,Computer Science,Urban,Full-Time,None,0,0,2.0,92.0,8.3,6.87,0,90%+,C
+STU0842,Female,Mechanical,Rural,Full-Time,Post-Graduate,1,1,8.0,54.0,6.4,6.8,0,<60%,C
+STU0843,Female,Mechanical,Semi-Urban,Full-Time,High School,1,1,8.0,66.0,7.4,6.59,0,60-74%,C
+STU0844,Male,Civil,Urban,Full-Time,Post-Graduate,1,1,5.0,59.0,4.26,4.98,1,<60%,D
+STU0845,Male,Business,Rural,Part-Time,High School,0,0,5.0,67.0,6.43,6.02,0,60-74%,C
+STU0846,Male,Business,Semi-Urban,Part-Time,High School,0,0,8.0,63.0,8.51,6.83,0,60-74%,C
+STU0847,Male,Computer Science,Urban,Full-Time,High School,0,0,7.0,79.0,5.89,8.37,0,75-89%,B
+STU0848,Female,Civil,Urban,Full-Time,Post-Graduate,1,1,6.0,57.0,9.38,8.44,1,<60%,B
+STU0849,Female,Mechanical,Urban,Full-Time,Graduate,1,1,4.0,60.0,4.54,4.87,0,60-74%,D
+STU0850,Male,Mechanical,Semi-Urban,Full-Time,High School,1,0,4.0,83.0,7.69,6.86,0,75-89%,C
+STU0851,Male,Computer Science,Urban,Full-Time,Graduate,1,1,9.0,63.0,7.27,6.49,0,60-74%,C
+STU0852,Female,Arts,Urban,Part-Time,High School,1,0,4.0,93.0,9.27,9.38,0,90%+,A
+STU0853,Male,Arts,Semi-Urban,Full-Time,None,1,1,6.0,62.0,8.0,8.09,0,60-74%,B
+STU0854,Female,Arts,Urban,Full-Time,Graduate,0,0,9.0,50.0,7.05,5.11,1,<60%,D
+STU0855,Male,Electronics,Semi-Urban,Full-Time,Graduate,1,0,6.0,88.0,6.11,7.8,0,75-89%,B
+STU0856,Male,Arts,Rural,Full-Time,Graduate,1,0,5.0,44.0,7.05,5.5,1,<60%,D
+STU0857,Female,Civil,Urban,Full-Time,Post-Graduate,1,0,6.0,68.0,4.78,5.29,0,60-74%,D
+STU0858,Male,Electronics,Semi-Urban,Full-Time,Graduate,1,1,3.0,70.0,5.49,5.8,0,60-74%,C
+STU0859,Male,Computer Science,Urban,Full-Time,Graduate,1,0,2.0,47.0,8.25,5.91,1,<60%,C
+STU0860,Male,Electronics,Urban,Full-Time,High School,0,1,8.0,41.0,4.32,5.7,1,<60%,C
+STU0861,Male,Arts,Semi-Urban,Part-Time,High School,1,0,9.0,61.0,4.82,7.22,0,60-74%,B
+STU0862,Male,Electronics,Urban,Full-Time,Graduate,0,1,9.0,83.0,7.52,7.88,0,75-89%,B
+STU0863,Male,Business,Urban,Full-Time,High School,1,1,8.0,73.0,7.69,9.03,0,60-74%,A
+STU0864,Female,Arts,Semi-Urban,Full-Time,Graduate,1,0,3.0,91.0,7.19,6.17,0,90%+,C
+STU0865,Male,Civil,Semi-Urban,Full-Time,High School,1,0,9.0,92.0,7.54,8.96,0,90%+,A
+STU0866,Male,Business,Rural,Full-Time,High School,0,1,6.0,84.0,8.24,7.38,0,75-89%,B
+STU0867,Female,Electronics,Urban,Full-Time,High School,1,1,9.0,44.0,6.74,6.84,0,<60%,C
+STU0868,Female,Computer Science,Rural,Full-Time,High School,1,0,9.0,56.0,5.83,7.22,0,<60%,B
+STU0869,Male,Electronics,Urban,Full-Time,Post-Graduate,1,0,7.0,63.0,8.66,6.6,0,60-74%,C
+STU0870,Female,Arts,Urban,Part-Time,None,1,0,7.0,76.0,6.85,7.32,0,75-89%,B
+STU0871,Male,Civil,Urban,Full-Time,Graduate,1,0,8.0,49.0,9.18,6.94,1,<60%,C
+STU0872,Male,Civil,Urban,Full-Time,Post-Graduate,1,1,7.0,57.0,6.68,6.04,1,<60%,C
+STU0873,Female,Business,Semi-Urban,Full-Time,Post-Graduate,0,0,1.0,77.0,5.67,6.37,0,75-89%,C
+STU0874,Male,Electronics,Rural,Part-Time,High School,1,1,6.0,69.0,7.02,7.9,0,60-74%,B
+STU0875,Female,Mechanical,Urban,Full-Time,Graduate,1,0,8.0,84.0,6.81,7.31,0,75-89%,B
+STU0876,Female,Computer Science,Semi-Urban,Full-Time,High School,0,0,8.0,57.0,9.81,8.19,1,<60%,B
+STU0877,Female,Computer Science,Rural,Full-Time,Post-Graduate,1,0,9.0,94.0,7.05,9.51,0,90%+,A
+STU0878,Female,Arts,Semi-Urban,Part-Time,High School,1,0,3.0,73.0,4.21,5.68,0,60-74%,C
+STU0879,Male,Computer Science,Urban,Full-Time,High School,1,1,8.0,99.0,7.2,7.86,0,90%+,B
+STU0880,Male,Business,Semi-Urban,Full-Time,None,1,0,3.0,68.0,5.91,5.97,0,60-74%,C
+STU0881,Male,Mechanical,Urban,Full-Time,Graduate,1,0,4.0,52.0,7.05,8.52,1,<60%,A
+STU0882,Male,Mechanical,Semi-Urban,Full-Time,High School,1,0,2.0,84.0,8.01,7.26,0,75-89%,B
+STU0883,Male,Computer Science,Rural,Full-Time,High School,1,0,8.0,88.0,8.18,8.38,0,75-89%,B
+STU0884,Male,Arts,Urban,Full-Time,High School,1,0,3.0,75.0,6.93,8.02,0,75-89%,B
+STU0885,Female,Mechanical,Urban,Full-Time,High School,1,0,8.0,52.0,6.65,8.47,1,<60%,B
+STU0886,Male,Business,Urban,Full-Time,High School,0,0,3.0,88.0,5.08,4.61,0,75-89%,D
+STU0887,Male,Electronics,Urban,Part-Time,Post-Graduate,1,1,2.0,64.0,5.26,4.08,1,60-74%,D
+STU0888,Male,Business,Urban,Full-Time,Graduate,1,0,3.0,76.0,7.05,6.58,0,75-89%,C
+STU0889,Male,Mechanical,Urban,Full-Time,High School,1,0,7.0,49.0,5.28,5.65,1,<60%,C
+STU0890,Male,Mechanical,Semi-Urban,Full-Time,High School,1,0,1.0,99.0,6.06,6.42,0,90%+,C
+STU0891,Female,Arts,Urban,Full-Time,Post-Graduate,0,1,1.0,50.0,9.05,4.94,1,<60%,D
+STU0892,Female,Computer Science,Semi-Urban,Full-Time,Graduate,1,1,4.0,48.0,5.05,3.89,1,<60%,F
+STU0893,Male,Computer Science,Rural,Full-Time,Post-Graduate,1,0,7.0,90.0,6.05,7.96,0,90%+,B
+STU0894,Female,Civil,Urban,Full-Time,Graduate,0,0,6.0,40.0,7.37,5.1,1,<60%,D
+STU0895,Female,Business,Rural,Full-Time,High School,1,1,3.0,62.0,4.71,5.5,0,60-74%,D
+STU0896,Female,Civil,Urban,Full-Time,Graduate,1,0,9.0,79.0,8.99,9.17,0,75-89%,A
+STU0897,Female,Business,Semi-Urban,Full-Time,High School,1,1,8.0,64.0,5.62,5.83,0,60-74%,C
+STU0898,Male,Arts,Urban,Part-Time,High School,0,0,8.0,73.0,4.87,7.24,0,60-74%,B
+STU0899,Male,Business,Semi-Urban,Full-Time,Graduate,0,0,7.0,55.0,7.05,6.72,1,<60%,C
+STU0900,Male,Electronics,Urban,Full-Time,Graduate,1,0,2.0,87.0,5.34,5.81,1,75-89%,C
+STU0901,Female,Civil,Rural,Full-Time,None,1,1,1.0,85.0,5.45,5.88,0,75-89%,C
+STU0902,Male,Business,Urban,Full-Time,Graduate,0,1,3.0,70.0,4.48,5.63,0,60-74%,C
+STU0903,Male,Mechanical,Urban,Full-Time,Post-Graduate,1,1,2.0,77.0,5.64,5.96,0,75-89%,C
+STU0904,Male,Civil,Urban,Full-Time,Graduate,0,1,9.0,51.0,8.09,7.6,0,<60%,B
+STU0905,Female,Arts,Semi-Urban,Part-Time,Post-Graduate,1,0,4.0,46.0,6.75,6.31,1,<60%,C
+STU0906,Male,Mechanical,Urban,Part-Time,Graduate,1,1,8.0,79.0,7.05,7.57,0,75-89%,B
+STU0907,Male,Business,Urban,Full-Time,High School,1,1,4.0,61.0,8.81,5.69,0,60-74%,C
+STU0908,Female,Electronics,Semi-Urban,Part-Time,Graduate,0,0,5.0,80.0,7.16,7.53,0,75-89%,B
+STU0909,Male,Civil,Rural,Part-Time,Graduate,0,0,2.0,57.0,8.12,4.59,1,<60%,D
+STU0910,Female,Civil,Rural,Part-Time,High School,1,0,9.0,55.0,5.89,6.04,1,<60%,C
+STU0911,Female,Electronics,Semi-Urban,Full-Time,Graduate,1,0,8.0,84.0,6.08,8.63,0,75-89%,A
+STU0912,Male,Arts,Rural,Full-Time,Graduate,1,0,2.0,40.0,5.98,4.55,1,<60%,D
+STU0913,Female,Electronics,Semi-Urban,Full-Time,Post-Graduate,0,1,9.0,47.0,5.67,4.52,1,<60%,D
+STU0914,Male,Civil,Urban,Full-Time,Graduate,0,1,6.0,52.0,4.64,4.53,1,<60%,D
+STU0915,Female,Arts,Semi-Urban,Full-Time,Graduate,1,0,5.0,73.0,7.05,6.21,0,60-74%,C
+STU0916,Male,Arts,Rural,Full-Time,High School,0,1,5.0,85.0,5.87,7.83,0,75-89%,B
+STU0917,Male,Arts,Semi-Urban,Part-Time,Post-Graduate,1,1,4.0,88.0,7.83,7.5,0,75-89%,B
+STU0918,Male,Arts,Rural,Full-Time,Graduate,1,0,5.0,84.0,5.2,6.87,0,75-89%,C
+STU0919,Female,Business,Rural,Full-Time,Graduate,1,0,6.0,88.0,8.55,8.26,0,75-89%,B
+STU0920,Male,Computer Science,Semi-Urban,Full-Time,Post-Graduate,1,0,6.0,88.0,4.18,6.57,0,75-89%,C
+STU0921,Male,Civil,Urban,Part-Time,High School,1,0,3.0,87.0,6.99,7.37,0,75-89%,B
+STU0922,Male,Mechanical,Urban,Full-Time,None,0,0,7.0,67.0,9.1,6.65,0,60-74%,C
+STU0923,Male,Mechanical,Rural,Full-Time,High School,1,0,5.0,98.0,4.82,6.62,0,90%+,C
+STU0924,Female,Arts,Urban,Full-Time,Graduate,0,1,6.0,70.0,5.83,3.81,0,60-74%,F
+STU0925,Male,Computer Science,Semi-Urban,Full-Time,Graduate,0,0,1.0,91.0,8.48,5.97,0,90%+,C
+STU0926,Male,Computer Science,Semi-Urban,Full-Time,Graduate,0,0,5.0,52.0,4.66,5.4,1,<60%,D
+STU0927,Female,Electronics,Semi-Urban,Full-Time,High School,1,1,8.0,53.0,9.75,7.96,1,<60%,B
+STU0928,Female,Civil,Urban,Full-Time,High School,1,1,8.0,70.0,7.89,8.04,0,60-74%,B
+STU0929,Male,Electronics,Semi-Urban,Full-Time,Post-Graduate,1,0,2.0,57.0,5.54,4.66,1,<60%,D
+STU0930,Female,Arts,Semi-Urban,Part-Time,High School,1,0,1.0,96.0,8.97,8.0,0,90%+,B
+STU0931,Female,Business,Rural,Part-Time,Graduate,0,0,1.0,89.0,8.4,5.66,0,75-89%,C
+STU0932,Female,Electronics,Rural,Full-Time,Graduate,1,0,5.0,48.0,7.03,6.35,1,<60%,C
+STU0933,Male,Civil,Urban,Part-Time,High School,1,0,7.0,53.0,4.76,4.59,1,<60%,D
+STU0934,Female,Computer Science,Rural,Full-Time,High School,1,1,7.0,61.0,4.4,5.71,0,60-74%,C
+STU0935,Male,Electronics,Semi-Urban,Full-Time,Post-Graduate,0,0,6.0,77.0,4.43,6.74,0,75-89%,C
+STU0936,Female,Business,Rural,Full-Time,Post-Graduate,1,0,4.0,68.0,5.03,5.45,0,60-74%,D
+STU0937,Female,Business,Urban,Part-Time,Graduate,1,0,5.0,80.0,6.17,7.18,0,75-89%,B
+STU0938,Female,Computer Science,Semi-Urban,Full-Time,Post-Graduate,1,1,3.0,44.0,6.03,5.0,0,<60%,D
+STU0939,Male,Civil,Urban,Full-Time,None,1,0,8.0,44.0,8.04,6.41,1,<60%,C
+STU0940,Female,Electronics,Urban,Part-Time,Post-Graduate,0,1,5.0,70.0,6.43,7.47,0,60-74%,B
+STU0941,Female,Business,Semi-Urban,Full-Time,High School,1,0,9.0,69.0,7.35,6.77,0,60-74%,C
+STU0942,Female,Electronics,Urban,Full-Time,Graduate,1,1,6.0,40.0,4.25,4.23,1,<60%,D
+STU0943,Female,Arts,Urban,Part-Time,Graduate,0,0,5.0,72.0,7.05,5.45,0,60-74%,D
+STU0944,Female,Computer Science,Urban,Part-Time,Post-Graduate,1,0,4.0,70.0,8.6,8.35,0,60-74%,B
+STU0945,Female,Civil,Urban,Part-Time,Graduate,1,0,9.0,92.0,8.36,9.3,0,90%+,A
+STU0946,Female,Computer Science,Semi-Urban,Part-Time,None,1,1,4.0,92.0,8.86,8.47,0,90%+,B
+STU0947,Male,Civil,Semi-Urban,Full-Time,Graduate,1,0,1.0,42.0,9.14,6.15,1,<60%,C
+STU0948,Male,Computer Science,Urban,Full-Time,High School,0,1,3.0,74.0,5.44,4.73,1,60-74%,D
+STU0949,Male,Arts,Urban,Part-Time,Graduate,1,1,4.0,53.0,5.44,5.12,1,<60%,D
+STU0950,Male,Computer Science,Rural,Full-Time,Post-Graduate,0,0,1.0,61.0,9.23,5.96,0,60-74%,C
+STU0951,Female,Civil,Semi-Urban,Part-Time,Graduate,1,0,3.0,95.0,5.32,5.64,0,90%+,C
+STU0952,Male,Business,Semi-Urban,Part-Time,High School,0,1,7.0,99.0,9.51,8.92,0,90%+,A
+STU0953,Female,Electronics,Urban,Full-Time,None,1,0,9.0,87.0,8.09,9.18,0,75-89%,A
+STU0954,Male,Arts,Urban,Full-Time,Post-Graduate,1,1,3.0,46.0,6.53,4.53,1,<60%,D
+STU0955,Female,Civil,Urban,Full-Time,Graduate,0,0,4.0,72.0,9.17,7.02,0,60-74%,B
+STU0956,Male,Civil,Urban,Full-Time,Graduate,1,0,2.0,46.0,5.59,2.57,1,<60%,F
+STU0957,Female,Mechanical,Rural,Full-Time,Graduate,1,0,7.0,99.0,4.38,7.22,0,90%+,B
+STU0958,Female,Electronics,Rural,Full-Time,Graduate,1,1,8.0,50.0,7.25,7.94,1,<60%,B
+STU0959,Male,Mechanical,Rural,Full-Time,None,0,0,8.0,62.0,6.34,6.55,0,60-74%,C
+STU0960,Male,Arts,Urban,Full-Time,High School,0,0,5.0,87.0,8.27,8.54,0,75-89%,A
+STU0961,Female,Electronics,Rural,Full-Time,High School,1,1,5.0,88.0,6.6,6.89,0,75-89%,C
+STU0962,Male,Computer Science,Semi-Urban,Full-Time,Post-Graduate,0,0,3.0,76.0,4.47,5.68,0,75-89%,C
+STU0963,Female,Electronics,Urban,Part-Time,Graduate,1,1,4.0,66.0,5.83,4.94,0,60-74%,D
+STU0964,Male,Arts,Urban,Part-Time,Graduate,1,1,9.0,79.0,8.38,8.0,0,75-89%,B
+STU0965,Female,Computer Science,Rural,Full-Time,Post-Graduate,1,0,6.0,87.0,9.99,9.09,0,75-89%,A
+STU0966,Male,Business,Urban,Full-Time,None,0,0,6.0,40.0,7.17,5.49,1,<60%,D
+STU0967,Male,Business,Urban,Full-Time,Graduate,1,1,9.0,51.0,6.85,6.16,0,<60%,C
+STU0968,Female,Mechanical,Semi-Urban,Full-Time,High School,0,1,2.0,70.0,8.9,4.82,1,60-74%,D
+STU0969,Male,Electronics,Urban,Full-Time,Graduate,1,0,2.0,56.0,9.76,5.25,1,<60%,D
+STU0970,Male,Civil,Urban,Full-Time,Graduate,1,1,7.0,95.0,8.15,7.64,0,90%+,B
+STU0971,Female,Electronics,Semi-Urban,Full-Time,Post-Graduate,1,0,7.0,78.0,7.79,7.0,0,75-89%,C
+STU0972,Female,Computer Science,Urban,Part-Time,Graduate,1,0,2.0,70.0,8.56,7.56,1,60-74%,B
+STU0973,Female,Mechanical,Rural,Full-Time,None,0,0,8.0,74.0,9.94,9.53,0,60-74%,A
+STU0974,Female,Electronics,Urban,Full-Time,High School,1,0,6.0,74.0,6.38,7.12,0,60-74%,B
+STU0975,Female,Business,Urban,Full-Time,Graduate,0,0,8.0,95.0,8.59,8.53,0,90%+,A
+STU0976,Male,Computer Science,Rural,Full-Time,Post-Graduate,1,0,8.0,92.0,4.42,7.22,0,90%+,B
+STU0977,Male,Computer Science,Semi-Urban,Part-Time,High School,1,1,8.0,98.0,7.36,7.29,0,90%+,B
+STU0978,Female,Civil,Rural,Full-Time,Graduate,1,0,8.0,85.0,8.44,7.83,0,75-89%,B
+STU0979,Female,Business,Semi-Urban,Full-Time,High School,1,0,2.0,70.0,7.0,5.18,0,60-74%,D
+STU0980,Female,Arts,Semi-Urban,Full-Time,Post-Graduate,1,1,5.0,76.0,8.42,6.6,0,75-89%,C
+STU0981,Female,Electronics,Rural,Part-Time,None,1,1,8.0,48.0,9.54,5.95,0,<60%,C
+STU0982,Female,Computer Science,Rural,Full-Time,Post-Graduate,1,0,4.0,95.0,8.7,8.64,0,90%+,A
+STU0983,Female,Business,Urban,Full-Time,Post-Graduate,1,0,8.0,95.0,5.7,7.95,0,90%+,B
+STU0984,Female,Civil,Rural,Full-Time,Graduate,0,0,6.0,98.0,9.33,9.69,0,90%+,A
+STU0985,Male,Electronics,Rural,Full-Time,Graduate,0,0,1.0,70.0,6.6,6.01,0,60-74%,C
+STU0986,Male,Business,Rural,Full-Time,High School,1,0,6.0,95.0,9.43,9.68,0,90%+,A
+STU0987,Male,Electronics,Rural,Full-Time,High School,1,0,8.0,62.0,5.22,5.88,0,60-74%,C
+STU0988,Male,Computer Science,Rural,Part-Time,Graduate,0,0,8.0,80.0,9.17,9.27,0,75-89%,A
+STU0989,Female,Arts,Urban,Full-Time,Graduate,0,1,8.0,63.0,7.85,6.52,0,60-74%,C
+STU0990,Male,Arts,Semi-Urban,Full-Time,Post-Graduate,1,0,5.0,67.0,9.37,7.11,0,60-74%,B
+STU0991,Female,Mechanical,Urban,Full-Time,Graduate,1,0,1.0,70.0,9.94,6.88,1,60-74%,C
+STU0992,Male,Mechanical,Rural,Full-Time,Post-Graduate,1,0,6.0,87.0,8.71,8.25,0,75-89%,B
+STU0993,Male,Civil,Urban,Part-Time,Graduate,1,0,4.0,95.0,9.74,8.78,0,90%+,A
+STU0994,Female,Business,Urban,Full-Time,High School,1,1,9.0,73.0,6.37,7.38,0,60-74%,B
+STU0995,Male,Business,Rural,Full-Time,Post-Graduate,1,0,7.0,90.0,7.75,10.0,0,90%+,A
+STU0996,Male,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,2.0,70.0,7.4,4.82,1,60-74%,D
+STU0997,Female,Arts,Rural,Part-Time,High School,1,0,2.0,94.0,5.02,5.34,0,90%+,D
+STU0998,Male,Arts,Urban,Full-Time,Post-Graduate,1,1,3.0,45.0,7.27,5.68,1,<60%,C
+STU0999,Male,Arts,Semi-Urban,Full-Time,Graduate,0,0,6.0,84.0,4.23,5.98,0,75-89%,C
+STU1000,Male,Computer Science,Urban,Part-Time,High School,1,1,7.0,62.0,8.04,7.89,0,60-74%,B
+STU1001,Female,Arts,Urban,Part-Time,Post-Graduate,1,0,9.0,61.0,4.2,6.66,0,60-74%,C
+STU1002,Male,Electronics,Urban,Full-Time,Graduate,1,0,5.0,40.0,8.82,6.44,1,<60%,C
+STU1003,Male,Business,Semi-Urban,Full-Time,None,1,0,1.0,76.0,8.33,6.61,0,75-89%,C
+STU1004,Female,Mechanical,Rural,Full-Time,High School,1,0,6.0,75.0,7.04,8.22,0,75-89%,B
+STU1005,Male,Civil,Urban,Full-Time,High School,0,0,9.0,78.0,5.53,7.81,0,75-89%,B
+STU1006,Female,Business,Urban,Full-Time,Graduate,0,0,8.0,93.0,9.77,7.85,0,90%+,B
+STU1007,Female,Civil,Urban,Part-Time,Graduate,0,1,1.0,66.0,4.81,3.56,1,60-74%,F
+STU1008,Female,Arts,Semi-Urban,Full-Time,Post-Graduate,1,0,9.0,87.0,8.81,10.0,0,75-89%,A
+STU1009,Female,Electronics,Urban,Part-Time,High School,1,0,3.0,74.0,9.32,5.98,0,60-74%,C
+STU1010,Female,Arts,Semi-Urban,Full-Time,High School,1,1,9.0,70.0,8.82,8.04,0,60-74%,B
+STU1011,Male,Computer Science,Semi-Urban,Full-Time,High School,1,0,7.0,79.0,7.0,7.71,0,75-89%,B
+STU1012,Male,Business,Urban,Part-Time,Graduate,1,1,6.0,62.0,5.04,4.8,0,60-74%,D
+STU1013,Male,Business,Urban,Full-Time,Graduate,0,0,6.0,97.0,4.6,7.26,0,90%+,B
+STU1014,Male,Arts,Rural,Full-Time,Graduate,1,0,5.0,70.0,9.5,8.05,1,60-74%,B
+STU1015,Female,Civil,Semi-Urban,Full-Time,High School,1,1,3.0,83.0,7.05,6.16,0,75-89%,C
+STU1016,Female,Arts,Urban,Full-Time,Post-Graduate,1,1,4.0,69.0,9.93,7.95,0,60-74%,B
+STU1017,Female,Arts,Urban,Full-Time,Post-Graduate,0,0,4.0,84.0,9.31,6.75,0,75-89%,C
+STU1018,Male,Electronics,Urban,Full-Time,Post-Graduate,1,0,8.0,99.0,9.59,9.38,0,90%+,A
+STU1019,Female,Electronics,Urban,Full-Time,Graduate,0,0,1.0,90.0,6.29,6.36,0,90%+,C
+STU1020,Male,Computer Science,Urban,Part-Time,Post-Graduate,1,0,5.0,90.0,6.12,6.67,0,90%+,C
+STU1021,Male,Computer Science,Urban,Part-Time,High School,1,0,1.0,91.0,6.96,5.25,1,90%+,D
+STU1022,Male,Arts,Urban,Full-Time,Graduate,1,0,4.0,67.0,9.55,7.86,0,60-74%,B
+STU1023,Female,Electronics,Urban,Part-Time,High School,0,0,5.0,91.0,9.87,8.66,0,90%+,A
+STU1024,Male,Civil,Semi-Urban,Full-Time,High School,0,0,1.0,90.0,6.14,6.51,0,90%+,C
+STU1025,Female,Electronics,Semi-Urban,Full-Time,Post-Graduate,0,0,3.0,44.0,4.62,6.46,1,<60%,C
+STU1026,Female,Mechanical,Semi-Urban,Full-Time,Graduate,1,1,2.0,60.0,5.03,4.77,1,60-74%,D
+STU1027,Female,Civil,Urban,Full-Time,None,0,1,5.0,60.0,6.11,5.19,0,60-74%,D
+STU1028,Female,Business,Rural,Full-Time,Post-Graduate,1,1,4.0,50.0,7.72,6.52,0,<60%,C
+STU1029,Male,Electronics,Semi-Urban,Part-Time,High School,1,0,9.0,45.0,5.08,6.8,1,<60%,C
+STU1030,Male,Electronics,Semi-Urban,Full-Time,High School,1,1,2.0,83.0,8.78,6.76,0,75-89%,C
+STU1031,Male,Mechanical,Urban,Part-Time,Graduate,1,0,3.0,74.0,8.94,7.06,0,60-74%,B
+STU1032,Male,Civil,Urban,Full-Time,Post-Graduate,1,0,4.0,47.0,7.48,6.24,1,<60%,C
+STU1033,Male,Electronics,Semi-Urban,Full-Time,Graduate,0,0,6.0,90.0,9.58,8.51,0,90%+,A
+STU1034,Female,Mechanical,Semi-Urban,Full-Time,Post-Graduate,0,0,8.0,88.0,8.95,8.72,0,75-89%,A
+STU1035,Male,Electronics,Rural,Full-Time,High School,1,0,7.0,56.0,7.57,8.06,1,<60%,B
+STU1036,Male,Mechanical,Semi-Urban,Full-Time,Graduate,1,0,6.0,65.0,6.41,5.34,0,60-74%,D
+STU1037,Male,Electronics,Rural,Part-Time,Graduate,0,0,4.0,54.0,8.73,6.79,1,<60%,C
+STU1038,Female,Electronics,Semi-Urban,Part-Time,High School,1,0,8.0,95.0,7.85,8.81,0,90%+,A
+STU1039,Male,Mechanical,Urban,Full-Time,High School,1,1,8.0,41.0,8.18,7.13,1,<60%,B
+STU1040,Female,Business,Rural,Part-Time,High School,1,0,6.0,79.0,8.91,10.0,0,75-89%,A
+STU1041,Male,Business,Semi-Urban,Full-Time,High School,1,1,7.0,40.0,7.46,7.1,0,<60%,B
+STU1042,Male,Arts,Urban,Full-Time,Graduate,1,0,1.0,82.0,5.86,4.8,1,75-89%,D
+STU1043,Male,Electronics,Urban,Full-Time,Graduate,0,0,3.0,86.0,8.95,8.02,0,75-89%,B
+STU1044,Female,Computer Science,Rural,Full-Time,High School,1,0,9.0,91.0,8.96,9.76,0,90%+,A
+STU1045,Female,Computer Science,Rural,Full-Time,High School,1,0,4.0,71.0,7.05,6.12,0,60-74%,C
+STU1046,Male,Civil,Rural,Full-Time,Post-Graduate,1,0,2.0,81.0,5.84,6.54,0,75-89%,C
+STU1047,Female,Civil,Urban,Full-Time,High School,0,0,5.0,67.0,4.21,5.18,0,60-74%,D
+STU1048,Male,Computer Science,Semi-Urban,Full-Time,Graduate,0,1,9.0,70.0,5.43,6.95,0,60-74%,C
+STU1049,Female,Arts,Rural,Full-Time,Post-Graduate,1,1,3.0,68.0,9.92,7.84,0,60-74%,B
+STU1050,Female,Arts,Urban,Full-Time,Graduate,0,1,4.0,78.0,9.58,7.9,0,75-89%,B
+STU1051,Male,Arts,Semi-Urban,Part-Time,Graduate,1,0,2.0,44.0,9.72,5.24,1,<60%,D
+STU1052,Female,Electronics,Urban,Full-Time,Graduate,1,0,1.0,86.0,6.42,5.14,0,75-89%,D
+STU1053,Female,Civil,Urban,Full-Time,Post-Graduate,1,1,7.0,58.0,8.47,5.98,1,<60%,C
+STU1054,Female,Arts,Semi-Urban,Full-Time,Post-Graduate,1,0,9.0,56.0,7.75,7.52,0,<60%,B
+STU1055,Female,Computer Science,Semi-Urban,Part-Time,Graduate,0,0,1.0,70.0,7.05,5.97,0,60-74%,C
+STU1056,Male,Arts,Urban,Full-Time,Graduate,1,0,1.0,81.0,4.88,5.79,0,75-89%,C
+STU1057,Male,Electronics,Urban,Full-Time,Graduate,1,0,3.0,58.0,9.8,7.16,1,<60%,B
+STU1058,Female,Civil,Urban,Full-Time,High School,1,0,6.0,45.0,6.66,5.73,1,<60%,C
+STU1059,Female,Arts,Rural,Full-Time,Graduate,1,0,5.0,75.0,6.76,5.22,0,75-89%,D
+STU1060,Male,Computer Science,Semi-Urban,Full-Time,High School,0,1,4.0,64.0,5.36,5.42,0,60-74%,D
+STU1061,Female,Mechanical,Urban,Full-Time,Post-Graduate,1,0,1.0,93.0,5.02,5.75,0,90%+,C
+STU1062,Female,Business,Urban,Full-Time,Post-Graduate,0,1,3.0,61.0,7.54,6.18,0,60-74%,C
+STU1063,Male,Computer Science,Rural,Full-Time,High School,1,1,6.0,77.0,7.02,7.19,0,75-89%,B
+STU1064,Female,Business,Rural,Full-Time,High School,1,1,3.0,46.0,5.92,3.91,1,<60%,F
+STU1065,Female,Business,Urban,Full-Time,High School,1,0,3.0,88.0,7.73,7.62,0,75-89%,B
+STU1066,Male,Mechanical,Semi-Urban,Full-Time,Graduate,1,1,7.0,68.0,6.03,6.82,0,60-74%,C
+STU1067,Female,Electronics,Urban,Full-Time,Graduate,0,0,4.0,52.0,8.68,6.48,0,<60%,C
+STU1068,Female,Civil,Urban,Full-Time,High School,1,0,1.0,59.0,9.22,6.13,1,<60%,C
+STU1069,Female,Computer Science,Semi-Urban,Full-Time,Graduate,1,1,1.0,56.0,9.92,6.09,1,<60%,C
+STU1070,Female,Mechanical,Urban,Part-Time,Graduate,1,1,6.0,99.0,9.53,9.44,0,90%+,A
+STU1071,Female,Arts,Urban,Full-Time,Graduate,1,1,1.0,50.0,5.11,3.9,1,<60%,F
+STU1072,Female,Civil,Rural,Full-Time,Graduate,1,0,9.0,55.0,5.88,7.39,1,<60%,B
+STU1073,Female,Computer Science,Urban,Full-Time,High School,1,0,4.0,69.0,7.69,6.23,0,60-74%,C
+STU1074,Female,Electronics,Semi-Urban,Part-Time,Graduate,0,0,5.0,84.0,4.8,4.84,0,75-89%,D
+STU1075,Male,Civil,Semi-Urban,Part-Time,Post-Graduate,1,0,6.0,71.0,7.92,6.84,0,60-74%,C
+STU1076,Female,Business,Semi-Urban,Part-Time,None,0,0,5.0,43.0,7.81,6.15,1,<60%,C
+STU1077,Female,Electronics,Rural,Full-Time,Graduate,0,0,8.0,73.0,9.89,8.95,0,60-74%,A
+STU1078,Male,Business,Rural,Full-Time,Graduate,1,1,9.0,67.0,8.99,9.24,0,60-74%,A
+STU1079,Female,Computer Science,Urban,Full-Time,Graduate,1,0,9.0,41.0,6.88,6.46,0,<60%,C
+STU1080,Male,Arts,Semi-Urban,Full-Time,High School,0,0,4.0,51.0,4.87,4.17,1,<60%,D
+STU1081,Male,Business,Urban,Full-Time,High School,1,0,7.0,45.0,8.75,8.52,1,<60%,A
+STU1082,Male,Mechanical,Semi-Urban,Full-Time,High School,1,1,2.0,89.0,5.24,4.46,1,75-89%,D
+STU1083,Male,Arts,Urban,Full-Time,Post-Graduate,1,1,7.0,46.0,5.13,6.07,1,<60%,C
+STU1084,Male,Business,Urban,Full-Time,High School,1,0,3.0,43.0,8.05,7.07,1,<60%,B
+STU1085,Male,Electronics,Urban,Full-Time,High School,1,0,5.0,95.0,8.5,8.66,0,90%+,A
+STU1086,Female,Business,Rural,Full-Time,Graduate,1,0,5.0,95.0,5.56,6.01,0,90%+,C
+STU1087,Male,Civil,Urban,Part-Time,Graduate,1,0,4.0,70.0,4.58,4.5,1,60-74%,D
+STU1088,Female,Civil,Semi-Urban,Full-Time,High School,0,0,6.0,88.0,7.83,7.13,0,75-89%,B
+STU1089,Male,Business,Urban,Full-Time,High School,1,1,2.0,40.0,5.94,5.04,1,<60%,D
+STU1090,Female,Computer Science,Rural,Full-Time,Graduate,1,0,5.0,45.0,7.05,4.94,1,<60%,D
+STU1091,Male,Arts,Rural,Full-Time,High School,1,0,9.0,61.0,8.09,9.4,0,60-74%,A
+STU1092,Female,Computer Science,Urban,Full-Time,Graduate,1,1,6.0,61.0,7.2,6.65,0,60-74%,C
+STU1093,Male,Arts,Semi-Urban,Full-Time,High School,0,1,1.0,48.0,6.6,4.25,1,<60%,D
+STU1094,Female,Mechanical,Semi-Urban,Part-Time,Post-Graduate,1,1,5.0,44.0,6.72,4.75,1,<60%,D
+STU1095,Male,Electronics,Semi-Urban,Full-Time,Post-Graduate,1,1,1.0,68.0,5.66,5.2,0,60-74%,D
+STU1096,Male,Computer Science,Urban,Full-Time,Post-Graduate,0,0,8.0,85.0,4.49,6.75,0,75-89%,C
+STU1097,Male,Business,Urban,Full-Time,Graduate,1,0,6.0,65.0,5.97,7.56,0,60-74%,B
+STU1098,Female,Electronics,Rural,Full-Time,Graduate,0,0,3.0,73.0,4.7,3.92,0,60-74%,F
+STU1099,Female,Mechanical,Urban,Full-Time,None,0,0,6.0,46.0,6.3,6.87,1,<60%,C
+STU1100,Female,Computer Science,Urban,Full-Time,Graduate,1,1,1.0,55.0,6.3,5.14,1,<60%,D
+STU1101,Female,Arts,Urban,Full-Time,Graduate,1,0,1.0,47.0,9.62,4.5,1,<60%,D
+STU1102,Female,Civil,Urban,Full-Time,Graduate,0,0,8.0,69.0,7.57,7.99,0,60-74%,B
+STU1103,Female,Business,Semi-Urban,Full-Time,Post-Graduate,0,0,5.0,72.0,8.38,7.69,0,60-74%,B
+STU1104,Male,Electronics,Urban,Full-Time,None,1,0,5.0,74.0,5.77,5.23,0,60-74%,D
+STU1105,Male,Computer Science,Semi-Urban,Part-Time,High School,1,1,8.0,94.0,8.61,8.2,0,90%+,B
+STU1106,Male,Electronics,Semi-Urban,Full-Time,Post-Graduate,1,1,5.0,61.0,7.87,5.57,0,60-74%,C
+STU1107,Female,Electronics,Urban,Part-Time,Graduate,1,0,6.0,53.0,8.41,7.6,0,<60%,B
+STU1108,Male,Electronics,Semi-Urban,Full-Time,Graduate,1,0,2.0,72.0,4.2,6.03,1,60-74%,C
+STU1109,Female,Computer Science,Urban,Full-Time,Post-Graduate,1,0,7.0,90.0,7.92,7.97,0,90%+,B
+STU1110,Male,Business,Semi-Urban,Full-Time,High School,1,0,9.0,63.0,8.95,9.07,0,60-74%,A
+STU1111,Male,Arts,Semi-Urban,Full-Time,Graduate,1,0,2.0,78.0,4.16,4.44,1,75-89%,D
+STU1112,Female,Civil,Rural,Full-Time,High School,0,1,1.0,97.0,5.19,4.6,1,90%+,D
+STU1113,Female,Business,Urban,Full-Time,High School,1,1,6.0,91.0,9.85,9.22,0,90%+,A
+STU1114,Male,Computer Science,Urban,Full-Time,Graduate,1,0,8.0,46.0,9.93,6.6,0,<60%,C
+STU1115,Male,Arts,Urban,Full-Time,Graduate,0,1,3.0,80.0,7.38,6.45,0,75-89%,C
+STU1116,Female,Electronics,Semi-Urban,Full-Time,Graduate,0,0,8.0,85.0,7.65,7.15,0,75-89%,B
+STU1117,Male,Business,Urban,Part-Time,None,0,0,5.0,69.0,8.57,6.74,0,60-74%,C
+STU1118,Male,Mechanical,Urban,Part-Time,High School,1,1,5.0,70.0,5.61,7.11,0,60-74%,B
+STU1119,Female,Electronics,Semi-Urban,Part-Time,Post-Graduate,0,1,1.0,85.0,9.42,5.42,0,75-89%,D
+STU1120,Female,Civil,Rural,Full-Time,Graduate,1,0,3.0,76.0,8.67,8.09,0,75-89%,B
+STU1121,Female,Electronics,Urban,Part-Time,High School,1,0,9.0,81.0,6.16,8.38,0,75-89%,B
+STU1122,Female,Electronics,Semi-Urban,Full-Time,High School,0,0,1.0,81.0,5.94,6.05,1,75-89%,C
+STU1123,Female,Electronics,Urban,Part-Time,Graduate,1,1,4.0,77.0,6.53,5.77,0,75-89%,C
+STU1124,Male,Arts,Urban,Full-Time,Graduate,0,0,1.0,80.0,5.35,4.96,1,75-89%,D
+STU1125,Female,Business,Urban,Full-Time,Graduate,1,0,1.0,49.0,5.23,5.42,1,<60%,D
+STU1126,Male,Mechanical,Rural,Part-Time,Graduate,0,0,4.0,97.0,8.28,7.07,0,90%+,B
+STU1127,Male,Business,Rural,Full-Time,Post-Graduate,1,0,4.0,95.0,8.51,7.32,0,90%+,B
+STU1128,Female,Civil,Semi-Urban,Full-Time,High School,1,1,2.0,44.0,5.04,3.57,1,<60%,F
+STU1129,Male,Electronics,Rural,Full-Time,Graduate,0,1,7.0,72.0,5.91,6.6,0,60-74%,C
+STU1130,Female,Mechanical,Rural,Part-Time,High School,1,0,9.0,70.0,6.25,8.87,0,60-74%,A
+STU1131,Female,Business,Rural,Full-Time,Graduate,1,1,2.0,50.0,8.46,5.41,1,<60%,D
+STU1132,Male,Arts,Urban,Full-Time,Post-Graduate,1,1,9.0,85.0,7.79,8.64,0,75-89%,A
+STU1133,Female,Business,Urban,Full-Time,Post-Graduate,1,1,6.0,81.0,5.45,6.84,0,75-89%,C
+STU1134,Male,Mechanical,Urban,Full-Time,None,1,0,4.0,67.0,8.36,8.24,0,60-74%,B
+STU1135,Female,Mechanical,Rural,Full-Time,Graduate,1,0,8.0,67.0,5.04,6.93,0,60-74%,C
+STU1136,Female,Civil,Semi-Urban,Full-Time,None,0,0,4.0,48.0,7.9,5.41,0,<60%,D
+STU1137,Male,Arts,Rural,Full-Time,None,1,1,5.0,49.0,8.56,4.49,1,<60%,D
+STU1138,Male,Business,Urban,Full-Time,High School,0,1,4.0,49.0,9.09,4.24,1,<60%,D
+STU1139,Female,Business,Semi-Urban,Full-Time,Post-Graduate,1,0,8.0,70.0,5.43,7.01,0,60-74%,B
+STU1140,Male,Civil,Semi-Urban,Full-Time,Graduate,1,0,5.0,50.0,9.51,7.4,1,<60%,B
+STU1141,Female,Arts,Semi-Urban,Full-Time,High School,1,1,3.0,62.0,8.68,5.98,0,60-74%,C
+STU1142,Female,Civil,Urban,Full-Time,High School,1,0,8.0,57.0,6.27,6.51,1,<60%,C
+STU1143,Female,Mechanical,Urban,Full-Time,High School,1,1,3.0,84.0,4.53,3.9,0,75-89%,F
+STU1144,Female,Computer Science,Semi-Urban,Full-Time,Post-Graduate,1,0,4.0,70.0,6.47,6.05,1,60-74%,C
+STU1145,Male,Civil,Rural,Full-Time,Graduate,1,1,1.0,95.0,9.85,7.87,0,90%+,B
+STU1146,Female,Computer Science,Urban,Full-Time,High School,0,0,3.0,82.0,7.58,6.5,0,75-89%,C
+STU1147,Female,Mechanical,Rural,Full-Time,Graduate,0,0,9.0,85.0,9.66,9.71,0,75-89%,A
+STU1148,Male,Mechanical,Urban,Full-Time,None,1,0,4.0,97.0,4.06,6.03,0,90%+,C
+STU1149,Female,Arts,Rural,Full-Time,High School,0,0,5.0,46.0,9.09,7.74,1,<60%,B
+STU1150,Female,Arts,Semi-Urban,Full-Time,High School,1,0,8.0,47.0,9.08,9.65,1,<60%,A
+STU1151,Male,Business,Rural,Full-Time,High School,1,0,6.0,68.0,9.68,8.52,0,60-74%,A
+STU1152,Female,Computer Science,Semi-Urban,Full-Time,Graduate,1,1,2.0,77.0,4.49,3.76,1,75-89%,F
+STU1153,Male,Electronics,Urban,Full-Time,High School,1,0,8.0,49.0,6.57,6.61,1,<60%,C
+STU1154,Female,Business,Urban,Full-Time,Post-Graduate,1,0,1.0,85.0,4.51,5.62,1,75-89%,C
+STU1155,Male,Civil,Semi-Urban,Full-Time,High School,1,1,9.0,44.0,7.53,7.47,1,<60%,B
+STU1156,Female,Civil,Semi-Urban,Full-Time,Post-Graduate,1,0,8.0,81.0,5.85,7.99,0,75-89%,B
+STU1157,Female,Arts,Rural,Full-Time,Graduate,1,0,8.0,81.0,9.89,9.09,0,75-89%,A
+STU1158,Male,Civil,Urban,Full-Time,Post-Graduate,0,1,2.0,58.0,7.37,5.53,1,<60%,C
+STU1159,Male,Electronics,Urban,Full-Time,High School,1,1,5.0,69.0,4.21,5.52,0,60-74%,C
+STU1160,Male,Computer Science,Urban,Full-Time,Graduate,1,0,6.0,81.0,4.16,5.83,0,75-89%,C
+STU1161,Female,Civil,Semi-Urban,Full-Time,Post-Graduate,1,0,2.0,50.0,7.38,6.84,1,<60%,C
+STU1162,Male,Arts,Semi-Urban,Full-Time,High School,0,1,9.0,59.0,4.3,6.29,1,<60%,C
+STU1163,Male,Computer Science,Urban,Full-Time,Graduate,0,0,4.0,74.0,4.75,5.46,0,60-74%,D
+STU1164,Male,Business,Urban,Part-Time,Post-Graduate,1,1,7.0,84.0,6.46,7.51,0,75-89%,B
+STU1165,Female,Electronics,Urban,Full-Time,Post-Graduate,1,1,2.0,78.0,4.52,4.53,1,75-89%,D
+STU1166,Male,Mechanical,Semi-Urban,Full-Time,High School,1,1,9.0,51.0,7.05,4.94,1,<60%,D
+STU1167,Male,Civil,Rural,Part-Time,Post-Graduate,1,0,9.0,52.0,5.89,6.95,1,<60%,C
+STU1168,Male,Business,Rural,Full-Time,Graduate,1,0,5.0,91.0,9.08,8.06,0,90%+,B
+STU1169,Male,Business,Urban,Full-Time,High School,0,1,5.0,99.0,7.52,8.14,0,90%+,B
+STU1170,Male,Electronics,Urban,Full-Time,Graduate,1,0,9.0,86.0,4.99,7.93,0,75-89%,B
+STU1171,Female,Computer Science,Urban,Part-Time,High School,1,0,2.0,83.0,6.68,6.42,1,75-89%,C
+STU1172,Female,Business,Urban,Full-Time,Graduate,1,0,6.0,83.0,8.88,7.97,0,75-89%,B
+STU1173,Male,Electronics,Urban,Full-Time,Graduate,1,1,5.0,69.0,4.04,4.38,0,60-74%,D
+STU1174,Female,Civil,Rural,Full-Time,High School,0,1,7.0,82.0,8.5,8.34,0,75-89%,B
+STU1175,Female,Arts,Semi-Urban,Full-Time,Post-Graduate,1,1,2.0,65.0,8.56,5.59,1,60-74%,C
+STU1176,Male,Business,Semi-Urban,Part-Time,High School,1,0,4.0,66.0,5.53,5.17,0,60-74%,D
+STU1177,Female,Electronics,Urban,Part-Time,High School,1,1,7.0,78.0,7.05,8.95,0,75-89%,A
+STU1178,Female,Electronics,Urban,Full-Time,High School,1,1,1.0,94.0,7.54,6.78,0,90%+,C
+STU1179,Male,Mechanical,Semi-Urban,Full-Time,High School,0,0,4.0,90.0,8.82,7.92,0,90%+,B
+STU1180,Male,Mechanical,Semi-Urban,Full-Time,None,1,0,8.0,97.0,6.12,6.29,0,90%+,C
+STU1181,Female,Computer Science,Rural,Full-Time,Graduate,1,0,1.0,53.0,9.98,7.2,1,<60%,B
+STU1182,Male,Arts,Urban,Full-Time,Graduate,0,1,4.0,47.0,6.22,6.07,0,<60%,C
+STU1183,Female,Business,Urban,Full-Time,Post-Graduate,1,0,2.0,45.0,8.92,5.19,1,<60%,D
+STU1184,Male,Arts,Semi-Urban,Part-Time,None,1,0,5.0,58.0,6.48,5.67,1,<60%,C
+STU1185,Male,Computer Science,Rural,Full-Time,None,1,1,5.0,55.0,7.3,6.37,1,<60%,C
+STU1186,Female,Computer Science,Semi-Urban,Full-Time,Graduate,0,0,4.0,93.0,9.82,8.34,0,90%+,B
+STU1187,Female,Electronics,Urban,Part-Time,Post-Graduate,1,0,9.0,46.0,9.95,9.64,1,<60%,A
+STU1188,Male,Arts,Urban,Part-Time,High School,0,0,5.0,87.0,9.23,9.32,0,75-89%,A
+STU1189,Female,Arts,Semi-Urban,Full-Time,High School,1,0,4.0,81.0,4.76,5.62,0,75-89%,C
+STU1190,Male,Computer Science,Urban,Full-Time,Graduate,1,0,3.0,93.0,7.66,6.66,0,90%+,C
+STU1191,Female,Electronics,Urban,Full-Time,Post-Graduate,1,1,5.0,51.0,7.58,5.73,1,<60%,C
+STU1192,Female,Computer Science,Urban,Full-Time,Graduate,1,1,3.0,79.0,6.63,6.01,0,75-89%,C
+STU1193,Female,Computer Science,Urban,Full-Time,High School,1,1,5.0,70.0,9.14,7.19,0,60-74%,B
+STU1194,Female,Business,Rural,Full-Time,Post-Graduate,0,1,6.0,70.0,7.25,7.23,0,60-74%,B
+STU1195,Male,Arts,Urban,Part-Time,Post-Graduate,1,0,2.0,71.0,4.55,5.48,1,60-74%,D
+STU1196,Female,Electronics,Semi-Urban,Full-Time,Graduate,0,0,4.0,66.0,8.62,4.72,0,60-74%,D
+STU1197,Female,Arts,Urban,Full-Time,Graduate,1,0,1.0,54.0,8.15,5.96,1,<60%,C
+STU1198,Female,Electronics,Rural,Full-Time,High School,1,0,7.0,79.0,7.82,8.88,0,75-89%,A
+STU1199,Female,Computer Science,Urban,Part-Time,Graduate,1,0,1.0,84.0,7.49,6.24,1,75-89%,C
+STU1200,Female,Electronics,Rural,Full-Time,High School,1,0,8.0,88.0,4.74,8.47,0,75-89%,B
+STU1201,Female,Civil,Rural,Full-Time,Graduate,1,0,1.0,67.0,8.89,6.77,1,60-74%,C
+STU1202,Male,Electronics,Urban,Full-Time,Graduate,0,0,4.0,93.0,5.07,7.43,0,90%+,B
+STU1203,Female,Civil,Urban,Part-Time,High School,1,1,8.0,77.0,6.0,6.75,0,75-89%,C
+STU1204,Male,Civil,Rural,Full-Time,Graduate,1,0,4.0,70.0,7.94,7.36,0,60-74%,B
+STU1205,Male,Arts,Rural,Full-Time,High School,1,0,7.0,74.0,9.22,9.1,0,60-74%,A
+STU1206,Female,Civil,Urban,Full-Time,None,1,1,8.0,92.0,6.43,7.64,0,90%+,B
+STU1207,Female,Mechanical,Semi-Urban,Full-Time,High School,0,0,9.0,42.0,6.86,6.13,1,<60%,C
+STU1208,Male,Computer Science,Urban,Full-Time,Post-Graduate,1,0,5.0,51.0,8.61,7.48,0,<60%,B
+STU1209,Male,Electronics,Urban,Full-Time,Graduate,0,0,3.0,43.0,4.93,3.41,1,<60%,F
+STU1210,Male,Arts,Semi-Urban,Full-Time,High School,1,1,4.0,80.0,9.19,8.01,0,75-89%,B
+STU1211,Male,Civil,Rural,Part-Time,Post-Graduate,0,1,5.0,64.0,8.25,6.9,0,60-74%,C
+STU1212,Female,Electronics,Semi-Urban,Full-Time,Graduate,0,1,5.0,59.0,6.85,5.56,1,<60%,C
+STU1213,Male,Electronics,Urban,Part-Time,High School,1,0,5.0,87.0,8.18,7.83,0,75-89%,B
+STU1214,Female,Arts,Semi-Urban,Full-Time,High School,1,0,6.0,71.0,8.59,7.48,0,60-74%,B
+STU1215,Female,Mechanical,Urban,Full-Time,Graduate,1,0,3.0,49.0,7.54,5.54,1,<60%,C
+STU1216,Female,Computer Science,Urban,Full-Time,High School,1,0,6.0,78.0,8.98,8.69,0,75-89%,A
+STU1217,Female,Business,Rural,Full-Time,Graduate,1,0,8.0,78.0,4.92,7.87,0,75-89%,B
+STU1218,Female,Mechanical,Urban,Full-Time,Post-Graduate,1,0,5.0,78.0,6.71,6.61,0,75-89%,C
+STU1219,Female,Arts,Urban,Full-Time,None,1,0,4.0,88.0,6.92,5.0,0,75-89%,D
+STU1220,Male,Mechanical,Urban,Full-Time,None,0,0,8.0,76.0,7.18,8.97,0,75-89%,A
+STU1221,Female,Mechanical,Urban,Part-Time,Post-Graduate,1,0,1.0,90.0,7.81,5.99,0,90%+,C
+STU1222,Female,Computer Science,Urban,Full-Time,Post-Graduate,1,0,5.0,56.0,5.87,6.67,1,<60%,C
+STU1223,Male,Business,Rural,Full-Time,High School,0,0,7.0,96.0,9.21,7.3,0,90%+,B
+STU1224,Female,Civil,Semi-Urban,Full-Time,Post-Graduate,1,0,9.0,93.0,5.69,7.67,0,90%+,B
+STU1225,Male,Arts,Urban,Part-Time,Post-Graduate,0,0,7.0,98.0,6.72,7.62,0,90%+,B
+STU1226,Female,Mechanical,Urban,Full-Time,Post-Graduate,1,0,3.0,84.0,5.59,5.54,0,75-89%,C
+STU1227,Female,Business,Semi-Urban,Full-Time,Graduate,1,0,8.0,54.0,9.09,8.62,1,<60%,A
+STU1228,Female,Civil,Semi-Urban,Full-Time,High School,1,0,5.0,93.0,5.95,7.99,0,90%+,B
+STU1229,Male,Electronics,Urban,Full-Time,Graduate,0,1,6.0,85.0,8.5,7.79,0,75-89%,B
+STU1230,Female,Mechanical,Semi-Urban,Full-Time,Post-Graduate,1,0,2.0,85.0,8.46,7.49,0,75-89%,B
+STU1231,Male,Arts,Rural,Full-Time,Graduate,1,0,5.0,91.0,6.33,8.63,0,90%+,A
+STU1232,Male,Mechanical,Rural,Full-Time,Post-Graduate,1,1,3.0,74.0,8.93,6.5,0,60-74%,C
+STU1233,Male,Electronics,Urban,Full-Time,Graduate,1,1,1.0,82.0,4.57,5.75,1,75-89%,C
+STU1234,Male,Civil,Urban,Full-Time,Graduate,1,1,8.0,92.0,8.13,9.53,0,90%+,A
+STU1235,Male,Computer Science,Semi-Urban,Part-Time,Graduate,0,1,7.0,70.0,6.97,5.9,0,60-74%,C
+STU1236,Male,Computer Science,Rural,Full-Time,Graduate,1,0,6.0,77.0,7.05,5.47,0,75-89%,D
+STU1237,Male,Arts,Urban,Full-Time,Graduate,1,0,7.0,88.0,6.78,8.67,0,75-89%,A
+STU1238,Female,Electronics,Urban,Part-Time,Graduate,1,0,6.0,87.0,9.77,9.42,0,75-89%,A
+STU1239,Female,Business,Urban,Full-Time,High School,0,0,8.0,99.0,6.59,6.65,0,90%+,C
+STU1240,Female,Arts,Rural,Full-Time,None,1,1,3.0,57.0,5.64,5.64,0,<60%,C
+STU1241,Male,Computer Science,Rural,Part-Time,Graduate,1,0,1.0,78.0,8.3,6.17,0,75-89%,C
+STU1242,Male,Civil,Rural,Part-Time,Graduate,1,0,5.0,57.0,6.68,6.56,0,<60%,C
+STU1243,Female,Computer Science,Urban,Full-Time,Graduate,0,0,5.0,47.0,7.05,5.15,1,<60%,D
+STU1244,Female,Mechanical,Semi-Urban,Full-Time,Graduate,1,0,5.0,84.0,9.18,6.62,0,75-89%,C
+STU1245,Male,Arts,Urban,Full-Time,Graduate,1,1,1.0,45.0,6.71,4.66,1,<60%,D
+STU1246,Male,Arts,Rural,Full-Time,Graduate,1,0,3.0,48.0,8.91,6.24,1,<60%,C
+STU1247,Male,Business,Urban,Full-Time,Post-Graduate,1,1,3.0,85.0,7.16,6.22,0,75-89%,C
+STU1248,Male,Arts,Rural,Full-Time,High School,1,0,9.0,48.0,8.63,8.62,0,<60%,A
+STU1249,Female,Business,Semi-Urban,Full-Time,Post-Graduate,1,1,7.0,63.0,7.49,8.41,0,60-74%,B
+STU1250,Male,Mechanical,Urban,Full-Time,High School,0,1,9.0,75.0,6.84,7.0,0,75-89%,C
+STU1251,Male,Electronics,Semi-Urban,Part-Time,None,1,0,1.0,95.0,7.33,6.42,0,90%+,C
+STU1252,Female,Computer Science,Semi-Urban,Part-Time,Graduate,0,1,3.0,94.0,9.1,5.69,0,90%+,C
+STU1253,Male,Computer Science,Semi-Urban,Full-Time,Post-Graduate,1,0,8.0,51.0,5.36,5.87,1,<60%,C
+STU1254,Female,Mechanical,Urban,Full-Time,Graduate,1,0,3.0,91.0,5.85,6.42,0,90%+,C
+STU1255,Female,Mechanical,Rural,Full-Time,None,1,1,3.0,44.0,8.29,6.55,1,<60%,C
+STU1256,Female,Arts,Rural,Full-Time,High School,1,0,4.0,89.0,4.74,7.63,0,75-89%,B
+STU1257,Male,Computer Science,Urban,Full-Time,None,1,1,5.0,90.0,7.11,10.0,0,90%+,A
+STU1258,Female,Arts,Urban,Part-Time,Post-Graduate,1,0,4.0,60.0,5.86,6.23,0,60-74%,C
+STU1259,Female,Business,Rural,Full-Time,Graduate,1,0,1.0,63.0,6.51,4.61,1,60-74%,D
+STU1260,Male,Mechanical,Urban,Full-Time,Post-Graduate,1,0,4.0,77.0,4.09,5.57,0,75-89%,C
+STU1261,Female,Computer Science,Rural,Full-Time,Graduate,0,0,7.0,96.0,7.05,9.12,0,90%+,A
+STU1262,Female,Electronics,Urban,Full-Time,Graduate,1,1,8.0,92.0,7.09,8.72,0,90%+,A
+STU1263,Male,Arts,Urban,Part-Time,Graduate,0,0,8.0,93.0,5.22,6.97,0,90%+,C
+STU1264,Male,Mechanical,Urban,Full-Time,Graduate,1,0,9.0,69.0,6.37,8.1,0,60-74%,B
+STU1265,Female,Civil,Urban,Full-Time,Graduate,0,0,7.0,65.0,7.53,8.25,0,60-74%,B
+STU1266,Female,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,2.0,75.0,5.16,5.45,1,75-89%,D
+STU1267,Female,Business,Urban,Full-Time,Graduate,1,0,8.0,88.0,5.36,6.18,0,75-89%,C
+STU1268,Male,Arts,Urban,Full-Time,High School,1,0,2.0,67.0,7.96,7.66,1,60-74%,B
+STU1269,Male,Computer Science,Urban,Full-Time,Graduate,0,0,1.0,66.0,6.61,5.38,0,60-74%,D
+STU1270,Female,Computer Science,Urban,Part-Time,Post-Graduate,1,1,5.0,59.0,5.36,6.25,1,<60%,C
+STU1271,Female,Computer Science,Urban,Full-Time,Graduate,0,0,7.0,61.0,8.27,6.97,0,60-74%,C
+STU1272,Male,Business,Rural,Full-Time,Graduate,1,0,5.0,91.0,7.25,7.92,0,90%+,B
+STU1273,Female,Arts,Urban,Full-Time,High School,0,1,5.0,73.0,7.34,6.13,0,60-74%,C
+STU1274,Female,Computer Science,Urban,Full-Time,Graduate,0,1,3.0,51.0,5.11,4.88,1,<60%,D
+STU1275,Female,Electronics,Urban,Full-Time,Post-Graduate,0,0,3.0,53.0,5.13,3.98,1,<60%,F
+STU1276,Male,Arts,Urban,Full-Time,High School,0,0,2.0,82.0,8.92,6.48,1,75-89%,C
+STU1277,Female,Electronics,Semi-Urban,Full-Time,Graduate,1,1,8.0,73.0,7.6,8.55,0,60-74%,A
+STU1278,Male,Arts,Semi-Urban,Full-Time,Post-Graduate,0,0,3.0,69.0,9.04,7.31,0,60-74%,B
+STU1279,Male,Arts,Semi-Urban,Full-Time,Post-Graduate,1,1,3.0,74.0,9.01,6.72,0,60-74%,C
+STU1280,Female,Mechanical,Semi-Urban,Full-Time,Graduate,1,1,9.0,72.0,6.6,7.79,0,60-74%,B
+STU1281,Male,Computer Science,Urban,Full-Time,High School,1,1,2.0,54.0,4.01,3.4,1,<60%,F
+STU1282,Female,Business,Semi-Urban,Part-Time,Post-Graduate,1,0,6.0,50.0,8.09,5.94,1,<60%,C
+STU1283,Female,Electronics,Semi-Urban,Full-Time,Post-Graduate,0,0,6.0,86.0,4.16,6.78,0,75-89%,C
+STU1284,Female,Civil,Urban,Full-Time,High School,1,0,5.0,70.0,4.83,3.52,1,60-74%,F
+STU1285,Female,Computer Science,Urban,Full-Time,High School,1,1,3.0,96.0,4.45,4.72,1,90%+,D
+STU1286,Female,Business,Urban,Full-Time,Graduate,1,1,5.0,63.0,7.03,6.52,0,60-74%,C
+STU1287,Male,Computer Science,Urban,Full-Time,Graduate,0,1,4.0,68.0,6.98,6.82,0,60-74%,C
+STU1288,Female,Electronics,Rural,Full-Time,Graduate,0,0,1.0,97.0,9.48,6.98,0,90%+,C
+STU1289,Female,Mechanical,Rural,Full-Time,High School,0,1,1.0,95.0,4.26,5.08,0,90%+,D
+STU1290,Female,Computer Science,Urban,Part-Time,Graduate,1,1,3.0,87.0,8.8,7.17,0,75-89%,B
+STU1291,Female,Electronics,Semi-Urban,Part-Time,High School,1,1,2.0,44.0,8.02,5.86,1,<60%,C
+STU1292,Female,Civil,Semi-Urban,Part-Time,Graduate,1,0,4.0,94.0,5.3,5.82,0,90%+,C
+STU1293,Female,Civil,Urban,Full-Time,High School,1,0,3.0,87.0,5.67,6.06,0,75-89%,C
+STU1294,Female,Mechanical,Urban,Full-Time,None,1,1,1.0,71.0,9.5,6.15,1,60-74%,C
+STU1295,Male,Computer Science,Urban,Full-Time,High School,1,0,9.0,52.0,8.63,6.63,1,<60%,C
+STU1296,Male,Arts,Semi-Urban,Full-Time,High School,1,0,9.0,98.0,6.78,8.33,0,90%+,B
+STU1297,Female,Electronics,Semi-Urban,Full-Time,Graduate,1,1,9.0,80.0,5.36,8.43,0,75-89%,B
+STU1298,Male,Civil,Urban,Full-Time,Post-Graduate,0,0,6.0,77.0,5.82,6.35,0,75-89%,C
+STU1299,Female,Computer Science,Urban,Full-Time,Post-Graduate,1,0,3.0,78.0,7.1,6.01,0,75-89%,C
+STU1300,Male,Arts,Urban,Full-Time,None,1,0,2.0,75.0,6.32,7.13,0,75-89%,B
+STU1301,Male,Mechanical,Semi-Urban,Part-Time,High School,1,0,9.0,68.0,4.69,6.45,0,60-74%,C
+STU1302,Female,Computer Science,Urban,Part-Time,Post-Graduate,1,0,1.0,65.0,8.85,5.28,0,60-74%,D
+STU1303,Male,Arts,Urban,Full-Time,Graduate,0,0,5.0,64.0,8.09,6.87,0,60-74%,C
+STU1304,Male,Computer Science,Semi-Urban,Full-Time,None,1,1,7.0,92.0,6.38,7.3,0,90%+,B
+STU1305,Female,Computer Science,Rural,Part-Time,None,0,0,3.0,83.0,6.83,5.15,0,75-89%,D
+STU1306,Male,Mechanical,Semi-Urban,Full-Time,High School,1,0,4.0,86.0,7.93,8.09,0,75-89%,B
+STU1307,Male,Business,Urban,Full-Time,High School,1,0,1.0,78.0,6.94,5.73,1,75-89%,C
+STU1308,Female,Mechanical,Urban,Full-Time,High School,1,0,3.0,57.0,4.67,6.14,1,<60%,C
+STU1309,Female,Electronics,Urban,Full-Time,High School,1,0,9.0,81.0,5.23,7.3,0,75-89%,B
+STU1310,Female,Civil,Semi-Urban,Full-Time,Graduate,1,0,4.0,70.0,9.82,8.81,0,60-74%,A
+STU1311,Female,Computer Science,Rural,Full-Time,High School,1,0,9.0,54.0,8.33,7.53,1,<60%,B
+STU1312,Male,Civil,Urban,Full-Time,High School,0,0,4.0,47.0,5.36,3.8,1,<60%,F
+STU1313,Female,Civil,Urban,Part-Time,None,1,0,5.0,48.0,5.29,5.49,1,<60%,D
+STU1314,Male,Business,Urban,Full-Time,Graduate,1,1,5.0,44.0,8.62,5.82,1,<60%,C
+STU1315,Female,Business,Rural,Full-Time,Post-Graduate,1,0,9.0,83.0,5.85,9.03,0,75-89%,A
+STU1316,Male,Computer Science,Urban,Full-Time,Graduate,1,1,4.0,81.0,8.02,6.14,0,75-89%,C
+STU1317,Female,Arts,Semi-Urban,Full-Time,Graduate,1,1,2.0,61.0,5.37,5.2,0,60-74%,D
+STU1318,Male,Business,Rural,Full-Time,Post-Graduate,0,1,6.0,86.0,4.79,6.21,0,75-89%,C
+STU1319,Male,Arts,Rural,Full-Time,Graduate,0,1,9.0,90.0,7.68,7.05,0,90%+,B
+STU1320,Male,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,5.0,83.0,7.05,8.29,0,75-89%,B
+STU1321,Male,Computer Science,Urban,Full-Time,Graduate,1,0,6.0,67.0,4.85,7.61,0,60-74%,B
+STU1322,Female,Business,Urban,Part-Time,High School,1,1,8.0,47.0,5.98,6.29,1,<60%,C
+STU1323,Female,Arts,Urban,Full-Time,Graduate,1,0,5.0,64.0,9.94,6.99,0,60-74%,C
+STU1324,Female,Mechanical,Urban,Full-Time,Graduate,1,1,4.0,71.0,7.56,7.89,0,60-74%,B
+STU1325,Male,Mechanical,Rural,Part-Time,Graduate,1,0,3.0,79.0,7.19,6.89,0,75-89%,C
+STU1326,Male,Computer Science,Urban,Full-Time,Post-Graduate,0,0,6.0,82.0,6.31,7.38,0,75-89%,B
+STU1327,Male,Arts,Rural,Part-Time,Graduate,1,0,5.0,62.0,8.55,7.75,0,60-74%,B
+STU1328,Male,Electronics,Semi-Urban,Full-Time,Graduate,1,0,8.0,51.0,7.2,6.48,1,<60%,C
+STU1329,Male,Business,Urban,Full-Time,Graduate,1,0,1.0,91.0,9.22,6.2,1,90%+,C
+STU1330,Female,Electronics,Urban,Full-Time,Graduate,0,0,5.0,76.0,5.89,8.28,0,75-89%,B
+STU1331,Male,Computer Science,Urban,Full-Time,High School,1,1,8.0,84.0,6.54,7.34,0,75-89%,B
+STU1332,Female,Civil,Semi-Urban,Full-Time,High School,1,1,5.0,81.0,8.6,7.28,0,75-89%,B
+STU1333,Female,Civil,Semi-Urban,Full-Time,Post-Graduate,1,0,8.0,98.0,7.05,6.99,0,90%+,C
+STU1334,Male,Electronics,Urban,Full-Time,Post-Graduate,1,0,7.0,70.0,8.03,6.87,1,60-74%,C
+STU1335,Female,Business,Rural,Full-Time,Graduate,1,1,1.0,48.0,6.28,5.05,1,<60%,D
+STU1336,Female,Business,Urban,Full-Time,Graduate,1,0,4.0,46.0,5.75,7.1,1,<60%,B
+STU1337,Female,Mechanical,Rural,Full-Time,Post-Graduate,1,0,5.0,98.0,8.18,7.86,0,90%+,B
+STU1338,Female,Civil,Urban,Part-Time,Graduate,1,0,3.0,47.0,7.69,5.97,1,<60%,C
+STU1339,Male,Electronics,Urban,Full-Time,High School,1,0,1.0,44.0,9.17,6.95,1,<60%,C
+STU1340,Female,Civil,Semi-Urban,Part-Time,Graduate,1,0,3.0,78.0,5.89,5.98,0,75-89%,C
+STU1341,Female,Civil,Semi-Urban,Full-Time,Graduate,1,0,7.0,70.0,6.45,9.04,0,60-74%,A
+STU1342,Female,Arts,Rural,Part-Time,High School,1,1,2.0,58.0,9.87,6.77,1,<60%,C
+STU1343,Female,Mechanical,Semi-Urban,Full-Time,Graduate,1,1,5.0,65.0,4.7,6.16,0,60-74%,C
+STU1344,Female,Computer Science,Urban,Full-Time,High School,1,0,2.0,40.0,6.29,4.32,1,<60%,D
+STU1345,Male,Arts,Semi-Urban,Full-Time,Graduate,0,0,6.0,93.0,5.92,4.86,0,90%+,D
+STU1346,Female,Electronics,Urban,Full-Time,High School,1,0,8.0,70.0,6.26,7.2,1,60-74%,B
+STU1347,Female,Computer Science,Urban,Part-Time,Graduate,1,0,6.0,84.0,7.27,6.63,0,75-89%,C
+STU1348,Male,Computer Science,Semi-Urban,Full-Time,High School,0,0,2.0,58.0,6.77,5.63,1,<60%,C
+STU1349,Female,Business,Semi-Urban,Full-Time,None,1,0,4.0,96.0,9.13,7.75,0,90%+,B
+STU1350,Male,Mechanical,Semi-Urban,Full-Time,High School,1,0,4.0,98.0,8.49,7.7,0,90%+,B
+STU1351,Male,Electronics,Rural,Full-Time,Graduate,0,0,1.0,49.0,6.18,3.14,1,<60%,F
+STU1352,Female,Civil,Rural,Full-Time,High School,0,1,7.0,71.0,7.64,7.46,0,60-74%,B
+STU1353,Female,Computer Science,Rural,Full-Time,High School,1,0,4.0,53.0,5.75,4.4,1,<60%,D
+STU1354,Male,Electronics,Urban,Full-Time,High School,1,1,6.0,69.0,6.08,6.93,0,60-74%,C
+STU1355,Female,Business,Rural,Full-Time,High School,0,0,2.0,60.0,9.82,6.8,0,60-74%,C
+STU1356,Female,Electronics,Rural,Part-Time,High School,1,1,1.0,58.0,6.01,4.78,1,<60%,D
+STU1357,Male,Arts,Semi-Urban,Part-Time,Post-Graduate,1,0,3.0,61.0,5.37,6.65,0,60-74%,C
+STU1358,Female,Arts,Urban,Full-Time,Graduate,1,1,4.0,73.0,4.0,5.26,0,60-74%,D
+STU1359,Female,Electronics,Semi-Urban,Full-Time,Graduate,1,1,3.0,40.0,6.95,5.64,1,<60%,C
+STU1360,Male,Business,Semi-Urban,Full-Time,Graduate,1,1,8.0,44.0,5.85,5.25,0,<60%,D
+STU1361,Female,Mechanical,Urban,Full-Time,Graduate,1,1,8.0,80.0,6.37,7.0,0,75-89%,C
+STU1362,Female,Arts,Urban,Part-Time,None,1,0,8.0,62.0,8.95,9.65,0,60-74%,A
+STU1363,Female,Arts,Urban,Full-Time,High School,1,1,1.0,55.0,7.05,4.78,1,<60%,D
+STU1364,Male,Arts,Urban,Full-Time,High School,1,0,8.0,77.0,7.61,9.28,0,75-89%,A
+STU1365,Female,Electronics,Urban,Full-Time,Post-Graduate,1,1,5.0,86.0,9.6,8.16,0,75-89%,B
+STU1366,Male,Civil,Urban,Full-Time,High School,1,0,9.0,70.0,10.0,8.61,0,60-74%,A
+STU1367,Female,Civil,Urban,Full-Time,Graduate,0,1,5.0,77.0,7.26,6.54,0,75-89%,C
+STU1368,Female,Computer Science,Urban,Full-Time,Graduate,1,0,7.0,57.0,4.04,6.2,0,<60%,C
+STU1369,Male,Arts,Rural,Full-Time,Graduate,1,0,9.0,45.0,5.88,7.2,1,<60%,B
+STU1370,Female,Civil,Rural,Full-Time,Graduate,1,0,8.0,52.0,8.77,8.66,1,<60%,A
+STU1371,Male,Business,Rural,Full-Time,High School,1,1,7.0,82.0,6.08,7.68,0,75-89%,B
+STU1372,Male,Civil,Urban,Full-Time,Graduate,0,0,7.0,60.0,9.61,6.74,0,60-74%,C
+STU1373,Male,Civil,Urban,Full-Time,None,0,0,4.0,72.0,5.19,4.42,0,60-74%,D
+STU1374,Female,Computer Science,Rural,Full-Time,Graduate,1,1,7.0,77.0,5.47,7.5,0,75-89%,B
+STU1375,Male,Business,Rural,Full-Time,Post-Graduate,1,1,1.0,80.0,4.04,5.1,0,75-89%,D
+STU1376,Female,Civil,Semi-Urban,Full-Time,High School,0,1,7.0,73.0,8.18,7.83,0,60-74%,B
+STU1377,Male,Mechanical,Semi-Urban,Full-Time,Graduate,1,0,2.0,79.0,9.3,6.34,0,75-89%,C
+STU1378,Male,Electronics,Urban,Full-Time,Post-Graduate,1,0,1.0,50.0,9.89,8.82,1,<60%,A
+STU1379,Male,Business,Rural,Full-Time,High School,1,0,1.0,93.0,4.66,6.09,0,90%+,C
+STU1380,Female,Business,Semi-Urban,Full-Time,High School,1,0,3.0,54.0,4.29,3.83,1,<60%,F
+STU1381,Male,Arts,Urban,Full-Time,High School,1,1,8.0,40.0,6.73,6.02,0,<60%,C
+STU1382,Male,Business,Urban,Full-Time,Post-Graduate,0,0,1.0,77.0,7.78,4.92,1,75-89%,D
+STU1383,Female,Mechanical,Urban,Full-Time,None,0,1,3.0,87.0,5.9,5.72,0,75-89%,C
+STU1384,Male,Business,Urban,Part-Time,High School,1,0,4.0,46.0,9.12,5.84,1,<60%,C
+STU1385,Female,Arts,Semi-Urban,Full-Time,Graduate,1,0,6.0,87.0,5.35,7.29,0,75-89%,B
+STU1386,Male,Arts,Semi-Urban,Full-Time,Graduate,1,0,8.0,77.0,5.8,7.27,0,75-89%,B
+STU1387,Male,Arts,Rural,Full-Time,Graduate,1,1,7.0,84.0,5.78,7.11,0,75-89%,B
+STU1388,Female,Arts,Urban,Full-Time,Graduate,1,1,5.0,99.0,9.14,8.3,0,90%+,B
+STU1389,Female,Computer Science,Semi-Urban,Part-Time,Graduate,0,0,1.0,98.0,7.49,5.82,0,90%+,C
+STU1390,Male,Electronics,Rural,Full-Time,Post-Graduate,0,0,9.0,70.0,4.85,7.56,0,60-74%,B
+STU1391,Male,Civil,Urban,Full-Time,Post-Graduate,0,1,8.0,70.0,8.27,6.89,1,60-74%,C
+STU1392,Male,Civil,Urban,Full-Time,Graduate,1,0,5.0,97.0,6.28,8.65,0,90%+,A
+STU1393,Female,Civil,Rural,Part-Time,High School,1,1,3.0,87.0,4.84,6.24,0,75-89%,C
+STU1394,Male,Electronics,Urban,Part-Time,Post-Graduate,1,0,6.0,97.0,7.6,9.23,0,90%+,A
+STU1395,Male,Electronics,Rural,Part-Time,High School,1,1,9.0,69.0,6.55,7.18,0,60-74%,B
+STU1396,Female,Electronics,Semi-Urban,Full-Time,Graduate,1,0,5.0,95.0,5.72,6.06,0,90%+,C
+STU1397,Female,Arts,Semi-Urban,Full-Time,Graduate,1,0,3.0,84.0,9.42,6.49,0,75-89%,C
+STU1398,Female,Mechanical,Semi-Urban,Full-Time,Graduate,0,1,3.0,93.0,8.75,6.04,0,90%+,C
+STU1399,Female,Civil,Rural,Full-Time,High School,1,0,9.0,93.0,7.06,8.71,0,90%+,A
+STU1400,Female,Mechanical,Rural,Full-Time,Graduate,1,0,9.0,91.0,8.65,9.82,0,90%+,A
+STU1401,Female,Arts,Semi-Urban,Full-Time,Graduate,1,1,1.0,84.0,9.59,6.08,0,75-89%,C
+STU1402,Female,Civil,Urban,Full-Time,Graduate,0,0,3.0,90.0,8.75,7.91,0,90%+,B
+STU1403,Female,Mechanical,Semi-Urban,Part-Time,Graduate,1,0,4.0,71.0,9.94,6.95,0,60-74%,C
+STU1404,Female,Computer Science,Urban,Full-Time,Graduate,1,0,6.0,46.0,6.26,7.46,1,<60%,B
+STU1405,Female,Computer Science,Urban,Full-Time,Post-Graduate,1,1,2.0,88.0,8.74,6.42,0,75-89%,C
+STU1406,Female,Business,Rural,Full-Time,Graduate,1,0,3.0,82.0,6.04,6.48,0,75-89%,C
+STU1407,Male,Electronics,Rural,Full-Time,Graduate,0,0,5.0,43.0,6.06,4.04,1,<60%,D
+STU1408,Female,Arts,Rural,Part-Time,High School,1,1,9.0,50.0,5.7,6.01,0,<60%,C
+STU1409,Male,Arts,Semi-Urban,Full-Time,High School,1,0,7.0,74.0,8.14,8.34,0,60-74%,B
+STU1410,Female,Arts,Semi-Urban,Full-Time,Graduate,1,1,5.0,47.0,5.8,4.63,1,<60%,D
+STU1411,Male,Mechanical,Urban,Full-Time,Graduate,1,0,3.0,71.0,8.74,8.42,0,60-74%,B
+STU1412,Female,Arts,Semi-Urban,Full-Time,Graduate,1,1,3.0,71.0,5.98,4.61,1,60-74%,D
+STU1413,Male,Business,Semi-Urban,Part-Time,None,0,0,9.0,44.0,8.13,7.36,1,<60%,B
+STU1414,Male,Electronics,Semi-Urban,Full-Time,High School,1,0,8.0,99.0,4.71,7.89,0,90%+,B
+STU1415,Female,Computer Science,Urban,Full-Time,High School,1,0,6.0,77.0,7.74,8.1,0,75-89%,B
+STU1416,Female,Business,Rural,Full-Time,Graduate,1,0,1.0,70.0,4.77,4.14,1,60-74%,D
+STU1417,Female,Electronics,Semi-Urban,Full-Time,High School,1,1,4.0,94.0,4.66,6.22,0,90%+,C
+STU1418,Female,Arts,Rural,Full-Time,Graduate,1,1,4.0,62.0,5.12,4.79,1,60-74%,D
+STU1419,Female,Electronics,Rural,Full-Time,Graduate,1,0,5.0,65.0,7.34,8.2,0,60-74%,B
+STU1420,Female,Business,Semi-Urban,Full-Time,Graduate,1,0,6.0,94.0,4.85,6.14,0,90%+,C
+STU1421,Male,Electronics,Semi-Urban,Full-Time,Graduate,1,0,7.0,62.0,9.47,8.08,0,60-74%,B
+STU1422,Male,Arts,Semi-Urban,Full-Time,Graduate,0,0,6.0,98.0,9.06,9.75,0,90%+,A
+STU1423,Male,Business,Rural,Full-Time,High School,1,1,1.0,61.0,8.68,4.8,1,60-74%,D
+STU1424,Male,Electronics,Rural,Full-Time,Graduate,1,0,3.0,72.0,7.49,5.79,0,60-74%,C
+STU1425,Female,Business,Urban,Part-Time,Post-Graduate,1,0,3.0,91.0,9.17,7.35,0,90%+,B
+STU1426,Female,Mechanical,Semi-Urban,Full-Time,Graduate,1,1,5.0,95.0,9.96,9.51,0,90%+,A
+STU1427,Female,Arts,Urban,Part-Time,Post-Graduate,1,1,8.0,46.0,7.05,6.61,1,<60%,C
+STU1428,Female,Electronics,Semi-Urban,Full-Time,Post-Graduate,1,0,6.0,90.0,9.03,9.83,0,90%+,A
+STU1429,Female,Mechanical,Semi-Urban,Full-Time,High School,0,1,8.0,89.0,6.96,7.11,0,75-89%,B
+STU1430,Male,Computer Science,Urban,Full-Time,Graduate,0,0,4.0,55.0,9.91,6.71,1,<60%,C
+STU1431,Male,Arts,Rural,Full-Time,High School,1,1,5.0,69.0,8.55,6.21,0,60-74%,C
+STU1432,Male,Arts,Semi-Urban,Full-Time,Graduate,1,0,1.0,48.0,7.65,5.15,1,<60%,D
+STU1433,Male,Arts,Rural,Full-Time,High School,1,0,1.0,67.0,9.77,7.0,0,60-74%,C
+STU1434,Female,Arts,Urban,Part-Time,Graduate,1,1,4.0,59.0,9.6,7.12,1,<60%,B
+STU1435,Female,Civil,Rural,Full-Time,Graduate,1,1,3.0,70.0,8.41,4.77,0,60-74%,D
+STU1436,Female,Electronics,Semi-Urban,Full-Time,Graduate,1,1,9.0,97.0,7.28,8.6,0,90%+,A
+STU1437,Female,Computer Science,Semi-Urban,Full-Time,Graduate,1,0,3.0,72.0,8.05,7.13,0,60-74%,B
+STU1438,Female,Arts,Urban,Full-Time,Graduate,1,1,4.0,88.0,5.45,5.47,0,75-89%,D
+STU1439,Female,Electronics,Rural,Part-Time,None,1,0,8.0,50.0,5.25,6.4,0,<60%,C
+STU1440,Female,Mechanical,Rural,Full-Time,Graduate,1,0,7.0,82.0,4.5,7.1,0,75-89%,B
+STU1441,Female,Business,Urban,Full-Time,High School,0,1,5.0,94.0,8.83,7.34,0,90%+,B
+STU1442,Male,Business,Semi-Urban,Full-Time,Graduate,1,1,5.0,54.0,6.27,5.79,0,<60%,C
+STU1443,Female,Electronics,Urban,Full-Time,Post-Graduate,1,1,5.0,54.0,6.66,5.8,1,<60%,C
+STU1444,Female,Electronics,Urban,Full-Time,Post-Graduate,0,1,4.0,72.0,7.98,6.74,0,60-74%,C
+STU1445,Female,Electronics,Rural,Full-Time,High School,1,1,6.0,51.0,4.21,4.15,1,<60%,D
+STU1446,Male,Mechanical,Urban,Full-Time,Graduate,1,0,6.0,43.0,4.7,4.72,1,<60%,D
+STU1447,Female,Civil,Urban,Part-Time,Graduate,1,0,4.0,53.0,9.52,6.99,1,<60%,C
+STU1448,Female,Computer Science,Rural,Full-Time,Post-Graduate,1,1,5.0,85.0,7.64,7.11,0,75-89%,B
+STU1449,Male,Mechanical,Rural,Full-Time,Post-Graduate,1,0,5.0,70.0,4.26,4.03,1,60-74%,D
+STU1450,Female,Electronics,Semi-Urban,Part-Time,Graduate,1,0,5.0,42.0,7.28,5.95,1,<60%,C
+STU1451,Female,Electronics,Semi-Urban,Full-Time,Post-Graduate,1,0,1.0,68.0,7.05,5.52,1,60-74%,C
+STU1452,Female,Business,Urban,Full-Time,Graduate,0,0,7.0,76.0,5.54,6.56,0,75-89%,C
+STU1453,Male,Computer Science,Semi-Urban,Full-Time,High School,1,1,2.0,81.0,8.61,8.07,1,75-89%,B
+STU1454,Male,Electronics,Rural,Full-Time,Post-Graduate,1,1,1.0,41.0,8.6,6.01,1,<60%,C
+STU1455,Male,Computer Science,Urban,Part-Time,Graduate,1,0,2.0,40.0,7.06,5.11,1,<60%,D
+STU1456,Male,Civil,Urban,Full-Time,High School,1,1,4.0,47.0,9.99,7.05,1,<60%,B
+STU1457,Male,Arts,Urban,Full-Time,High School,1,0,2.0,46.0,7.05,5.27,1,<60%,D
+STU1458,Female,Mechanical,Urban,Full-Time,High School,1,1,5.0,56.0,7.19,6.33,0,<60%,C
+STU1459,Female,Business,Urban,Full-Time,Graduate,1,1,4.0,55.0,7.05,4.65,1,<60%,D
+STU1460,Male,Electronics,Urban,Full-Time,Graduate,0,1,6.0,71.0,5.06,4.84,0,60-74%,D
+STU1461,Male,Arts,Semi-Urban,Full-Time,Post-Graduate,0,0,8.0,58.0,4.51,4.78,1,<60%,D
+STU1462,Female,Arts,Semi-Urban,Full-Time,High School,0,1,4.0,76.0,7.75,8.47,0,75-89%,B
+STU1463,Male,Computer Science,Semi-Urban,Full-Time,High School,0,1,2.0,89.0,7.63,4.15,1,75-89%,D
+STU1464,Male,Mechanical,Rural,Full-Time,Graduate,1,0,4.0,72.0,7.26,6.61,0,60-74%,C
+STU1465,Male,Civil,Semi-Urban,Part-Time,Post-Graduate,1,0,2.0,85.0,8.02,6.11,0,75-89%,C
+STU1466,Male,Business,Urban,Full-Time,Graduate,1,1,5.0,64.0,4.59,6.48,0,60-74%,C
+STU1467,Female,Arts,Semi-Urban,Full-Time,Post-Graduate,0,0,1.0,42.0,7.05,3.42,1,<60%,F
+STU1468,Male,Civil,Rural,Part-Time,High School,1,0,6.0,83.0,4.58,7.85,0,75-89%,B
+STU1469,Female,Computer Science,Urban,Full-Time,Graduate,1,1,9.0,76.0,7.64,6.45,0,75-89%,C
+STU1470,Male,Electronics,Semi-Urban,Full-Time,Graduate,1,0,6.0,75.0,6.6,7.53,0,75-89%,B
+STU1471,Male,Civil,Urban,Part-Time,Graduate,0,1,8.0,96.0,9.11,8.11,0,90%+,B
+STU1472,Male,Computer Science,Rural,Full-Time,Graduate,1,0,7.0,80.0,8.17,8.19,0,75-89%,B
+STU1473,Female,Arts,Urban,Full-Time,Graduate,1,0,1.0,67.0,6.0,4.91,1,60-74%,D
+STU1474,Male,Arts,Semi-Urban,Full-Time,High School,1,1,5.0,80.0,6.43,6.42,0,75-89%,C
+STU1475,Female,Business,Urban,Part-Time,Graduate,1,1,5.0,41.0,6.39,6.17,0,<60%,C
+STU1476,Female,Electronics,Urban,Full-Time,Post-Graduate,0,0,2.0,94.0,6.15,4.49,1,90%+,D
+STU1477,Male,Computer Science,Semi-Urban,Part-Time,High School,0,0,5.0,58.0,5.34,4.6,1,<60%,D
+STU1478,Female,Mechanical,Semi-Urban,Full-Time,High School,1,0,9.0,50.0,7.17,6.35,1,<60%,C
+STU1479,Female,Electronics,Urban,Full-Time,Graduate,1,0,7.0,87.0,5.39,7.59,0,75-89%,B
+STU1480,Male,Computer Science,Urban,Part-Time,High School,1,0,5.0,42.0,8.1,7.72,0,<60%,B
+STU1481,Female,Arts,Urban,Full-Time,Graduate,1,0,4.0,48.0,4.04,3.18,1,<60%,F
+STU1482,Female,Civil,Semi-Urban,Part-Time,Graduate,0,1,7.0,88.0,9.73,8.79,0,75-89%,A
+STU1483,Male,Mechanical,Urban,Full-Time,High School,1,1,3.0,81.0,7.88,6.52,0,75-89%,C
+STU1484,Male,Mechanical,Urban,Full-Time,Graduate,1,1,4.0,42.0,6.1,5.63,0,<60%,C
+STU1485,Male,Mechanical,Urban,Full-Time,Graduate,1,0,8.0,78.0,6.08,6.97,0,75-89%,C
+STU1486,Female,Arts,Semi-Urban,Full-Time,Post-Graduate,0,0,9.0,92.0,9.86,9.52,0,90%+,A
+STU1487,Female,Electronics,Rural,Part-Time,Graduate,1,0,8.0,91.0,9.69,9.84,0,90%+,A
+STU1488,Male,Electronics,Rural,Full-Time,Post-Graduate,1,0,8.0,43.0,8.59,8.6,1,<60%,A
+STU1489,Male,Arts,Urban,Part-Time,Graduate,1,0,5.0,98.0,4.45,7.71,0,90%+,B
+STU1490,Female,Civil,Semi-Urban,Full-Time,High School,1,0,3.0,47.0,4.85,5.18,1,<60%,D
+STU1491,Male,Business,Urban,Full-Time,Graduate,0,1,3.0,43.0,4.74,3.19,1,<60%,F
+STU1492,Female,Civil,Rural,Full-Time,High School,1,1,3.0,98.0,6.13,5.83,0,90%+,C
+STU1493,Female,Business,Urban,Full-Time,High School,1,0,8.0,94.0,4.17,7.19,0,90%+,B
+STU1494,Female,Business,Urban,Full-Time,High School,1,0,3.0,71.0,7.74,7.23,0,60-74%,B
+STU1495,Male,Business,Urban,Full-Time,High School,1,0,6.0,74.0,8.86,7.45,0,60-74%,B
+STU1496,Male,Arts,Rural,Full-Time,High School,1,0,3.0,45.0,6.57,5.34,1,<60%,D
+STU1497,Female,Arts,Urban,Full-Time,Graduate,0,0,4.0,76.0,6.35,5.53,0,75-89%,C
+STU1498,Male,Business,Urban,Full-Time,High School,1,1,4.0,98.0,5.74,5.86,0,90%+,C
+STU1499,Female,Computer Science,Rural,Full-Time,High School,0,0,1.0,70.0,4.81,4.79,1,60-74%,D
+STU1500,Male,Mechanical,Rural,Full-Time,Graduate,1,0,9.0,95.0,8.08,10.0,0,90%+,A
